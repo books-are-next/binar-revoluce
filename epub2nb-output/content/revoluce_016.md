@@ -1,9 +1,7 @@
 ---
-title: ''
+title: IX
 contentType: prose
 ---
-
-IX
 
   
 

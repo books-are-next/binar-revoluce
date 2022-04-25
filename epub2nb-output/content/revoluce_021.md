@@ -1,9 +1,7 @@
 ---
-title: ''
+title: III
 contentType: prose
 ---
-
-III
 
   
 

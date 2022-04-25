@@ -1,6 +1,8 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Revoluce!",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ivan Binar",
@@ -8,7 +10,7 @@
       "modified": "2022-03-11T00:00:00.000Z"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
@@ -30,6 +32,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "revoluce_001.md",
@@ -384,55 +387,55 @@
         "xhtml": "revoluce_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "revoluce_008.md",
         "xhtml": "revoluce_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "revoluce_009.md",
         "xhtml": "revoluce_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "revoluce_010.md",
         "xhtml": "revoluce_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV",
         "subtitleSuggest": "",
         "filename": "revoluce_011.md",
         "xhtml": "revoluce_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V",
         "subtitleSuggest": "",
         "filename": "revoluce_012.md",
         "xhtml": "revoluce_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI",
         "subtitleSuggest": "",
         "filename": "revoluce_013.md",
         "xhtml": "revoluce_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII",
         "subtitleSuggest": "",
         "filename": "revoluce_014.md",
         "xhtml": "revoluce_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII",
         "subtitleSuggest": "",
         "filename": "revoluce_015.md",
         "xhtml": "revoluce_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX",
         "subtitleSuggest": "",
         "filename": "revoluce_016.md",
         "xhtml": "revoluce_016.xhtml"
@@ -450,43 +453,43 @@
         "xhtml": "revoluce_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "revoluce_019.md",
         "xhtml": "revoluce_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "revoluce_020.md",
         "xhtml": "revoluce_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "revoluce_021.md",
         "xhtml": "revoluce_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV",
         "subtitleSuggest": "",
         "filename": "revoluce_022.md",
         "xhtml": "revoluce_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V",
         "subtitleSuggest": "",
         "filename": "revoluce_023.md",
         "xhtml": "revoluce_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI",
         "subtitleSuggest": "",
         "filename": "revoluce_024.md",
         "xhtml": "revoluce_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII",
         "subtitleSuggest": "",
         "filename": "revoluce_025.md",
         "xhtml": "revoluce_025.xhtml"
@@ -576,6 +579,6 @@
       "user": "books-are-next",
       "repo": "binar-revoluce"
     },
-    "generatedAt": 1650891730911
+    "generatedAt": 1650899125895
   }
 }
