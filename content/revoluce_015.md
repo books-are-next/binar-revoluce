@@ -1,9 +1,7 @@
 ---
-title: ''
+title: VIII
 contentType: prose
 ---
-
-VIII
 
   
 
