@@ -11,11 +11,9 @@ meta:
   author: Ivan Binar
   publisher: Městská knihovna v Praze
   modified: '2022-03-11T00:00:00.000Z'
+  isbn: 978-80-274-2205-0
 readingOrder:
-  - revoluce_001.html
   - revoluce_002.html
-  - revoluce_003.html
-  - revoluce_004.html
   - revoluce_005.html
   - revoluce_006.html
   - revoluce_007.html
@@ -38,10 +36,67 @@ readingOrder:
   - revoluce_024.html
   - revoluce_025.html
   - revoluce_026.html
-  - revoluce_027.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: revoluce_006.html
+        title: PRVNÍ ČÁST  Před
+        hiddenTitle: false
+      - link: revoluce_008.html
+        title: I
+        hiddenTitle: false
+      - link: revoluce_009.html
+        title: II
+        hiddenTitle: false
+      - link: revoluce_010.html
+        title: III
+        hiddenTitle: false
+      - link: revoluce_011.html
+        title: IV
+        hiddenTitle: false
+      - link: revoluce_012.html
+        title: V
+        hiddenTitle: false
+      - link: revoluce_013.html
+        title: VI
+        hiddenTitle: false
+      - link: revoluce_014.html
+        title: VII
+        hiddenTitle: false
+      - link: revoluce_015.html
+        title: VIII
+        hiddenTitle: false
+      - link: revoluce_016.html
+        title: IX
+        hiddenTitle: false
+      - link: revoluce_017.html
+        title: DRUHÁ ČÁST  Po
+        hiddenTitle: false
+      - link: revoluce_019.html
+        title: I
+        hiddenTitle: false
+      - link: revoluce_020.html
+        title: II
+        hiddenTitle: false
+      - link: revoluce_021.html
+        title: III
+        hiddenTitle: false
+      - link: revoluce_022.html
+        title: IV
+        hiddenTitle: false
+      - link: revoluce_023.html
+        title: V
+        hiddenTitle: false
+      - link: revoluce_024.html
+        title: VI
+        hiddenTitle: false
+      - link: revoluce_025.html
+        title: VII
+        hiddenTitle: false
+      - link: revoluce_026.html
+        title: Epilog
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:

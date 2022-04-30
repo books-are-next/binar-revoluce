@@ -37,13 +37,13 @@ Upíjela vystydlou kávu a nevnímala její chuť, její vystydlost. Pokoušela
 
 Měla by od toho utéct, dokud je čas. Odejít z věznice a už se tam nikdy neukázat. Nasednout do vlaku a odjet by měla, až kam jsou natažené koleje. Ta láska je problém. Tak obrovský problém, že na něj nemůže stačit. Nemá tolik síly, aby tak obludnou tíhu unesla. Nejdřív se musí uklidnit, vzít rozum do hrsti. Každá situace musí mít přece východisko, jenom je najít. Nebo počkat, až se to samo vyřeší. Vtom si uvědomila, jak se tahle situace sama vyřeší… Vykřikla zděšením. Ale nikdo ji neslyšel.
 
-Drahá maminko,
+_Drahá maminko,_
 
-nejprve přijmi srdečný pozdrav z vězení. Je to zvláštní, že zrovna tady, v kriminále, se mi přiházejí příhody, jaké se mi dosud nepřihodily ani v rozhlase, ani v lese, ani kdekoli jinde. Příhody osudové. Asi to bude mým vnitřním životem, pro který jsem našel v kobce příznivé podmínky. Obzvlášť nyní, když tu není Pštros.
+_nejprve přijmi srdečný pozdrav z vězení. Je to zvláštní, že zrovna tady, v kriminále, se mi přiházejí příhody, jaké se mi dosud nepřihodily ani v rozhlase, ani v lese, ani kdekoli jinde. Příhody osudové. Asi to bude mým vnitřním životem, pro který jsem našel v kobce příznivé podmínky. Obzvlášť nyní, když tu není Pštros._
 
-Mám však pocit, že dost dobře nerozlišuji, co je doopravdy a co se mi zdá. Copak mě tu můžou navštívit dvě krásné ženy, jedna za druhou? A přece se tak stalo. Lucie přišla s nočním prokurátorem, o té jsem Ti už psal, a za pár dnů další, mnohem krásnější, úplně sama. Jenže neměla moc času, musela k panu řediteli. Ani nevím, jak se jmenuje. Budu jí říkat Ráchel, třeba se tak doopravdy jmenuje. Nedá se nic dělat, ve vězení musí být kázeň, vězení není pionýrský tábor. Ráchel si vezmu za ženu a tentokrát si do toho, drahá maminko, nenechám od Tebe kecat. Už je mi třicet sedm, už mám nejvyšší čas. Kluci z průmyslovky jsou všichni ženatí a většina má děcka.
+_Mám však pocit, že dost dobře nerozlišuji, co je doopravdy a co se mi zdá. Copak mě tu můžou navštívit dvě krásné ženy, jedna za druhou? A přece se tak stalo. Lucie přišla s nočním prokurátorem, o té jsem Ti už psal, a za pár dnů další, mnohem krásnější, úplně sama. Jenže neměla moc času, musela k panu řediteli. Ani nevím, jak se jmenuje. Budu jí říkat Ráchel, třeba se tak doopravdy jmenuje. Nedá se nic dělat, ve vězení musí být kázeň, vězení není pionýrský tábor. Ráchel si vezmu za ženu a tentokrát si do toho, drahá maminko, nenechám od Tebe kecat. Už je mi třicet sedm, už mám nejvyšší čas. Kluci z průmyslovky jsou všichni ženatí a většina má děcka._
 
-Jen počkej, až Ti ji přivedu domů, žasnout budeš. Už by to nemělo dlouho trvat, vždyť na mě nic nemají. Jenom se vyřídí nějaké formality a bude.
+_Jen počkej, až Ti ji přivedu domů, žasnout budeš. Už by to nemělo dlouho trvat, vždyť na mě nic nemají. Jenom se vyřídí nějaké formality a bude._
 
 _Mnoho pozdravů a přání všeho dobrého  
 Ti z vězení posílá Tvůj syn  
