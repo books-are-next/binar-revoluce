@@ -217,9 +217,13 @@ Vlasta zahlédla jen oblak zvířeného popela a listí. Když k němu přibě
 
 Hradní stráž stála ukázněně ve svých budkách a čekala na střídání. Lid, který se hrnul Matyášovou bránou a volal „Pryč s tyranem“, „Ať žije revoluce“, „Chceme svobodu“ a další, ani nenapadlo obávat se zákroku. Nepokládal hradní stráž za nebezpečí, nevěřil, že z těch jejích pochromovaných flint lze vystřelit. Jako by hradní stráž byli jenom vycpaní pajduláci na klíček, za jistých okolností způsobilí provést několik prostocviků a toporným krokem odkráčet a uložit se do krabice, než je zase vytáhnou a natáhnou. Jestli nejsou na baterky… Jenže hradní stráž byla živá a na vystřídání nepočkala: opřela flinty o strážní budky, zahodila čepice, strhala si šňůry a dis­tinkce z plášťů, rozepnula knoflíky a přidala se k Lidu.
 
-_Moje nejdražší maminko,_
+  
 
-_tak Ti píšu poslední dopis z vězení. Zítra už tu nebudu. K večeři byl řízek, ale nějak mi nechutnal, jediné sousto jsem nedokázal spolknout. Ani vlašský salát jsem nesnědl, ty ho umíš nejlíp. Mnohem líp, než ho dělají v hotelu Šroubek._
+> _Moje nejdražší maminko,_
+
+  
+
+> _tak Ti píšu poslední dopis z vězení. Zítra už tu nebudu. K večeři byl řízek, ale nějak mi nechutnal, jediné sousto jsem nedokázal spolknout. Ani vlašský salát jsem nesnědl, ty ho umíš nejlíp. Mnohem líp, než ho dělají v hotelu Šroubek._
 
 _Viděl jsem Tě naposledy u soudu. Škoda že jsme si nemohli ani chvilku popovídat. Domů se už nevrátím, čeká mě cesta jinam, cesta poslední. Nechce se mi, na světě je moc pěkně, dokonce i ve vězení by to ušlo, kdyby si mě tu nechali třeba kdovíjak dlouho._
 
