@@ -41,7 +41,7 @@
             "id": 0,
             "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -53,7 +53,7 @@
             "id": 1,
             "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -65,7 +65,7 @@
             "id": 2,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -77,7 +77,7 @@
             "id": 3,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -89,12 +89,12 @@
             "id": 4,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Citáty"
+            "title": "Citáty",
+            "children": []
           },
           {
             "filename": "revoluce_006.md",
@@ -113,13 +113,14 @@
             "filename": "revoluce_007.md",
             "xhtml": "revoluce_007.xhtml",
             "id": 6,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Běž, má milá…"
           },
           {
             "filename": "revoluce_008.md",
@@ -255,13 +256,14 @@
             "filename": "revoluce_018.md",
             "xhtml": "revoluce_018.xhtml",
             "id": 17,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Pak mu hlavu usekli…"
           },
           {
             "filename": "revoluce_019.md",
@@ -373,7 +375,7 @@
             "id": 26,
             "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -627,6 +629,6 @@
       "user": "books-are-next",
       "repo": "binar-revoluce"
     },
-    "generatedAt": 1651316085760
+    "generatedAt": 1651317867318
   }
 }
