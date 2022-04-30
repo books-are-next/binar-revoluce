@@ -40,6 +40,9 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: revoluce_005.html
+        title: Citáty
+        hiddenTitle: false
       - link: revoluce_006.html
         title: PRVNÍ ČÁST  Před
         hiddenTitle: false

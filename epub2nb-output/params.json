@@ -87,13 +87,14 @@
             "filename": "revoluce_005.md",
             "xhtml": "revoluce_005.xhtml",
             "id": 4,
-            "role": "break",
+            "role": "chapter",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Citáty"
           },
           {
             "filename": "revoluce_006.md",
@@ -626,6 +627,6 @@
       "user": "books-are-next",
       "repo": "binar-revoluce"
     },
-    "generatedAt": 1651309667966
+    "generatedAt": 1651316085760
   }
 }
