@@ -1,37 +1,18 @@
 {
   "author": "Ivan Binar",
   "contenttype": "prose",
-  "identifier": "binar-revoluce-29320bb",
+  "identifier": "binar-revoluce-45f8c4b",
+  "isbn": "978-80-274-2205-0",
   "languagecode": "cs",
   "modified": "2022-03-11T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Revoluce!",
-  "revision": "29320bb",
+  "revision": "45f8c4b",
   "generatedAt": {
-    "date": "Mon Apr 25 2022 15:06:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650899178707
+    "date": "Sat Apr 30 2022 08:55:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651308959716
   },
   "documents": [
-    {
-      "title": "Revoluce!",
-      "file": "revoluce_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "revoluce_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Revoluce!",
       "file": "revoluce_002.html",
@@ -39,48 +20,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "revoluce_001.html",
-      "next": "revoluce_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Revoluce!",
-      "file": "revoluce_003.html",
-      "words": 3,
-      "chars": 19,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "revoluce_002.html",
-      "next": "revoluce_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Revoluce!",
-      "file": "revoluce_004.html",
-      "words": 88,
-      "chars": 581,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "revoluce_003.html",
+      "order": 0,
+      "prev": null,
       "next": "revoluce_005.html",
       "toc": [
         {
@@ -99,8 +40,8 @@
       "chars": 560,
       "ideas": 12,
       "role": "chapter",
-      "order": 4,
-      "prev": "revoluce_004.html",
+      "order": 1,
+      "prev": "revoluce_002.html",
       "next": "revoluce_006.html",
       "toc": [
         {
@@ -119,7 +60,7 @@
       "chars": 16,
       "ideas": 1,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "revoluce_005.html",
       "next": "revoluce_007.html",
       "toc": [
@@ -139,7 +80,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "revoluce_006.html",
       "next": "revoluce_008.html",
       "toc": [
@@ -159,7 +100,7 @@
       "chars": 31123,
       "ideas": 160,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "revoluce_007.html",
       "next": "revoluce_009.html",
       "toc": [
@@ -179,7 +120,7 @@
       "chars": 25654,
       "ideas": 53,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "revoluce_008.html",
       "next": "revoluce_010.html",
       "toc": [
@@ -199,7 +140,7 @@
       "chars": 37386,
       "ideas": 153,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "revoluce_009.html",
       "next": "revoluce_011.html",
       "toc": [
@@ -219,7 +160,7 @@
       "chars": 41329,
       "ideas": 142,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "revoluce_010.html",
       "next": "revoluce_012.html",
       "toc": [
@@ -239,7 +180,7 @@
       "chars": 36655,
       "ideas": 179,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "revoluce_011.html",
       "next": "revoluce_013.html",
       "toc": [
@@ -259,7 +200,7 @@
       "chars": 33764,
       "ideas": 105,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "revoluce_012.html",
       "next": "revoluce_014.html",
       "toc": [
@@ -279,7 +220,7 @@
       "chars": 39878,
       "ideas": 164,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "revoluce_013.html",
       "next": "revoluce_015.html",
       "toc": [
@@ -299,7 +240,7 @@
       "chars": 32616,
       "ideas": 129,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "revoluce_014.html",
       "next": "revoluce_016.html",
       "toc": [
@@ -319,7 +260,7 @@
       "chars": 45935,
       "ideas": 160,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "revoluce_015.html",
       "next": "revoluce_017.html",
       "toc": [
@@ -339,7 +280,7 @@
       "chars": 14,
       "ideas": 1,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "revoluce_016.html",
       "next": "revoluce_018.html",
       "toc": [
@@ -359,7 +300,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "revoluce_017.html",
       "next": "revoluce_019.html",
       "toc": [
@@ -379,7 +320,7 @@
       "chars": 44159,
       "ideas": 151,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "revoluce_018.html",
       "next": "revoluce_020.html",
       "toc": [
@@ -399,7 +340,7 @@
       "chars": 40493,
       "ideas": 111,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "revoluce_019.html",
       "next": "revoluce_021.html",
       "toc": [
@@ -419,7 +360,7 @@
       "chars": 40932,
       "ideas": 151,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "revoluce_020.html",
       "next": "revoluce_022.html",
       "toc": [
@@ -439,7 +380,7 @@
       "chars": 43110,
       "ideas": 127,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "revoluce_021.html",
       "next": "revoluce_023.html",
       "toc": [
@@ -459,7 +400,7 @@
       "chars": 40755,
       "ideas": 204,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "revoluce_022.html",
       "next": "revoluce_024.html",
       "toc": [
@@ -479,7 +420,7 @@
       "chars": 42651,
       "ideas": 133,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "revoluce_023.html",
       "next": "revoluce_025.html",
       "toc": [
@@ -499,7 +440,7 @@
       "chars": 26248,
       "ideas": 74,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "revoluce_024.html",
       "next": "revoluce_026.html",
       "toc": [
@@ -519,9 +460,9 @@
       "chars": 1096,
       "ideas": 20,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "revoluce_025.html",
-      "next": "revoluce_027.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -533,20 +474,20 @@
       ]
     },
     {
-      "title": "Revoluce!",
-      "file": "revoluce_027.html",
-      "words": 41,
-      "chars": 263,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 26,
+      "title": "Tiráž • Revoluce!",
+      "file": "colophon.html",
+      "words": 133,
+      "chars": 868,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
       "prev": "revoluce_026.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -560,9 +501,9 @@
       "ideas": 2253
     },
     "chapters": {
-      "words": 97474,
-      "chars": 605237,
-      "ideas": 2250
+      "words": 97342,
+      "chars": 604374,
+      "ideas": 2230
     }
   }
 }

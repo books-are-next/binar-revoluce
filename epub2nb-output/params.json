@@ -7,7 +7,8 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Ivan Binar",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-11T00:00:00.000Z"
+      "modified": "2022-03-11T00:00:00.000Z",
+      "isbn": "978-80-274-2205-0"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
@@ -23,8 +24,8 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_dopis_-I-\nMLP_dopis_bez1radku_-I-",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP_tiraz_autor_a_nazev",
       "remove": "",
       "ignore": ""
     },
@@ -38,56 +39,61 @@
             "filename": "revoluce_001.md",
             "xhtml": "revoluce_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "revoluce_002.md",
             "xhtml": "revoluce_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "revoluce_003.md",
             "xhtml": "revoluce_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "revoluce_004.md",
             "xhtml": "revoluce_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "revoluce_005.md",
             "xhtml": "revoluce_005.xhtml",
             "id": 4,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "revoluce_006.md",
@@ -98,18 +104,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "PRVNÍ ČÁST  Před"
           },
           {
             "filename": "revoluce_007.md",
             "xhtml": "revoluce_007.xhtml",
             "id": 6,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "revoluce_008.md",
@@ -120,7 +129,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "I"
           },
           {
             "filename": "revoluce_009.md",
@@ -131,7 +142,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "II"
           },
           {
             "filename": "revoluce_010.md",
@@ -142,7 +155,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "III"
           },
           {
             "filename": "revoluce_011.md",
@@ -153,7 +168,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "IV"
           },
           {
             "filename": "revoluce_012.md",
@@ -164,7 +181,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "V"
           },
           {
             "filename": "revoluce_013.md",
@@ -175,7 +194,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VI"
           },
           {
             "filename": "revoluce_014.md",
@@ -186,7 +207,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VII"
           },
           {
             "filename": "revoluce_015.md",
@@ -197,7 +220,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VIII"
           },
           {
             "filename": "revoluce_016.md",
@@ -208,7 +233,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "IX"
           },
           {
             "filename": "revoluce_017.md",
@@ -219,18 +246,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "DRUHÁ ČÁST  Po"
           },
           {
             "filename": "revoluce_018.md",
             "xhtml": "revoluce_018.xhtml",
             "id": 17,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "revoluce_019.md",
@@ -241,7 +271,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "I"
           },
           {
             "filename": "revoluce_020.md",
@@ -252,7 +284,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "II"
           },
           {
             "filename": "revoluce_021.md",
@@ -263,7 +297,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "III"
           },
           {
             "filename": "revoluce_022.md",
@@ -274,7 +310,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "IV"
           },
           {
             "filename": "revoluce_023.md",
@@ -285,7 +323,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "V"
           },
           {
             "filename": "revoluce_024.md",
@@ -296,7 +336,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VI"
           },
           {
             "filename": "revoluce_025.md",
@@ -307,7 +349,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "VII"
           },
           {
             "filename": "revoluce_026.md",
@@ -318,18 +362,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Epilog"
           },
           {
             "filename": "revoluce_027.md",
             "xhtml": "revoluce_027.xhtml",
             "id": 26,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -579,6 +626,6 @@
       "user": "books-are-next",
       "repo": "binar-revoluce"
     },
-    "generatedAt": 1650899125895
+    "generatedAt": 1651308896594
   }
 }

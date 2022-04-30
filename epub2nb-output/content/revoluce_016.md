@@ -217,19 +217,19 @@ Vlasta zahlédla jen oblak zvířeného popela a listí. Když k němu přibě
 
 Hradní stráž stála ukázněně ve svých budkách a čekala na střídání. Lid, který se hrnul Matyášovou bránou a volal „Pryč s tyranem“, „Ať žije revoluce“, „Chceme svobodu“ a další, ani nenapadlo obávat se zákroku. Nepokládal hradní stráž za nebezpečí, nevěřil, že z těch jejích pochromovaných flint lze vystřelit. Jako by hradní stráž byli jenom vycpaní pajduláci na klíček, za jistých okolností způsobilí provést několik prostocviků a toporným krokem odkráčet a uložit se do krabice, než je zase vytáhnou a natáhnou. Jestli nejsou na baterky… Jenže hradní stráž byla živá a na vystřídání nepočkala: opřela flinty o strážní budky, zahodila čepice, strhala si šňůry a dis­tinkce z plášťů, rozepnula knoflíky a přidala se k Lidu.
 
-Moje nejdražší maminko,
+_Moje nejdražší maminko,_
 
-tak Ti píšu poslední dopis z vězení. Zítra už tu nebudu. K večeři byl řízek, ale nějak mi nechutnal, jediné sousto jsem nedokázal spolknout. Ani vlašský salát jsem nesnědl, ty ho umíš nejlíp. Mnohem líp, než ho dělají v hotelu Šroubek.
+_tak Ti píšu poslední dopis z vězení. Zítra už tu nebudu. K večeři byl řízek, ale nějak mi nechutnal, jediné sousto jsem nedokázal spolknout. Ani vlašský salát jsem nesnědl, ty ho umíš nejlíp. Mnohem líp, než ho dělají v hotelu Šroubek._
 
-Viděl jsem Tě naposledy u soudu. Škoda že jsme si nemohli ani chvilku popovídat. Domů se už nevrátím, čeká mě cesta jinam, cesta poslední. Nechce se mi, na světě je moc pěkně, dokonce i ve vězení by to ušlo, kdyby si mě tu nechali třeba kdovíjak dlouho.
+_Viděl jsem Tě naposledy u soudu. Škoda že jsme si nemohli ani chvilku popovídat. Domů se už nevrátím, čeká mě cesta jinam, cesta poslední. Nechce se mi, na světě je moc pěkně, dokonce i ve vězení by to ušlo, kdyby si mě tu nechali třeba kdovíjak dlouho._
 
-Teď už nic nebudu potřebovat. Všechny láhve, které jsem kdy dostal k narozeninám a žádnou nevypil, jsou v mém pokoji v šatníku na dně. Je jich přesně 25, rozmanitého obsahu. Daruj je panu Šustkovi, ten to dokáže ocenit. A šatstvo Armádě spásy nebo nějakým jiným dobrodějům, byla by to škoda vyhodit. Na barvě a materiálu rakve nesejde, to nechám na Tvém uvážení, jako členka Společnosti přátel žehu vyznáš se ve věcech funerálních líp než já. Hlavně nic drahého, vždyť to stejně shoří.
+_Teď už nic nebudu potřebovat. Všechny láhve, které jsem kdy dostal k narozeninám a žádnou nevypil, jsou v mém pokoji v šatníku na dně. Je jich přesně 25, rozmanitého obsahu. Daruj je panu Šustkovi, ten to dokáže ocenit. A šatstvo Armádě spásy nebo nějakým jiným dobrodějům, byla by to škoda vyhodit. Na barvě a materiálu rakve nesejde, to nechám na Tvém uvážení, jako členka Společnosti přátel žehu vyznáš se ve věcech funerálních líp než já. Hlavně nic drahého, vždyť to stejně shoří._
 
-Všechny tři svoje kravaty odkazuji Palu Lovečkovi, je to milý hoch a pěknou kravatu dokáže ocenit. Ať si jich užije ve zdraví. Vyřiď pozdravení všem mým kolegům z rozhlasu, ať se mají dobře. Skvěle se mi s nimi pracovalo.
+_Všechny tři svoje kravaty odkazuji Palu Lovečkovi, je to milý hoch a pěknou kravatu dokáže ocenit. Ať si jich užije ve zdraví. Vyřiď pozdravení všem mým kolegům z rozhlasu, ať se mají dobře. Skvěle se mi s nimi pracovalo._
 
-Seznámil jsem se tu s panem Dostálkem, říkají mu Mydlář. Večeřeli jsme spolu. Je to slušný člověk a řízek mu velice chutnal, byl z krkovičky. Z krkovičky prý jsou nejlepší. Řízek prý nikdy nezarmoutí, říkal pan Dostálek. Jenomže já nevím. Říkal taky, že to nebolí, že je to hned. Prý si na něj nikdo nestěžoval. Prý jsem v dobrých rukou. V těch nejlepších.
+_Seznámil jsem se tu s panem Dostálkem, říkají mu Mydlář. Večeřeli jsme spolu. Je to slušný člověk a řízek mu velice chutnal, byl z krkovičky. Z krkovičky prý jsou nejlepší. Řízek prý nikdy nezarmoutí, říkal pan Dostálek. Jenomže já nevím. Říkal taky, že to nebolí, že je to hned. Prý si na něj nikdo nestěžoval. Prý jsem v dobrých rukou. V těch nejlepších._
 
-Škoda že nevěřím v pána Boha. Kdybych věřil, věděl bych možná, co mě čeká, a jestli vůbec něco. Takhle nevím. Ale třeba se zase jednou setkáme. Jenom moc nespěchej!
+_Škoda že nevěřím v pána Boha. Kdybych věřil, věděl bych možná, co mě čeká, a jestli vůbec něco. Takhle nevím. Ale třeba se zase jednou setkáme. Jenom moc nespěchej!_
 
 _Tvůj milující syn  
 Dušan_
