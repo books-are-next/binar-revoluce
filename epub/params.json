@@ -20,11 +20,11 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text_bez1radku \nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_dopis_bez1radku_-I-",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I\nMLP_dopis_bez1radku_-I-",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_dopis_-I-\nMLP_dopis_bez1radku_-I-",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_dopis_-I-\nMLP_dopis_bez1radku_-I-\nMLP_venovani",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP_tiraz_autor_a_nazev",
       "remove": "",
       "ignore": ""
@@ -105,8 +105,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "PRVNÍ ČÁST  Před"
+            "title": "PRVNÍ ČÁST  Před",
+            "children": []
           },
           {
             "filename": "revoluce_007.md",
@@ -130,8 +130,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I"
+            "title": "I",
+            "children": []
           },
           {
             "filename": "revoluce_009.md",
@@ -143,8 +143,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II"
+            "title": "II",
+            "children": []
           },
           {
             "filename": "revoluce_010.md",
@@ -156,8 +156,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III"
+            "title": "III",
+            "children": []
           },
           {
             "filename": "revoluce_011.md",
@@ -169,8 +169,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IV"
+            "title": "IV",
+            "children": []
           },
           {
             "filename": "revoluce_012.md",
@@ -182,8 +182,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V"
+            "title": "V",
+            "children": []
           },
           {
             "filename": "revoluce_013.md",
@@ -195,8 +195,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VI"
+            "title": "VI",
+            "children": []
           },
           {
             "filename": "revoluce_014.md",
@@ -208,8 +208,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VII"
+            "title": "VII",
+            "children": []
           },
           {
             "filename": "revoluce_015.md",
@@ -221,8 +221,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VIII"
+            "title": "VIII",
+            "children": []
           },
           {
             "filename": "revoluce_016.md",
@@ -234,8 +234,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IX"
+            "title": "IX",
+            "children": []
           },
           {
             "filename": "revoluce_017.md",
@@ -247,8 +247,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "DRUHÁ ČÁST  Po"
+            "title": "DRUHÁ ČÁST  Po",
+            "children": []
           },
           {
             "filename": "revoluce_018.md",
@@ -272,8 +272,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "I"
+            "title": "I",
+            "children": []
           },
           {
             "filename": "revoluce_020.md",
@@ -285,8 +285,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "II"
+            "title": "II",
+            "children": []
           },
           {
             "filename": "revoluce_021.md",
@@ -298,8 +298,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "III"
+            "title": "III",
+            "children": []
           },
           {
             "filename": "revoluce_022.md",
@@ -311,8 +311,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "IV"
+            "title": "IV",
+            "children": []
           },
           {
             "filename": "revoluce_023.md",
@@ -324,8 +324,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V"
+            "title": "V",
+            "children": []
           },
           {
             "filename": "revoluce_024.md",
@@ -337,8 +337,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VI"
+            "title": "VI",
+            "children": []
           },
           {
             "filename": "revoluce_025.md",
@@ -350,8 +350,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "VII"
+            "title": "VII",
+            "children": []
           },
           {
             "filename": "revoluce_026.md",
@@ -363,8 +363,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Epilog"
+            "title": "Epilog",
+            "children": []
           },
           {
             "filename": "revoluce_027.md",
@@ -627,6 +627,6 @@
       "user": "books-are-next",
       "repo": "binar-revoluce"
     },
-    "generatedAt": 1650899125895
+    "generatedAt": 1651308896594
   }
 }
