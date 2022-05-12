@@ -1,21 +1,48 @@
 {
-  "author": "Ivan Binar",
-  "contenttype": "prose",
-  "identifier": "binar-revoluce-c004f6e",
-  "isbn": "978-80-274-2205-0",
-  "languagecode": "cs",
-  "modified": "2022-03-11T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Revoluce!",
-  "revision": "c004f6e",
+  "author": "Ivan Binar",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "binar-revoluce-305f969",
+  "revision": "305f969",
+  "readingOrder": [
+    "promo.html",
+    "revoluce_005.html",
+    "revoluce_006.html",
+    "revoluce_007.html",
+    "revoluce_008.html",
+    "revoluce_009.html",
+    "revoluce_010.html",
+    "revoluce_011.html",
+    "revoluce_012.html",
+    "revoluce_013.html",
+    "revoluce_014.html",
+    "revoluce_015.html",
+    "revoluce_016.html",
+    "revoluce_017.html",
+    "revoluce_018.html",
+    "revoluce_019.html",
+    "revoluce_020.html",
+    "revoluce_021.html",
+    "revoluce_022.html",
+    "revoluce_023.html",
+    "revoluce_024.html",
+    "revoluce_025.html",
+    "revoluce_026.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sat Apr 30 2022 11:25:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651317925892
+    "date": "Thu May 12 2022 10:43:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352227384
   },
   "documents": [
     {
-      "title": "Revoluce!",
-      "file": "revoluce_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +50,7 @@
       "order": 0,
       "prev": null,
       "next": "revoluce_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Revoluce!",
@@ -41,7 +60,7 @@
       "ideas": 12,
       "role": "chapter",
       "order": 1,
-      "prev": "revoluce_002.html",
+      "prev": "promo.html",
       "next": "revoluce_006.html",
       "toc": [
         {
@@ -54,7 +73,7 @@
       ]
     },
     {
-      "title": "PRVNÍ ČÁST  Před • Revoluce!",
+      "title": "PRVNÍ ČÁST  Před",
       "file": "revoluce_006.html",
       "words": 3,
       "chars": 16,
@@ -94,7 +113,7 @@
       ]
     },
     {
-      "title": "I • Revoluce!",
+      "title": "I",
       "file": "revoluce_008.html",
       "words": 5204,
       "chars": 31123,
@@ -114,7 +133,7 @@
       ]
     },
     {
-      "title": "II • Revoluce!",
+      "title": "II",
       "file": "revoluce_009.html",
       "words": 4165,
       "chars": 25654,
@@ -134,7 +153,7 @@
       ]
     },
     {
-      "title": "III • Revoluce!",
+      "title": "III",
       "file": "revoluce_010.html",
       "words": 6211,
       "chars": 37386,
@@ -154,7 +173,7 @@
       ]
     },
     {
-      "title": "IV • Revoluce!",
+      "title": "IV",
       "file": "revoluce_011.html",
       "words": 6785,
       "chars": 41329,
@@ -174,7 +193,7 @@
       ]
     },
     {
-      "title": "V • Revoluce!",
+      "title": "V",
       "file": "revoluce_012.html",
       "words": 5988,
       "chars": 36655,
@@ -194,7 +213,7 @@
       ]
     },
     {
-      "title": "VI • Revoluce!",
+      "title": "VI",
       "file": "revoluce_013.html",
       "words": 5462,
       "chars": 33764,
@@ -214,7 +233,7 @@
       ]
     },
     {
-      "title": "VII • Revoluce!",
+      "title": "VII",
       "file": "revoluce_014.html",
       "words": 6334,
       "chars": 39878,
@@ -234,7 +253,7 @@
       ]
     },
     {
-      "title": "VIII • Revoluce!",
+      "title": "VIII",
       "file": "revoluce_015.html",
       "words": 5322,
       "chars": 32616,
@@ -254,7 +273,7 @@
       ]
     },
     {
-      "title": "IX • Revoluce!",
+      "title": "IX",
       "file": "revoluce_016.html",
       "words": 7349,
       "chars": 45935,
@@ -274,7 +293,7 @@
       ]
     },
     {
-      "title": "DRUHÁ ČÁST  Po • Revoluce!",
+      "title": "DRUHÁ ČÁST  Po",
       "file": "revoluce_017.html",
       "words": 3,
       "chars": 14,
@@ -314,7 +333,7 @@
       ]
     },
     {
-      "title": "I • Revoluce!",
+      "title": "I",
       "file": "revoluce_019.html",
       "words": 7048,
       "chars": 44159,
@@ -334,7 +353,7 @@
       ]
     },
     {
-      "title": "II • Revoluce!",
+      "title": "II",
       "file": "revoluce_020.html",
       "words": 6415,
       "chars": 40493,
@@ -354,7 +373,7 @@
       ]
     },
     {
-      "title": "III • Revoluce!",
+      "title": "III",
       "file": "revoluce_021.html",
       "words": 6533,
       "chars": 40932,
@@ -374,7 +393,7 @@
       ]
     },
     {
-      "title": "IV • Revoluce!",
+      "title": "IV",
       "file": "revoluce_022.html",
       "words": 6764,
       "chars": 43110,
@@ -394,7 +413,7 @@
       ]
     },
     {
-      "title": "V • Revoluce!",
+      "title": "V",
       "file": "revoluce_023.html",
       "words": 6451,
       "chars": 40755,
@@ -414,7 +433,7 @@
       ]
     },
     {
-      "title": "VI • Revoluce!",
+      "title": "VI",
       "file": "revoluce_024.html",
       "words": 6904,
       "chars": 42651,
@@ -434,7 +453,7 @@
       ]
     },
     {
-      "title": "VII • Revoluce!",
+      "title": "VII",
       "file": "revoluce_025.html",
       "words": 4124,
       "chars": 26248,
@@ -454,7 +473,7 @@
       ]
     },
     {
-      "title": "Epilog • Revoluce!",
+      "title": "Epilog",
       "file": "revoluce_026.html",
       "words": 178,
       "chars": 1096,
@@ -474,11 +493,11 @@
       ]
     },
     {
-      "title": "Tiráž • Revoluce!",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 133,
-      "chars": 868,
-      "ideas": 21,
+      "words": 116,
+      "chars": 739,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "revoluce_026.html",
@@ -496,9 +515,9 @@
   ],
   "totals": {
     "all": {
-      "words": 97478,
-      "chars": 605261,
-      "ideas": 2253
+      "words": 97461,
+      "chars": 605132,
+      "ideas": 2248
     },
     "chapters": {
       "words": 97342,

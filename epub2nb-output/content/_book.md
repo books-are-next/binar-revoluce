@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-11T00:00:00.000Z'
   isbn: 978-80-274-2205-0
 readingOrder:
-  - revoluce_002.html
+  - promo.html
   - revoluce_005.html
   - revoluce_006.html
   - revoluce_007.html
