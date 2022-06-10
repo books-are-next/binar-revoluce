@@ -3,8 +3,6 @@ title: V
 contentType: prose
 ---
 
-  
-
 „Ty si polib prdel!“ zařval Dušánek na Nykla Nyklíčka. „Ano, prdel. Svoji vlastní si polib! Kdo je tady, kurva, šéf?“
 
 „Ano, pane prezidente. Vy, pane prezidente, jste pan prezident,“ couval Nykl Nyklíček s fasciklem rozsudků smrti, který přinesl panu prezidentovi k podpisu. Revoluce byla už v takovém stádiu, že se bez podpisu hlavy státu popravovat nemohlo. Odhlasovala to Demokratická revoluční rada státu.
@@ -54,6 +52,8 @@ Z toho dostal Dušánek strach. Že zemře, že ho doktoři odejdou z tohoto s
 Zrovna ve chvíli, kdy v prezidentské pracovně chystali kamery a mikrofony, kdy už měl napsán zásadní projev k národu – týden se s ním ve Velkých Šírých Rodných Lánech v zahradním domečku za zataženými žaluziemi a s krutě vrzavou proutěnou pohovkou mořil v utajení. Ráchel mu pomáhala především s pasážemi o lidských právech, o svobodě jedince a menšin, o postavení občana, občanské společnosti, o rovnosti lidí, ceně lidského života, o zrůdnosti trestu smrti… Zrovna ve chvíli, kdy se vrátil s projevem v levé boční kapse saka do oficiální prezidentské pracovny odhodlán promluvit k národu a světu, vstoupil Nykl Nyklíček s kupou rozsudků k podepsání.
 
 Ani se nenadál, a vězí v růžové noční košili, přepásaný svěrací kazajkou, s rukama křížem přes prsa pevně spoutanýma, v kleci se svislými šprušlemi na neznámém místě. Zoufalý a bezmocný.
+
+  
 
 Zásadní projev pana prezidenta měl být vysílán živě jako událost prvořadého významu, mělo být přerušeno pravidelné vysílání na všech rozhlasových a televizních stanicích. Jako když se stane neštěstí: spadne letadlo, vypukne válka nebo revoluce.
 
@@ -147,6 +147,8 @@ Pštros se na ni podíval hlavní pistole:
 
 „Zašantročili… Do Temnejch Lesů jsme ho odvezli. Je tam moc krásně. Tři profesoři se o něho staraj. A ten vejhled do krajiny, to byste se divila. Hned bych tam chtěl taky.“
 
+  
+
 Deník, pro který psal Květoslav Skokan zprávy o mrtvolách a jak k tomu došlo, o pokousaných psem, zasažených bleskem, odsouzených za krádež králíků z králíkárny, se před revolucí jmenoval _Poslední slovo__._ Snad z jakési domýšlivosti, nebo aby se odlišil od jiných slov: _Svobodného slova__,_ _Slova Lidu__,_ _Denního slova_ anebo prostě prostého a úderného _Slova_ – bez přívlastku. V průběhu revolučního dění se _Poslední slovo_ přejmenovalo na _Revoluční slovo__,_ aby dalo najevo, že revoluce není _Poslednímu slovu_ lhostejná. A do _Revolučního slova_ už Květoslav Skokan nepsal své oblíbené soudničky, vždyť při těch potocích krve v ulicích a useknutých hlavách kutálejících se na kdejakém náměstí i náměstíčku (ano, i na Kuřím rynku se popravovalo) byli ti jeho ukradení králíci, zásahy kulovým bleskem a polámané údy artiklem zcela nezajímavým. A na popravy neměl Skokan žaludek. Ovšem tak zkušených, vypsaných novinářů není nikdy nazbyt, a mají-li navíc vztah k osobě vysoce postavené, o práci nepřijdou ani za revoluce. Květoslav Skokan se stal šéfredaktorem _Revolučního slova__._
 
 S Vlastou se scházeli potají, aby nenarušili obraz první revolucionářky, revolucionářky tělem i duší, věci oddané, odhodlané obětovat všechno, i soukromí, i obyčejné lidské štěstí věci revoluce. Nezůstalo totiž při prvním, náhodném setkání ve špeluňce U Třaslavého oslíka na rozhraní Královských Vinohrad a Žižkova poblíž náměstí Krále Jiříka, kde je to cítit konopným kouřem, ale mají tam i kořalku. Scházeli se v rozlehlém pokoji s vysokým stropem, bez koberce, bez obrazů, bez záclon a závěsů v oknech, na matraci ve Skokanově minimalistickém bytě, zatímco Demokratická revoluční rada státu v Lidovém domě zasedala a pila pivo bez předsedkyně; zatímco Jenůfka odmítající chodit do školy byla svěřena do péče jednomu z předních revolucionářů, Palu Lovečkovi.
@@ -206,6 +208,8 @@ Takto probíhala náhradní výuka a výchova dítěte, které vysvobozeno z g
 „Mám snad dělat jakože nic? Nepřiznat svůj díl zavinění? Zatloukat, zatloukat, zatloukat… Mám snad předstírat, že to držím pevně v rukou? – S takovou filozofií jdi do řiti, Skokane!“
 
 „Ale tam už přece jsme, moje milá Vlasto, Vlasto Revoluce.“
+
+  
 
 Nikdo v celé zemi nevěděl, že jim pan prezident zmizel v Temných Lesích. Bylo ve státním zájmu ututlat, že se Dušánek zbláznil. Naštěstí se v nejbližší době neočekávala žádná státní návštěva. Kladení věnců a zvedání robátek se mohlo odložit na jindy s vysvětlením, že pan prezident nemá kdy, že je zaneprázdněn neodkladnými státnickými záležitostmi. Prezidentské dokumenty, jmenování soudců, profesorů a guvernéra státní banky jakož i rozsudky smrti dokázal Nykl Nyklíček podepsat Dušánkovým podpisem i se zavázanýma očima. Také případné interview, kdyby o ně nějaký redaktůrek požádal, nebyl problém napsat a odeslat e-mailem, popřípadě by je imitátor Vodrážka mohl přečíst do rozhlasu. Ovládal Dušánka tak dobře, že si ho i paní Beránková spletla. Nykl Nyklíček se preventivně přeptal plastického chirurga doktora Nekázanky, je-li věda už tak pokročilá, aby dovedla k nerozeznání přeměnit podobu jednoho člověka v podobu někoho jiného, kupříkladu nějaké významné osobnosti.
 
@@ -330,6 +334,8 @@ Palo se diskuse neúčastnil. Mezi sestřičkami si vybral tu nejhezčí, přist
 Na zpáteční cestě si musela Jenůfka sednout mámě na klín. Vrtěla se sice, ale za chvíli usnula, znavena bohatými událostmi uplynulých hodin. Když projížděli zámeckou branou, vyděšený rudý úderník stál v pozoru jak svíce a horlivě salutoval. Z hospody ve Velké Řídké, když ji míjeli, ozýval se řev opilé revoluční úderky pověřené hlídáním pana prezidenta v blázinci:
 
 „… shořet nechali, i tu hospodu, my staří mazáci, staří ulejváci máme pít vodu…“
+
+  
 
 Když přijeli na Hrad, Dušánek si odskočil převléct se z růžové noční košile do občanského obleku vhodného pro prezidenta, ale kravatu si neuváže ani za nic, navzdory mínění Nykla Nyklíčka, že prezident bez kravaty je jako voják bez flinty. Ten se bude divit, až uvidí pana prezidenta s knoflíkem pod krkem rozepnutým.
 

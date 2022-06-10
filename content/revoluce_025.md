@@ -3,13 +3,11 @@ title: VII
 contentType: prose
 ---
 
-  
-
 Jako bych trčel v promítačově kabině a čtvercovým okénkem sledoval záběry událostí, které následovaly, bez možnosti zasáhnout. Slyším jen hrkot promítačky, nic víc. Jsem nezúčastněný divák, ačkoli jsem to spískal a teď bych v tom měl udělat pořádek a dovést příběh ke zdárnému konci: oddělit dobro od zla – dobro odměnit alespoň vidinou šťastné budoucnosti a zlo poslat ke všem čertům… Jenže události se mi vyškubly z rukou a vyvádějí si po svém. Nechaly mne civět s hubou dokořán.
 
-1\. noční krajina, letiště v polích
-
   
+
+1\. noční krajina, letiště v polích
 
 Přilétají letadly, těžkými neforemnými monstry doprovázenými čipernými stíhačkami, svými ochránci, i když je nikdo neohrožuje. Dosedají na všechna letiště rozesetá po celé zemi. Kdosi je naviguje, zabezpečuje hladké přistání, mává praporky a ukazuje cestu. Kdo to je? Bachraté stroje dosedají na zem bez problémů a z jejich naditých bachorů se valí tanky, na hlavních děl a kulometů mají plátěné pytlíky, aby se jim tam nenaprášilo, aby jim tam nenapršelo. Kdyby potřebovaly okamžitě vystřelit, pytlík by jim v tom nebránil. Jenže škoda pytlíku, výstřel by ho roztrhal na maděru. Voják sundá pytlík a vystřelí jen tak do vzduchu, pro radost ze střílení. Já výstřel neslyším, vidím jenom záblesk a zpětný záškub zbraně. Po tancích se z létacích strojů hrnou nákladní automobily s čumáky podlouhlými, plně naložené vojáky v přilbách; samopaly svírají mezi koleny hlavněmi vzhůru, ve tvářích napětí, hlad a žízeň. Tváře i postavy mají stejné, jako by se vylíhli ze stejného vajíčka, jen ušima se liší: jejich velikostí, tvarem, vnitřním vinutím. Vědci dokázali, že na celém světě neexistují dvoje stejné vojenské uši.
 
@@ -17,31 +15,31 @@ Letadla dosedají, rolují, zastavují se, otevírají rektální otvory a vym�
 
 Neslyším výstřely, neslyším povely, pláč a skřípění zubů, neslyším nic, jenom hrkot promítačky. Je to němý film.
 
-2\. před Lidovým domem, noc
-
   
+
+2\. před Lidovým domem, noc
 
 Z Lidového domu vybíhá Lid a upaluje do svých domovů. Stačili zaplatit útratu? Žádný z tanků a vojáků Lidu v úprku nebrání, vůbec si ho nevšímají. Jiří Dostál se rozhodl – přestože vypil jedno pivo se dvěma kořalkami a původně hodlal odejít pěšky –, že to riskne a odjede na skútru. V takovéto situaci přece nezanechá svůj úžasný bílý stroj před hospodou napospas cizím vojskům do rána. Tolik toho zas nevypil. Nasazuje si přilbu – taky mohl svézt některou z dívek, jenže všechny už se rozprchly do svého domova – startuje… Vtom rozpřáhne ruce jakoby stižen prudkou bezradností, kácí se pozpátku na zem, je prostřílen od podbřišku přes břicho, hruď, krk až po hlavu. Při téhle bouračce jej laminátová přilba neochrání. Krve není mnoho, vsákla se do oděvu. Zpoza rohu přiskotačí dva rozverní vojáci, odvalí Jiřího Dostála stranou, nasednou na jeho skútr a beze světel odjíždějí noční ulicí. Zakymácejí se a zmizí ve tmě. Žádný třesk neslyším.
 
-3\. Lidový dům, interiér
-
   
+
+3\. Lidový dům, interiér
 
 Lidový dům je plný cizích vojáků. Zasmušilý Bernardýn roznáší pivo a kořalku beze známek radosti. Nezavrtí ocasem ani se neusměje. Má tu spoustu hostí, měl by se radovat, ale neraduje se. Tak zasmušilého Bernardýna jsme tu ještě neměli.
 
 Do lokálu vstoupí cizí důstojník s obnaženou pistolí v ruce. Mává zbraní zběsile, otevírá a zavírá ústa, pěna mu z nich stříká. Vojáci chvatně vstávají, vestoje dopíjejí, opouštějí lokál se samopaly v ponosu. Bernardýn má v očích strach. V obavách sleduje důstojníkovu pistoli. Důstojník ji zastrčí do pouzdra a věnuje Bernardýnovi konejšivý úsměv. Dostane se mu piva natočeného vrchovatě a k tomu vodky z Finska plná sklenice od hořčice. Důstojník uznale poplácá Bernardýna po zádech, pohladí ho po hlavičce, podrbe za ušima a odejde bez placení. Bernardýn za ním hledí a vrtí.
 
-4\. Letiště Václava Havla, den
-
   
+
+4\. Letiště Václava Havla, den
 
 Na Letišti Václava Havla přistává dopravní letadlo s výsostnými znaky Svazu euroasijských demokratických republik. Jako by právě dorazila dlouho očekávaná státnická návštěva. Kde tedy vězí čestná stráž? Ani Hudba Hradní stráže s instrumenty ke startu připravenými tu není. Jsou tady kamery rozmanitých společností, fotografové a reportéři světových i místních agentur a sdělovacích prostředků. Na cestující čeká černý automobil Čajka s neprůstřelnými skly. Je velice dlouhý, na osmi kolech, jako kdyby přiletěl samotný boss, kmotr ze všech kmotrů nejkmotrovatější, Sanchéz Chilli, majitel bordelů a heren na Sešlých ostrovech rozkoše. Po schůdcích zvolna sestupují čtyři maršálové lemovaní zlatem, s širokánskými červenými lampasy na nohavicích, s řády a vyznamenáními na prsou i na zádech, každý podpírán svou vlastní letuškou k podpírání, co krok to schodek. Jako bychom slyšeli cinkání medailí, co schodek to cink. Slyšíme však jen hrkot promítačky.
 
 Poslední, bez řádů a vyznamenání, bez letušky k podpírání, sám, poněkud pohublý, v bílém obleku, s pěšinkou v napomádovaných vlasech, vyžehlený a navoněný, s širokánským úsměvem objevuje se na schůdkách: Petr Luďkovič Semlela, tribun Lidu. Konečně zas doma!
 
-5\. veřejnoprávní rozhlas, studio 7
-
   
+
+5\. veřejnoprávní rozhlas, studio 7
 
 Motýl babočka vletěl otevřeným oknem do studia 7. Poletuje nad zeleným stolem s mikrofony, nad židlemi, nad mužem v košili – je to Osvald Ostrý –, jako by cosi hledal, a sám nevěděl co. Nic nenašel, vrací se zpátky, jenže zvolil špatnou cestu, zavřené okenní křídlo. Zmítá se na skle, nemůže uvěřit vlastním smyslům. Jak je možné, že vidí stromy, trávu s kytkami, a nemůže zpátky, domů. Tristní situace, nikdo mu nepomůže…
 
@@ -49,9 +47,9 @@ Okna vedou do parku, měl by sem doléhat zpěv ptactva z parku, ale nedoléhá
 
 Babočka to bere s rozběhem. Od protější zdi vystartuje, letí přímočarým letem jak z praku vystřelený, naráží hlavou do skleněné tabule, proráží ji, sklo se tříští… Motýl je na druhé straně, už je v parku, už je doma. Jen tak lehce, plápolavě poletuje mezi kytkami.
 
-6\. před budovou rozhlasu
-
   
+
+6\. před budovou rozhlasu
 
 Ulice je prázdná, nikde žádná auta, žádní lidé, jenom poplašená sojka prolétá houpavým, těžkopádným letem pustou městskou ulicí, otevírá vzrušeně zobák, patrně vykřikuje sojčí varování, aby si všechna zvířátka ve městě dala pozor, blíží se nepřítel.
 
@@ -59,9 +57,9 @@ Před rozhlasem zastavuje obrněný transportér, zablokuje ulici; vyskáčou z�
 
 Jeden z doprovodných vojáků přiloží samopal k líci, jako by to byla dvojka nebo kozlice či puška ostřelovače. Chvilku míří, záškub, sojka s roztaženými křídly a kulkou v těle padá na dlažbu.
 
-7\. uvnitř budovy rozhlasu
-
   
+
+7\. uvnitř budovy rozhlasu
 
 Petr Semlela s doprovodem vchází do budovy rozhlasu. Vyděšený vrátný se schovává za recepčním pultem, choulí se v koutku, ani nedutá. Semlela s ozbrojenou suitou nastoupí do páternosteru. Pět mužů se mačká v malém prostoru jako přerostlé okurky nakládačky v půllitrové zavařovací láhvi. Zcela vyčerpaný výtah nemůže dál, mezi patry mu dojde dech, zastavuje na nejnevhodnějším místě. Jeden voják se s obtížemi vyškrábe úzkou skulinou vzhůru na chodbu, za ním druhý, už s jeho pomocí. První se zbraní připravenou ke střelbě hlídá, druhý tahá Semlelu za ruce, třetí a čtvrtý ho tlačí za zadek vzhůru. Pomáhají, jak se dá, aby se dostal z uvíznutí. Konečně jsou všichni na chodbě v nejvyšším patře, v patře generálního ředitele.
 
@@ -75,9 +73,9 @@ Osvald Ostrý v gestu smíření vztáhne k Semlelovi pravici. Vztažená paž
 
 Otevřeným oknem přilétá z parku babočka, poletuje třepotavě nad tou spouští, hledá cosi užitečného, co by jí mohlo být ku prospěchu. A když nic nenalézá, prolétne otevřenými dveřmi za studia sedm do chodby, bloumá budovou rozhlasu, chodbami a schodišti, živou duši nepotká.
 
-8\. před budovou rozhlasu
-
   
+
+8\. před budovou rozhlasu
 
 Ulicí se žene Květoslav Skokan s naditou aktovkou. Jediný chodec v pusté ulici. Míjí obrněný transportér i dlouhou čajku, míří do rozhlasu. Cestu mu přehradí cizí vojáci hlídkující u vchodu. Skokan se domáhá vstupu, mává novinářským průkazem, bláhový člověk. Vojáci jsou neúprosní, Skokan je vytrvalý. Pokouší se vojáky odstrčit. Přece ho nezastřelí kvůli tomu, že chce do rádia… Z hlavní samopalů vyskakují drobné plamínky, Skokan padá na dlažbu. Vojáci vyprazdňují zásobníky do ležícího těla.
 
@@ -85,15 +83,15 @@ Z budovy vychází Petr Semlela doprovázený čtyřmi vojáky. Loučí se s m
 
 Rozčilená sojka se vrací. Letí těžkopádně, sotva dechu popadá, v zobáčku si nese lup: blýskavou medaili na červené stuze, Zlatou hvězdu Hrdiny Svazu euroasijských demokratických republik.
 
-9\. Hrad, exteriér
-
   
+
+9\. Hrad, exteriér
 
 Ke Hradu se sjíždějí obrněné transportéry, tanky a další bojová vozidla cizí armády. Pomalu, nesmlouvavě vjíždějí dovnitř všemi branami. Hradní stráž v chlupatých čepicích, s chromovanými puškami u nohy stojí hrdě a nehnutě na svých místech, hledí kupředu do neurčita, dění kolem sebe nevnímá. Připomíná muzeální vycpaniny v uniformách. Bojová vozidla jsou na nádvořích, zaplnila všechny venkovní prostory Hradu, jenom na třetím nádvoří poblíž sochy svatého Jiříka s dráčkem je čtverec volného prostoru. Zrovna tam se snáší a dosedá vojenská helikoptéra s výsostnými znaky Svazu euro­asijských demokratických republik. Neobratně, v předklonu z ní lezou čtyři tlustí zlatí maršálové plní metálů, s širokými červenými lampasy na kalhotách, přidržují si ozlacené čepice, aby jim je vítr nesebral. Doprovázeni smečkou samopalníků míří do královského paláce. Za nimi chvátá Petr Semlela v bílém obleku.
 
-10. Hrad, interiéry, pracovna prezidenta
-
   
+
+10. Hrad, interiéry, pracovna prezidenta
 
 Ocitáme se v pracovně prezidenta republiky. Je tu státní znak, v rohu místnosti dva prapory: státní a prapor revoluce, umně na­aranžované, aby revoluce trochu, ale ne přespříliš, překrývala stát. V pracovně visí také dobře viditelný portrét paní Alžběty Beránkové, rozené Podivínské, barevný, v širokém zlaceném rámu. V pozadí regál s knihami: _Ottův slovník naučný_ kompletní i s dodatky, Brehmův _Život zvířat__,_ _Zápisky z cest_ Václava Klause zabírají celou jednu polici, v koutku se krčí _Babička_ Boženy Němcové s Kašparovými ilustracemi. Vše pečlivě uspořádáno pečlivou rukou Nykla Nyklíčka.
 
@@ -115,15 +113,15 @@ Petr Semlela usedá podle Nyklíčkova návodu do prezidentské židle, rozhlí�
 
 Semlela za prezidentským stolem odsouvá papíry, které Dušánek nestačil vyřídit. Papíry padají na podlahu, Nykl Nyklíček je sbírá a hází do koše na odpadky.
 
-11\. silnice, volná krajina, svítá
-
   
+
+11\. silnice, volná krajina, svítá
 
 Po úzké silničce mezi poli se řítí motocykl. Mohla by to být motorka Hradní stráže BMW R 1200 RT, jenže v ranním šírání a na takovou dálku to s jistotou nepoznáme. Vycházející slunce za zády jezdce nás oslní. Motorku pronásledují temná armádní vozidla, vidíme záblesky výstřelů namířených na motocykl. Vzdálenost mezi pronásledovateli a pronásledovaným se zvětšuje, motocykl nás míjí závratnou rychlostí. Stačili jsme jenom zahlédnout, že na něm sedí tři lidé, jejich obrysy: na nádrži dítě, stroj řídí muž a za ním žena, drží se ho v pase, vlasy jí vlají ve větru. Záblesky výstřelů se ztrácejí v dálce, jsou už neškodné. Motorka mizí za obzorem, pronásledovatelé v armádních vozidlech zastavují, na příhodném místě otáčejí a zvolna se vracejí zpátky.
 
-12\. věznice s ostrahou, oddělení OOO
-
   
+
+12\. věznice s ostrahou, oddělení OOO
 
 Na oddělení OOO jsou jenom dvě kobky, každá pro jednoho k smrti odsouzeného vězně. Tři stěny zděné a bez oken, čtvrtou, čelní stěnu tvoří železná mříž od podlahy ke stropu. Prostor před mříží je jakousi předsíní, hlídárnou, ve které sedí za stolkem hlídací Béďa a hlídá. Skrz mříže vidí do obou kobek současně. Vězni na sebe vidět nemohou, dělí je zeď. Nelze rozeznat, jsou-li kobky obsazeny. Z výrazu hlídacího Bédi nelze vyčíst žádnou informaci.
 
@@ -135,9 +133,9 @@ Pacholíci vlečou Pštrosa chodbou kolem ocelových dveří, Pštros se vzpír�
 
 V ponuré betonové místnosti bez oken, s temně rudým závěsem přes jednu stěnu, postávají čtyři muži: ředitel věznice, prokurátor Voda, obhájce Bruder a lékař v bílém plášti. Katovi pacholíci přivlekli odsouzence, za nimi vstupuje pan Dostálek. Nabízí Pštrosovi cigaretu. Pštros ji nedokáže roztřesenou rukou z krabičky vylovit. Kat cigaretu vytáhne, zapálí si ji a zapálenou podá odsouzenci. Pštros kouří zvolna, aby oddálil, čemu nelze zabránit. Rudý závěs se rozhrnul, za ním je hluboký výklenek, ve výklenku skoba a na skobě oprátka. Nedopalek padá na zem, pan Dostálek nasazuje Pštrosovi na hlavu černý plátěný pytlík a přes něj oprátku. Jeden z pacholíků zprudka zatáhne za páku, Pštrosovi se pod nohama otevírá zem.
 
-13\. Hrad, třetí nádvoří, slunečný den
-
   
+
+13\. Hrad, třetí nádvoří, slunečný den
 
 Na rozlehlém balkónu královského paláce se zlatým zábradlím se sloupy, jež zdobí okřídlená děťátka podpírající lampy, na bílých zahradních židlích u kulatých stolků s nápoji a něčím malým k zakousnutí zasedá vybraná společnost: čtyři tlustí maršálové olemovaní zlatem, s širokými lampasy na kalhotách, Petr Semlela s Nyklem Nyklíčkem po boku a několik půvabných dívčin s plavými copy omotanými kolem hlavy. V pozadí postávají vojáci v polních uniformách se samopaly k okamžitému použití; ti ovšem ke společnosti nepatří; nejedí, nepijí, střeží. Panuje tu uvolněná nálada, úsměvy, přípitky, hlasitý hovor, perlivý smích. Semlela je v bílém obleku od Richtera, přes prsa má širokou šerpu v národních barvách. Oslava se koná bezpochyby na jeho počest.
 
@@ -153,13 +151,15 @@ Konečně se třetí voják dočkal pokynu shůry. Mávne rukou a kanonýr zpru
 
 Společnost na balkóně povstává z židlí a tleská. Také Lid za tankovou hradbou na třetím nádvoří tleská a cosi volá. Petr Semlela kyne davům, uklání se jako charakterní představitel hlavní role při děkovačce na Národním divadle.
 
-14\. dům na předměstí, chodba, byt u Beránků, dvorek
-
   
+
+14\. dům na předměstí, chodba, byt u Beránků, dvorek
 
 Na chodbě u dveří do bytu s cedulí „BERÁNKOVI“ se kymácí opilý Šustek, opírá se dlaní o zvonek. Paní Beránková otevírá, Šustek vpadne dovnitř, divže neupadne, pád vyrovná a proletí dveřmi do obývacího pokoje. Neobratně spolu odsouvají nábytek z nádherného koberce mauri. Vrávoravý Šustek s potížemi koberec sroluje, paní Beránková mu ho pomůže zvednout na rameno. Jako klaun předstírající nešikovnost vybalancuje Šustek s kobercem ze schodů na dvorek, až ke klepadlu, tam upadne. Paní Beránková mu pomůže na nohy, přes obtíže a nezdary se jim konečně společným úsilím podaří dostat koberec na klepadlo. Paní Beránková podává Šustkovi prakr a znavena usedá na lavičku před domem.
 
 Šustek se rozmáchne a udeří. Z koberce vzlétne roj molů, zmateně se rozletí na všecky strany. Šustek udeří podruhé, vyvalí se oblak bílého prachu. Udeří potřetí, další oblak je černý a mohutný. Zahalí Šustka, paní Beránkovou, dvorek, dům, předměstí… Celé město je přikryto temným mrakem prachu z koberce mauri paní Alžběty Beránkové.
+
+  
 
 Jako by ho vystřelili a on se rychlostí střely prodíral nekonečně dlouhou hlavní. Rotuje přitom roztočen vrtáním, které střelu vede, aby se otáčela. Přidává jí to na přesnosti a účinku. Roura je těsná, tma absolutní, tají se dech.
 

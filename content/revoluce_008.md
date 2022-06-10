@@ -3,8 +3,6 @@ title: I
 contentType: prose
 ---
 
-  
-
 Sedí na dřevěné stoličce bez opěradla, zády se opírá o zeď a kouří jedenáctou cigaretu z krabičky. Ještě jich má devět. Až je dokouří, co pak? Oblečený je v hnědých teplácích, pod nimi dlouhé modré spodky s tkaničkami a košile bez límce; na nohou pantofle. Není to elegantní, ale je to pohodlné. Však nemá namířeno do hospody, ani do divadla, ani do rozhlasu. Je tu sám. Až vykouří poslední cigaretu, nebude mít co kouřit. Kouření škodí zdraví, kouření způsobuje rakovinu, kouření zabíjí. Nebude kouřit. Místnost je malá, říká se jí cela nebo kobka, po starodávnu. – Hopky z kobky, trestníče!
 
 Včera odpoledne vyrazil Dušánek Beránek do lesa na procházku. Hned za domem je louka plná lučního kvítí, srnka se po ní mnohdy proběhne, za loukou březový hájek s třemi duby, pak zase louka a za ní les plný divokých zvířat.
@@ -83,6 +81,8 @@ Teď by se hodil telefon. Dušánek by zavolal mamince, ať si nedělá starosti
 
 Když dorazili na dvůr věznice, nemohli Dušánka vytáhnout z auta, přilepil se prosmoleným zadkem k čalounění. Tahali ho jako dědek řepu, tahali, tahali, vytáhnout nemohli. Zavolali na pomoc strážmistra Kočku a pak ještě nadstrážmistra Myšku, tahali, tahali… Vtom Dušánek rup, vyletěl jak zub!
 
+  
+
 To by se přece nemělo, uloupit někoho v lese. Bez varování. Ani sojka nezakřičela. A měla by, když se do lesa vloudí vetřelec.
 
 – I kdyby sojka varovala, dal by ses, Dušánku, do běhu?
@@ -133,6 +133,8 @@ To by se přece nemělo, uloupit někoho v lese. Bez varování. Ani sojka neza
 
 – A nevymluvíš jí to, ani kdyby ses…
 
+  
+
 Vedli ho s rukama v železech přes dvůr, bočním vchodem do budovy a potom dlouhou chodbou plnou železných dveří, tajuplnou budovou k výtahu, rachotivým výtahem až nahoru, do kdovíkolikátého patra. Byl jako v mrákotách. Kdyby se ho zeptali, co se to děje, ani na smolný pařez by si nevzpomněl. Zřejmě trpí lehkou dysfunkcí, která ho ochraňuje od nepříjemných zážitků, vymazává mu je z vědomí, takže Dušánek je stále jako nový, nepopsaný.
 
 Ze strnulosti ducha se vzpamatoval až v ponuré kanceláři s povědomým obrazem na čelní stěně. Ano, je to pan prezident Bořek Bouchala. Tváří se přísně, odhodlaně, státnicky. Dušánkovi to nevadí, takového jej přeci zná, nic jiného by od něj neočekával. Přesně ten samý visí v rádiu, oficiální, schválený komisí i samotným panem prezidentem, který dbá na to, aby nevypadal jako nějaký hejhula z účtárny, nýbrž jako státník světového formátu, což se mu znamenitě daří. Obraz pana prezidenta postavil Dušánka na nohy. Už je z něj zase mistr zvuku z veřejnoprávního rozhlasu. Pravda, v poněkud nezvyklé situaci.
@@ -177,6 +179,8 @@ Všechno je tu jakési kalně zelené a hnědé, špinavé a oprýskané, těs
 
 „Major Vrzgala je piča!“
 
+  
+
 – Tohle by se nemělo, toto: Sebrat člověka v lese, navléct na něj cizí tepláky, cizí pantofle a zamknout za ním dveře bez kliky. Jako bych byl zloděj, raubíř, loupežník. Kdyby mi aspoň řekli, co jsem provedl…
 
 – Co s tím uděláme, Dušánku?
@@ -212,6 +216,8 @@ Všechno je tu jakési kalně zelené a hnědé, špinavé a oprýskané, těs
 – Jenže pán Bůh je všude, i tady, ve vězení, v téhle kobce by měl být…
 
 – Jenže, jenže! Jenže co já o něm vím?
+
+  
 
 K snídani byl vnitřní díl ešusu s hnědou, mléčně zakalenou tekutinou a chleba docela čerstvý, včerejší, v dostatečném množství. Když Dušánek dojedl – moc toho nesnědl – a zametl kobku smetáčkem na smetí, v zámku to zarachotilo, dveře se otevřely a ve dveřích Béďa velitel, klíčník s klíči v ruce. Kývne, Dušánek si strčí pod bundu krabičku s posledními čtyřmi cigaretami a škatulku sirek, z nichž některé prskají, jiné jsou ohnivzdorné. Tentokrát kráčeli chodbami podle vězeňských předpisů: ruce za zády, pět kroků před Béďou velitelem, doleva, doprava, rovně podle pokynů; když někoho potkají, nosem ke zdi, žádná židle už nepřekazí žádné míjení.
 
@@ -255,8 +261,6 @@ Kuřáci jsou lidé solidární, dobře vědí, co to je, když není co kouřit
 
 Nastala němá pauza. Kdyby takováto pauza nastala v rozhlasovém vysílání, posluchači a posluchačky by byli znepokojeni a jejich znepokojení by narůstalo. Dušánek ale pauzu nevnímal, jako by se ho netýkala. On totiž Vrzgalu vyeliminoval, vždyť jeho naslouchání je selektivní, a co nechce, neslyší. Naslouchal totiž čemusi jinému, co slyšet chtěl. Ve vyšetřovně bylo otevřené okno a pod oknem jarní, prosluněná zahrada mateřské školky. Děti si tam hrály na písku a jásavě přitom pokřikovaly, některé dítě také vykřiklo vztekem, když mu zlý chlapeček dupal po bábovičce ještě nedopečené.
 
-  
-
 „Paci paci pacičky,  
 táta koupil botičky  
 a maminka pásek  
@@ -277,8 +281,6 @@ Zatímco Vrzgala vyslýchal účinnou metodou vršení slov, Dušánek sledoval 
 „K policii jsem se dal hlavně kvůli uniformě a že jsem mohl dávat pokuty špatně zaparkovaným autům. Nesnáším špatně zaparkovaná auta,“ pokračoval Vrzgala. „To se mi líbilo víc než fárat a kutat a kutat a fárat… Jenže pak mě pro schopnost povýšili a přeřadili k BSS, a BSS je tajná, takže jsem musel utajit i uniformu ve skříni, a obléct si ji můžu, jenom když je nějaká vnitřní oslava, třeba svátek práce nebo mezinárodní den žen nebo výroční schůze KSČMS. A to si ji taky nemůžu oblíknout, protože si ji nemůžu oblíknout, protože jsem krapet vyrostl do šířky a nemůžu ji dopnout přes pupek. Tak se věci mají, Dušane! – Můžu ti, Dušane, říkat Dušane, že, Dušane? Tak dobře, Dušane. Tak vidíš. Vloni na Prvního máje jsem měl dostat odznak ‚Vzorný vyšetřovatel BSS‘, a prdlajs. Vyžral mi to Vyhlídal, měli jenom jeden, a Vyhlídal venčí náčelníkovi psa každou neděli před polednem, a já mu nevenčím nic, a přitom mám o půl bodu vyšší vyšetřovatelitu než Vyhlídal. Uznej, Dušánku! Nemysli si, že existuje nějaká spravedlnost. Nikdy neexistovala. A proč by taky měla? Lidi jsou kurvy, to mi věř. To mi nikdo nevymluví. Letos mi už toho vzorňáka ta kurva musí dát, to je pět stovek měsíčně navíc u výplaty. Pět stovek, o kterých stará neví. Každý měsíc! Možná bych i toho psa chodil venčit, ale to už mi vyžral Vyhlídal a druhého čokla náčelník nemá. Tak se snaž, Dušánku, aby ses nepřiznával k nějaké prkotině. Musí to být něco velkého. Nejlepší by byla vlastizrada nebo rozvracení republiky, teror, záškodnictví, sabotáž, podvracení republiky, ty další paragrafy, ty už nestojí za to. Za pobuřování nebo hanobení hlavy státu, hanobení republiky nebo snižování vážnosti prezidenta se odznaky nedávají. Dobrá by byla ještě tak spolupráce s nepřítelem nebo válečná zrada, jenomže něčeho takového se od tebe, Dušánku, asi nedočkám… – Nebyla by tam ještě jedna, Dušánku?“
 
 Dušánek neslyšel. Sledoval mouchy na oduševnělé tváři pana prezidenta a naslouchal dětským hláskům ze zahrady:
-
-  
 
 „Kovej, kovej, kováříčku,  
 okovej mi mou nožičku.  
@@ -316,8 +318,6 @@ Dušánek s úlevou podepsal. Už se těšil do kobky s číslem tři sta dvan
   
 
 > _Chlapče, chlapče,_
-
-  
 
 > _cos mi to provedl? Cos mi to jenom udělal! Necháš se zavřít, jen abys nemusel klepat koberce! Myslíš, že mi s tím ten ožrala Šustek pomůže? Nepomůže. Ten sotva doleze domů, ten by potřeboval sám vyklepat a Ty s ním. Z tatínka by sis měl vzít příklad, ten klepal koberce bez řečí, ten klepal koberce rád, ani se mu dvakrát říkat nemuselo, když ještě žil s námi. Jak si to můžeš vzít na svědomí, že skoro šedesátiletá, slabá, nemocná žena, Tvoje matka, která Tě porodila, odkojila, plínky Tvoje pokakané každý den prala a máchala, žehlila, do školky Tě vláčela, teď musí sama tahat ten největší koberec z obýváku na dvůr a přes to vysokánské klepadlo natahovat a pak do něj bušit, zatímco zdravý a silný synáček si sedí hezky v kriminále a mele si ručičkama prázdnýma spokojeně mlýnek. Kdepak Šustek, ten tak leda půllitr od stolu k hubě věčně žíznivé pozvedne, sobě si nevyklepe, jak je rok dlouhý, žije v tom svém kutlochu jako zablešený pes, toho bych si přes práh nepustila, toho bych svůj koberec z obýváku klepat nenechala, ani kdyby na kolenou prosil._
 

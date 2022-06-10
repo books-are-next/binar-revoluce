@@ -3,8 +3,6 @@ title: VII
 contentType: prose
 ---
 
-  
-
 Sedí jako krejčík na xylolitové podlaze, ale nic nešije ani nevyšívá. Má zavřené oči, aby ho nerušil pohled na železné dveře s kruhovou špehýrkou, z níž na něj civí obrvené oko. To má za úkol dozírat na Dušánka, aby se mu něco zlého nepřihodilo. Aby ho tu nepotkalo neštěstí. Ale copak může ve vězení potkat člověka neštěstí? Dušánek už nekouří, ačkoli cigaret má habaděj a další si může nechat nakoupit z peněz, které mu maminka poslala na vězeňské konto. Už se s nikým nemusí dělit, protože je v kobce nula nula šest sám, bez Pštrosa. Kouření odložil ve chvíli, kdy se objevila krásná kaplanka Ráchel.
 
 Nedá se říct, že by o ní neustále přemýšlel, že by si kreslil budoucnost po jejím boku. Přemýšlení je vědomá činnost, záměrné směřování odněkud někam, pořádání myšlenek do logického řetězce. Dušánek na zkřížených nohou nehodnotil, netřídil ani nevřazoval do systému. Dušánek byl prozářen blahem. V mizérii vězeňské kobky se nechal unášet pocitem štěstí, jaké přináší láska. Ačkoli nepřítomna, byla tu Ráchel s ním, byl jí plný.
@@ -25,6 +23,8 @@ Toho dne, kdy se v kobce nula nula šest objevila Ráchel, proměnil se Dušán
 
 – Neboj se, já tě nedám!
 
+  
+
 Ráchel si počíhala na ředitele věznice, zčásti kryta útlým kmenem mladé lipky, až zas půjde s kapesníkem před ústy podél železného plotu od zubaře. Ve věznici byl nedobytný, chráněn tlustými zdmi, mřížemi a vězeňskou stráží. Když ho Ráchel spatřila zasmušilého vycházet ze zubařových dveří, když za ním dveře zaklaply a nemohl už zacouvat zpátky do bezpečí, vyrazila z úkrytu předstírajíc náhodu, v ruce pohotovostní balíček papírových kapesníků. Tentokrát byly zbytečné. Také obezřetnost, s jakou tu na ředitele číhala, nebyla namístě. Jakmile ji spatřil, usmál se na ni novým úsměvem.
 
 „Ach, pane řediteli, jaké vy to máte krásné zuby!“ řekla Ráchel místo pozdravu.
@@ -38,6 +38,8 @@ Ano, byly to krásné nové zuby a ředitelovo rozkolísané sebevědomí tím 
 „Tak dobře,“ svolil nakonec, „ale bude to návštěva utajená, krátká a pod dozorem.“
 
 „Och, jak jste dobrý, pane řediteli!“ zajásala Ráchel a dala mu pod lipami na chodníku přede všemi náhodnými chodci štípanou pusu, až mu zrudla obě líčka.
+
+  
 
 Návštěva se uskutečnila v kobce nula nula šest za přítomnosti obrve­ného oka. Bylo to jiné oko než obvykle, bdělejší, ale Dušánek to nepostřehl, protože byl vůči okům ve špehýrce imunní a také proto, že tu s ním byla Ráchel, krásná a skutečná, žádný přelud, a hleděla na něj láskyplnýma očima. Překonal ostych, vztáhl ruce a dotkl se jí lehce, jako by jí na tváři přistálo pápěří z jarních topolů.
 
@@ -56,6 +58,8 @@ Vstali. Ráchel přistoupila k Dušánkovi, položila mu paže kolem krku a zp
 Teprve teď si uvědomil závažnost svého postavení. Co ho čeká, jaké má vyhlídky. Teprve teď mu došlo, že je obviněn ze strašného zločinu. Že to s ním nemusí dobře dopadnout. Vždyť může přijít život. Vždyť může ztratit Ráchel. Když byla jenom představou, snovou průvodkyní, mohl se s ní sejít kdykoli, stačilo přání, a byla tu s náručí plnou štěstí. – Teď nadešel okamžik pravdy. Navštívila ho skutečná Ráchel, žena z masa, kostí a krve. Sáhl si na ni, a nerozplynula se. Musela odejít, a kdoví k jakým koncům příběh dospěje…
 
 Propadal beznaději. Zděšení ze skutečnosti se proměnilo ve zděšení z bezmoci. Není čeho se chytit, není oč se opřít, stébla se lámou, písek ujíždí pod nohama. Díval se do dlaní, jako by tam číhal osud. Je dlouhá čára života dobrým znamením i pro ty, kterým bude zanedlouho useknuta hlava?
+
+  
 
 Spis byl uzavřen a Dušan Beránek se dočkal obžaloby. Vypracoval ji noční prokurátor Voda a na starodávném psacím stroji Consul překlepala zapisovatelka Lucie, dívka pohledná. Obžalobu přinesl Béďa velitel a předal ji Dušánkovi proti podpisu. Ledva Dušánek obžalobu dočetl, už tu byl obhájce Bruder plný ničím neodůvodněného optimismu.
 
@@ -84,6 +88,8 @@ Spis byl uzavřen a Dušan Beránek se dočkal obžaloby. Vypracoval ji noční
 „Byl pěkný jarní den, tak jsem si myslel…, vůbec mě nenapadlo…, ani ve snu bych…“
 
 „A vidíte. Ani ve snu byste, a přece. Hlavu vzhůru, pane Beránku,“ povzbudil Dušánka doktor Bruder, podal mu ruku, počkal si chvilku u dveří, než mu Béďa velitel otevřel, povzbudivě se usmál a dveře kobky nula nula šest za ním zaklaply.
+
+  
 
 Vlasta Revoluce si Jenůfčinou existencí na sebe upletla systém komplikací, povinností a překážek. Jenůfka není odložitelná ani na chvilku. Když ji Vlasta hodlala odvést do školky a slibovala, že tam na ni čeká spousta nových hraček a kamarádi, s nimiž uzavře přátelství, s chlapečky a děvčátky, také s hodnými a milými tetami, zarputile odmítala obléct si nové šatičky s kočičkou, ani cokoli jiného, protože do žádné školky s pitomejma děckama a blbejma tetama nepůjde a nepůjde, ani kdyby se Vlasta třeba posrala. Protože kdoví jestli taková školka není děcák. A do děcáku ji už nikdo nikdy nedostane.
 
@@ -166,6 +172,8 @@ Andílek Jenůfka se během policejní epizody chovala znamenitě. Zardousila ml
 „Ano, a potom bude zmrzlina,“ přisvědčila Vlasta Revoluce, Jenůfčina maminka. „Pro všechny!“
 
 Slezly z dubu, obuly si střevíčky a odklapotaly k boudě s občerstvením. Andílka si vedly za ručky mezi sebou a učily ho létat. Frrnk! Moc jim to slušelo. – A potom byla zmrzlina.
+
+  
 
 Na podzim ráno, hned po snídani, přinesl Béďa velitel, klíčník, Dušánkovi do kobky nula nula šest šaty, v nichž byl na jaře zatčen.
 
@@ -286,6 +294,8 @@ Zemský soudce, jemuž také cukalo v koutcích úst, nasadil přísný výraz 
 „Žádám justiční stráž, aby tu paní s dítětem vyvedla. Nejsme na hřišti U Hrocha!“
 
 „Na hřišti U Hrocha je víc svobody a spravedlnosti než tady, u zemského soudu!“ prohlásila vyváděná Vlasta a ve dveřích ještě vykřikla: „Revoluce!“
+
+  
 
 Kdyby místo Dušánka soudili kvůli přípravě revoluce Vlastu Revoluci, nebylo by to od věci. Jenže před velkou porotou u zemského soudu nestála Vlasta, nýbrž Dušan Beránek, mistr zvuku. Dušánka totiž polapili v lese náhodou. Byli na lovu kohokoli v botách dostatečně rozměrných a Dušánkovy pohorky vyhovovaly jejich požadavkům. Nepokládali za důležité, kdo bude popraven, kus jako kus… Domnívali se, že tímto způsobem upevní své postavení a zabrání eventuální revoluci. Ne že by nějaká bezprostředně hrozila, ale člověk nikdy neví. Jeden popravený by mohl stačit. A kdyby nestačil, popraví dalšího a dalšího, třeba Vlastu Revoluci, když bude po ruce. Jenůfku zase strčí do děcáku, je tam místa habaděj. Ale snad bude stačit Dušánek.
 
