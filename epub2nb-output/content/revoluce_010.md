@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Když nemáš co, tak nekuř! – Takovou pitomost může říct kuřákovi jenom nekuřák bez představivosti, nebo kuřák, který nikdy nebyl bez kuřiva. Dušan Beránek vysedává celé dny na dřevěné stoličce bez opěradla a nekouří. Celé dny a noci oko nezamhouřil. Od chvíle, kdy mu poslední cigaretu vyhulil major Vrzgala a Béďa velitel ho vrátil zpátky do kobky tři sta dvanáct, sedí opřený o zeď a nekouří. Nekouřící kuřák je na tom zle, protože nemá co kouřit. Možná kdyby se sám svobodně rozhodl, že kouřit nebude, tak zle by mu snad nebylo, jenže Dušánek se k ničemu takovému nerozhodl. Kdyby si něco takového vzal do hlavy, musel by mít dost cigaret, které by z vlastního rozhodnutí odložil a nechal odložené tak dlouho, až by na troud vyschly, až by se na krabičce usadila vrstva prachu, a pak by je vyhodil do smetí. Kéž by tu měl aspoň takovéto, napadrť vyprahlé cigarety! Jednu by pomaloučku polehoučku vylákal z krabičky, naslinil by ji, aby nevzplála plamenem, dal by si ji mezi rty, zapálil… A kouřil! Plíce by si naplnil až do dna sklípků, chvíli by tam ten oblak držel, oblak dýmu tabákového, a pak by ho pozvolna vypouštěl do prostoru. Kobka by zkrásněla, po zdech by vykvetlo devatero lučních květů, ze smaltované jámy v rohu by to zavonělo myrhou, rozkoš by prostoupila všechny buňky Dušánkova těla, rozhrnula by se opona a symfonický orchestr, posílený smíšeným sborem moravských učitelů a učitelek, by spustil kantátu _Nicotianu._ – „Sláva! Sláva! Sláva!“ zapěli by pěvci a pěvkyně s nasazením všech hlasů a všech nástrojů. Rozezněly by se zvony: „Bim bam, bim bam, bim bam…“ – To by bylo!
 
 Nehty měl Dušánek do krvava okousané, dál okusovat nebylo co. Kuřák, který nemá co kouřit, nemůže dělat nic jiného nežli nekouřit. Na nic jiného nemá myšlenky. V pozdním odpoledni se odklopila klapka na špehýrce, v zámku zarachotil klíč a ve dveřích stanul Béďa velitel s nožem v ruce. Byl to kuchyňský nůž s širokou čepelí, takovým se dobře krájí cibule nadrobno. Jenže na krájení cibule to nevypadalo. Béďa ukázal nožem na stůl a řekl:
@@ -45,7 +47,9 @@ A je to venku. Balík ležel vedle dveří do kobky tři sta dvanáct, byl pře
 
 Pilku si mohl Dušánek nechat i s ostatním obsahem balíku, jenom štrúdl a párátka si odnesl Béďa velitel do velitelny k zevrubnější prohlídce.
 
-  
+</section>
+
+<section>
 
 > _Moje drahá maminko,_
 
@@ -155,7 +159,9 @@ Než to odrecitoval, Pštros se válel na podlaze. Lekl se tak, že spadl ze sto
 
 Tak, a měli po ptákách!
 
-  
+</section>
+
+<section>
 
 Pštros patřil k typu lidí, jaký vzbuzuje obavy ještě dřív, než se projeví. Takovým lidem se Dušánek intuitivně vyhýbal, protože mu nevoněli. Nedá se říct, že by nepříjemně páchli, nebo dokonce smrděli, vychází z nich cosi nosem nezachytitelného, přesto odpuzujícího. Dušánek v sobě nechuť k Pštrosovi překonával rozumem, vždyť v kobce, v prostoru omezeném, s ním musel pobývat každý den dvacet čtyři hodiny. K výslechům už ho nevodili. Buď na něj major Vrzgala zapomněl, nebo svou práci dokonal, výsledek odevzdal nadřízeným a teď se čeká co dál.
 
@@ -201,7 +207,9 @@ Zděšení, které Dušánka ochromilo, se obrátilo v zuřivost. Přece se nen
 
 V tu chvíli Dušánek pochopil, že katastrofě nezabrání.
 
-  
+</section>
+
+<section>
 
 Katastrofě zabránil noční prokurátor Voda. Divné příjmení pro prokurátora. Kdyby se jmenoval Šavle nebo Brus, Tvrdý nebo aspoň Pravda… Jenže příjmení si člověk nevybírá. Měl se snad z mladého Vody stát rybář nebo meteorolog, námořník či vodohospodář? Jenom kvůli příjmení? Voda chtěl být prokurátorem a byl odhodlaný udělat pro to všechno nezbytné. A hle, stal se z něj prokurátor. Zastupuje stát, žaluje přestupníky zákona a požaduje pro ně co nejpřísnější tresty. Přesně takové, jaké si každý zaslouží.
 
@@ -297,7 +305,9 @@ Lucie sbalila psací stroj i s papíry a kopíráky do kufříku, udělala ro
 
 Dušánek si sundal horní slamník z hromady slamníků, ustlal lože trestníkovo, zalezl mezi dvě prostěradla a přikryl se dekou. Stále mu ještě byla zima. Skrčil se, deku přetáhl přes hlavu, za chvíli měl v doupěti nadýchané teplo. Přemítal, co po něm vlastně ti dva chtěli? Selektivní naslouchání není žádný záviděníhodný dárek. Má sice svoje přednosti, ale i nedostatky. Měl se víc soustředit a pozorněji poslouchat, co mu ten chlap s písankou sděluje. Vždyť to bylo pro jeho budoucnost důležitější než nějaká holčina v těsném tričku s výstřihem. Jenže to, co vyprávěl prokurátor, se Dušánkovi ne a ne vejít do hlavy.
 
-  
+</section>
+
+<section>
 
 > _Drahá maminko,_
 
@@ -310,3 +320,5 @@ _V rozhlase je už jistě po mně sháňka. Je mi to hrozně líto, ale co mů�
 _Mnoho pozdravů a přání všeho dobrého  
 Ti z vězení posílá Tvůj syn  
 Dušan_
+
+</section>

@@ -3,11 +3,15 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Seděl na podlaze uprostřed kobky nula nula šest v krejčovském posedu, jako kdyby šil císařovy nové šaty. Žádné šaty však nešil, ani se nepohnul, byl ve stabilizovaném stavu. Zdálo se, že hledí do zdi, prohlíží si rytiny, škrabky, bezděčné skvrny a narušení způsobené hlodavým časem. Zdálo se, že naslouchá zvukům, jež se čas od času uvolní z ticha a dolehnou až sem, do tůně určené zatoulaným duším. Svou duši neztratil, je tu s ním, slyší, jak tiše tiká. Jeho duch si obul boty, pevnou kličkou zavázal tkaničky a vykročil. Snadno prošel zdí a nemusel dbát výzev, aby zůstal stát nebo střelí, aby si vzal čistý kapesník, aby se včas vrátil. Aby nikam nechodil, kam by chodil, stejně nikam nedojde. Co by tam dělal, nic nového tam neobjeví, nic nového není, všechno už tu bylo.
 
 Neuposlechl a šel dál nedbaje kamínků v botách, mašíroval přerostlou trávou, která ho převyšovala. Bujní koníci luční před ním uskakovali v obavách, aby si některého nevybral, neosedlal, aby ho v prudkém trysku neuštval. Škrábal se do kopce mezi borovicemi, prodíral se ostružiním, netýkavkami, rulíky zlomocnými, trávou ostřicí, přesličkami a plavuní, borůvčím a hložím, trním. Zlovolné šlahouny opatřené vratiháčky ho tahaly za tkaničky v botách, až se jim podařilo kličky uvolnit, rozvázat a rozšněrovat. Šňůrky plandaly kolem nohou a Dušánek se polekal, že mu zas něco strčí do bot. Duch jeho se raději zul a vrátil se do vězení. V kobce nula nula šest má pevnou půdu pod nohama.
 
-  
+</section>
+
+<section>
 
 Na stoličce u vachrlatého stolku seděla Ráchel Pospíšilová, vězeňská kaplanka a všeobecná věřící bez konfese, duchovní utěšitelka utěšitelných bez rozdílu rasy, národa i přesvědčení, vyznání a duchovního směřování. Takováto duchovní může poskytovat duchovní vzpruhu vězňům napříč konfesemi, také ateistům prahnoucím po něčem vyšším, lidem hledajícím, dezorientovaným a tápajícím, ukotveným i neukotveným. Nedostalo se jí matoucího teologického vzdělání, které by ji určovalo k jednomu pohledu a vylučovalo z pohledů jiných. Vystudovala Vysokou školu ekonomickou v Praze, absolvovala ji s prospěchem průměrným. Ráchel je krásná žena. Okouzlující. Kdyby měla špetku ctižádosti, mohla se stát Miss Holešovice. Kdyby se bývala byla přihlásila do soutěže, byli by po ní chňapli hned. Proč by měla být Miss Holešovice nebo třeba Miss World, když to nemá zapotřebí. Ví, že je pěkná ženská, ale nezakládá si na tom, o svém poslání má jiné představy. Dostalo se jí náhlého vnuknutí, že má pomáhat bližním v tísni. Vnuknutí přišlo shůry. Místo přihlášky do soutěže o královnu krásy podala žádost o místo kaplanky ve věznici. Požádala písemně a její žádost byla pro nedostatečnou kvalifikaci zamítnuta. Jako by vnuknutí nestačilo! Pokusila se tedy navštívit ředitele věznice ve věznici, jenže narazila – stejně jako nedávno paní Beránková – na nekompromisní bábu ve vrátnici. Však oni vědí, proč dávají do vrátnic nekompromisní báby! Vyčíhla si tedy pana ředitele v nestřeženém okamžiku, když kráčel Jankovcovou ulicí od zubaře s krvavým kapesníkem před ústy.
 
@@ -29,7 +33,9 @@ Světe, zboř se! Také Ráchel Pospíšilová, krásná duchovní útěcha pot�
 
 „Pan ředitel s vámi, slečno kaplanko, nutně potřebuje mluvit. Osobně.“
 
-  
+</section>
+
+<section>
 
 Nic nechápala, vůbec tomu nerozuměla. Netušila, že zrovna jí se může něco takového přihodit, a navíc při výkonu povolání! Vždyť je tady pro všecky, není tu jen pro jednoho, byť by byl nejpotřebnějším. Vždyť mu za přípravu revoluce hrozí absolutní trest! Na revolucionářích je cosi úžasného, obecně imponujícího. Třeba Ernesto Che Guevara, lékař z Argentiny a kubánský ministr průmyslu zabitý v Bolívii! Tolik let uplynulo od smrti tohoto charismatického muže, a přesto jeho romantická podobizna stále zaplavuje svět: na zdech slumů ve velkoměstech všech kontinentů, na tričkách rozervanců i nevzdělanců, kteří ani nevědí, co na sobě nosí, na plakátech, na reklamách. Také na etiketě lihoviny s rumovou příchutí, višňovou šťávou a karamelem ze Štítiny pod nápisem „HASTA LA VICTORIA SIEMPRE“ hledí na pijáky jeho odhodlaná revoluční tvář s rudou hvězdou na baretu. – Nebo Lenin! Vždyť ten drobný človíček obrátil naruby celý svět a stále ještě láká, stále tu ještě straší ten maják, zvon, Lenin, stále mu není konec… Mladistvý zápal, posedlost myšlenkou změnit svět, plápol v očích, vize nového, spravedlivého řádu, naděje, že revoluce splní všechna očekávání, nejbujnější sny a tužby nás ponižovaných, utlačovaných, bitých… Ano, lze pochopit, když dívka, žena utlačovaná a bitá, posedlá revolucí, vzplane k revolu­cionáři a zahrne jej láskou nejvroucnější.
 
@@ -39,7 +45,9 @@ Upíjela vystydlou kávu a nevnímala její chuť, její vystydlost. Pokoušela
 
 Měla by od toho utéct, dokud je čas. Odejít z věznice a už se tam nikdy neukázat. Nasednout do vlaku a odjet by měla, až kam jsou natažené koleje. Ta láska je problém. Tak obrovský problém, že na něj nemůže stačit. Nemá tolik síly, aby tak obludnou tíhu unesla. Nejdřív se musí uklidnit, vzít rozum do hrsti. Každá situace musí mít přece východisko, jenom je najít. Nebo počkat, až se to samo vyřeší. Vtom si uvědomila, jak se tahle situace sama vyřeší… Vykřikla zděšením. Ale nikdo ji neslyšel.
 
-  
+</section>
+
+<section>
 
 > _Drahá maminko,_
 
@@ -103,7 +111,9 @@ Vítr jim fičel kolem uší, čechral vlasy, uháněli oblohou výš a výš, 
 
 Jenže pak si Ráchel potřebovala udělat cosi s vlasy, aby se jí v kosmickém povichru nezasukovaly, pustila se Dušánka a rychlost ji smetla do hlubin noci. Dušánek se vrhl za ní, měla však notný náskok. Ve volném pádu nemohl dělat nic jiného než padat, máchání končetinami jeho pád nezrychlilo, jen stupňovalo zoufalství. Stupňovat nelze do nekonečna, jakmile dosáhne superlativu, přetočí se a praskne. – Prask!
 
-  
+</section>
+
+<section>
 
 Dušánek nechtěl, aby ho u soudu někdo obhajoval. K čemu je obhájce nevinnému? Vždyť se ničeho nedopustil, obhájí se sám. Řekne jim, jak to bylo s těmi botami doopravdy. Přece nebude sám sobě strkat něco do bot, když jde na procházku jarním lesem. A ještě k tomu revoluci! Copak je blázen? To musí pochopit každý. K čemu je dobré okrádat zaneprázdněného advokáta o čas? Vždyť může být jinde užitečný. – Bývala by to byla docela rozumná úvaha, kdyby v tom Dušánek nevězel po uši. Přidělili mu obhájce ex offo, a basta. Basta fidli!
 
@@ -181,7 +191,9 @@ Jmenoval se Matyáš Bruder, měl pět dětí a musel je uživit. Byl to fikan�
 
 Jenže poslední výrok doktora dvojího práva Matyáše Brudera už Dušánek neslyšel. Jeho selektivní naslouchání se věnovalo zvukům, jaké vydává srdce zamilovaného.
 
-  
+</section>
+
+<section>
 
 Nebyl to špatný nápad. Proč by si Dušánek neřekl o rozhovor s duchovní osobou? S duchovní osobou o duchovních věcech. Zvláště je-li duchovní osobou krásná Ráchel, do níž se zamiloval. Někteří vězni polykají příbory, sypou si do očí prach, jiní vpravují do žil sliny, aby si poškodili zdraví a museli být ošetřeni, hospitalizováni, kříšeni k životu, aby jim nudný vězeňský čas líp utíkal. Dušánkovi se naskýtá příležitost využít vězeňského času mnohem příjemněji, s kaplankou. Nemohl uvěřit, ale uvěřil, že ta úžasná bytost, která se mihla kobkou nula nula šest a které říká Ráchel, je doopravdy Ráchel, Ráchel Pospíšilová, univerzální kaplanka v téhle věznici.
 
@@ -217,7 +229,9 @@ Teprve když si v kanceláři balila svých pět švestek, začalo Ráchel doch
 
 Ale nejdřív udělá Ráchel všechno pro to, aby Dušánka z kriminálu dostala. Boj za zrušení trestu smrti nebude jednoduchá záležitost, a než jej vítězně vybojuje, může být Dušánek stokrát bez hlavy. Rozběhla se za majorem Vrzgalou, úspěšným vyšetřovatelem Bezpečnostní služby státu, jemuž se Dušánek přiznal. Potřebovala zjistit, jestli by se s takovým přiznáním nedalo ještě něco udělat. Bez přiznání a bez důkazů se nemůže trestat.
 
-  
+</section>
+
+<section>
 
 Major Vrzgala, když skončil s vyšetřováním nového případu, nakoukl domů a zjistil, že mu tam opět pšenka nekvete. Než stačil zase zmizet, vrazila mu paní Vrzgalová vodítko, na jehož konci se usmíval pejsánek Punťa. Jako vždycky. Zamířili tedy jako vždycky do hospody U Kata, pár kroků od justičního paláce, v němž si nalezlo své místečko vše, co spadá pod spravedlnost a přidružené obory: zemský soud a prokuratura, věznice i vyšetřovatelé věcí kriminálních, hospodářských, mravních, dopravních, státních a dalších všelijakých zločinů společnosti nebezpečných; také advokáti měli poblíž svoje nory. V hospodě U Kata byla spravedlnost mezi svými. Do půlnoci bylo zbytečné hledat Vrzgalu a Punťu doma u manželky s dcerou. Do půlnoci major venčil psa v hospodě pod stolem a pil plzeň ve společnosti pana Dostálka, jemuž se přezdívalo Mydlář.
 
@@ -303,7 +317,9 @@ Také Ráchel si objednala pivo, co jiného u Kata.
 
 „Zdar! Zdar! Nazdár!“ zvolal pan Dostálek ze spaní.
 
-  
+</section>
+
+<section>
 
 Vodova prokuratura není daleko od hospody U Kata a Ráchel si nemusela dělat starosti s časem. Pro návštěvu nočního prokurátora je chvíle před půlnocí chvílí nejvhodnější. Vyběhla z hospody U Kata a zaběhla k Vodovi. Byl ve své prokurátorně i se zapisovatelkou Lucií, dívkou s patrnými ňadry a pověstí Kerbera. Zvláště jde-li o návštěvu pohledné ženy. Lucie se domnívá, že je majitelkou prokurátora Vody a žádná jiná nemá právo na něj ani pohlédnout. Protože zná svého pappenheimského a nechce o něj přijít. Sedává u stolku s telefonem a kompjútrem v předpokoji a studuje erotické informace, aby nezaostávala za světovými trendy a mohla poskytovat šéfovi novinky. Aby mu nezevšedněla.
 
@@ -370,3 +386,5 @@ Prokurátor jí pozorně naslouchal, kreslil si přitom cosi do školní písank
 „Ano, opravdu všechno.“
 
 „Ještě včera, krásná slečno, kdybyste přišla, mohl jsem tu obžalobu roztrhat na kusy a celý spis hodit babralovi Vrzgalovi na hlavu, aby… Mohl jsem obžalobu napsat jinak, i když se ten nešťastník nešťastná přiznal… Pozdě, slečno Pospíšilová. Žaloba už byla doručena zemskému soudu a také panu obžalovanému Beránkovi. My dva jsme se, dušinko, potkali příliš pozdě.“
+
+</section>

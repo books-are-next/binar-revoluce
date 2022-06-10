@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 Jak revoluce probíhaly v minulosti a jak skončily nebo neskončily, k jakému dospěly výsledku, to se – alespoň v hrubých rysech – dozvídáme z dějin: osoby a obsazení, události, data, fakta, výsledky. Kdybychom revoluci, která v naší krásné vlasti zrovna probíhá, dokázali usměrňovat, řídit – Vlasta Revoluce, když se už do toho s takovou vervou pustila, měla by držet otěže pevně v rukou – snad bychom, poučeni historií, mohli překotné dění přivést k něčemu kloudnému. Ke zdárnému konci? Ale to bychom museli žít v poslušném loutkovém divadélku, kde jsou aktéři dřevění, mají pohyblivé údy a vede je jediná vůle, jedna pevná ruka. Kus, který se zrovna dává, by musel být napsán předem. Jenže tak tomu není, revoluce se neodehrává v pimprlové komedii, účastníci jsou z masa a kostí, každý má svou jedinečnou hlavu, jeden se liší od druhého, vodící špagáty jsou zpřetrhány, kus není dopsán, autor je zoufalý, zaseknutý; bezradní pajduláci nevědí co si počít.
 
 Ani Vlasta neví jak dál, ačkoli stojí v čele, protože se tam postavila. A co Dušan Beránek, první revolucionář, co ten? Dušánek? Po Dušánkovi přece nemůžeme chtít, aby popadl zpřetrhané otěže, svázal je dohromady, aby zapráskal bičem koňům revoluce nad hlavami. Vždyť je v rekonvalescenci, vždyť ani pořádně neví, co se s ním děje. Vždyť k tomu přišel jako slepý k houslím. Dušánek je třtina ve větru se klátící, zmítán okolnostmi povívá krajinou určenou mu osudem. Větry se střídají, mění směr i sílu, nikdo nedokáže předvídat, jak zadují zítra, pozítří, příští týden… Za chvilku. Ale co když mu křivdíme? Co když v něm přeci jenom dřímá cosi velkého, cosi, co se ještě nevyklubalo, co teprve klíčí? Vždyť se třemi psychiatry se dokázal vypořádat s nečekanou rozhodností, s udivující razancí. Třeba nás ještě překvapí.
@@ -17,7 +19,9 @@ Ale kdo to způsobil? Je to snad rozmar Lidu, že tu máme revoluci naostro? Cop
 
 Ne ne, Lid není toho příčinou. Propuknutí revoluce naostro zavinili reakcionáři, svržená vláda, establišment, který zbaběle utekl před odpovědností a schovává se v exilu. Také zahraniční nepřátelé leccos způsobili. To jsou oni! Není divu, že revoluce vytryskla jako rudý květ. Už toho bylo dost. Lid měl už po krk chaboučké vlády a zkorumpované justiční mafie, policie spřažené s organizovaným zločinem, obou komor parlamentu, který nezastupoval voliče a vyráběl špatné zákony, armády plné tlustých plukovníků a generálů v kancelářích, zatímco prostí vojáci krvácejí na zahraničních misích kdesi na Blízkém, Středním, Dálném a Velmi Vzdáleném východě, mizerného zdravotnictví a školství už měl dost, pokleslé kultury, kulhavého sportu a tělovýchovy, lesnictví a dopravy i spojů, těžby uhlí a nerostů, energetiky, Karla Gotta a Helenky Vondráčkové, a také obchodních řetězců, obnovitelných i neobnovitelných zdrojů, umělců a vědců, Evropské unie, přemnožených strak a holubů, skinheadů, anarchistů, automobilistů a cyklistů, Cikánů, Romů a Vietnamců, krtečka, ekologů, etymologů a také entomologů, zkrátka všeho už měl náš Lid plné zuby. Není divu! – Oni to zavinili a Lid má toho po krk. Plné zuby toho má. Oni jsou všeho příčinou, trpíme jenom kvůli nim. Všechno zlé oni zavinili. Proto je zapotřebí vyšťárat hady a štíry z děr a vypořádat se s nimi. K tomu naštěstí máme znamenité, pilné, nezištné a nelítostné revoluční úderky pod velením Pštrosa, věrného přítele pana prezidenta Dušana Beránka.
 
-  
+</section>
+
+<section>
 
 Vlasta nemohla trávit čas ve Velkých Šírých Rodných Lánech s ostatními. Někdo musí řídit revoluci a celou zemi. Z Hradu se celá země řídí nejlíp, je odtud krásná vyhlídka. Také je třeba zasedat v Lidovém domě, v srdci revoluce. Na Demokratickou revoluční radu státu se nedá spolehnout, potřebuje soustavný dohled. Jsou to dobří chlapíci oddaní věci, vždyť si je Vlasta – všech dvanáct apoštolů – vybrala v Lidovém domě ze štamgastů, kteří sem docházejí každý den, ani škaredé nachlazení s dávivým kašlem a škrábáním v krku je nedokáže odradit. Vždyť tu mají svoje sklenice, na uchu viditelné označené všelijak barevnými a rozmanitě tvarovanými kroužky a pentličkami, aby je Bernardýn snadno rozeznal. Jenom se podívá, když je na pochybách zavětří… a nikdy se nesplete. Jsou to oddaní revolucionáři, Vlasta se jim velice líbí. Vlastně jsou Vlastiným fanklubem, tahle Demokratická revoluční rada státu. Od té doby, co byli vybráni a nahradili reakční a zkorumpovanou, poraženou vládu, zasedají v extrovně Lidového domu, aby ve Strakové akademii, v bývalém vládním sídle, nemuseli při svém každodenním zasedání pít láhvové pivo. Není nad pivo od čepu, nad pivo Bernard v Lidovém domě. Demokratická revoluční rada zahajuje svá zasedání přípitkem na Vlastino zdraví: „To se nám to chlastá, / když nás vede Vlasta!“ Každý má plyšového krokodýla a po tomto zvolání praští krokodýlem o stůl. Tento obřad je sice milou pozorností Vlastě, skutečné vůdkyni revoluce, jenže k řízení státu nestačí. Ačkoli mají členové rady dobrou vůli řídit stát, žádný z nich to neumí. Veškerá tíha práce, veškerá odpovědnost za chod státu a za celou revoluci spočívá na Vlastiných bedrech. Proto nemohla odjet s ostatní revoluční elitou do Velkých Šírých Rodných Lán. Ani na roztomilého andílka Jenůfku jí nezbývá dost času – co jen z toho děcka vyroste! Svěřila ji do péče Palu Lovečkovi, protože jenom on ji dokáže zaujmout, popřípadě zkrotit.
 
@@ -65,7 +69,9 @@ Jenže ve chvíli, kdy už rozpřahovali křídla, otevřely se dveře a vstoup
 
 Když paní Beránková odešla, pozvedl Dušánek talíř s pomerančovými dílky. Ráchel si jeden vzala, byl sladký a šťavnatý, dobře vyzrálý. Ačkoli v obchodech nebyly pomeranče k mání, na stole pana prezidenta jich byl dostatek. Pak si vzala další dílek, také Dušánek si vzal, jedli a jedli, až to všechno snědli. Pak si olízali šťávu z prstů a vrátili se do zámku.
 
-  
+</section>
+
+<section>
 
 Jaro neprobouzí jenom přírodu, ovlivňuje též hnutí mysli člověka a tvorbu šťáv v jeho útrobách. Palo Loveček zatoužil po děvčatech. Po dívkách, které ho těsně před revolucí odehnaly od svých bran po debaklu v rozhlase, při kterém se tribun Lidu Petr Semlela – kde že je mu konec – tak ostudně projevil. Odsoudil revoluci ještě před tím, než k ní došlo. Palo vzápětí pochopil, že vsadil na špatného koně, když Semlelovi umožnil odkrákorat do éteru takovou snůšku nesmyslů. Není divu, že ho svobodomyslné dívky vystrnadily, ani kravata se sopkou Kaiakakapplapatlalalokul a kyticí chrp v modřanském džbánku jim v tom nedokázala zabránit. Právem ho zahnaly, teď to ví. Ale pozor! Nyní je jedním z předních revolucionářů, stojí po boku samotné Vlasty Revoluce a v těsné blízkosti prvního revolucionáře, prezidenta republiky Dušana Beránka, a kdyby chtěl, snadno by mohl přijet před brány Dívčí farmy na bílém skútru. Ani novou kravatu by si nemusel pořizovat. Tak na co čekáš, Palo Lovečku? Vzhůru do díla!
 
@@ -117,7 +123,9 @@ Dívky vyskočily z trávy, seskočily ze stromů a s jásotem se vrhly na č
 
 V takovéto konkurenci nemá Palo Loveček šanci, na katovy pacholíky je i nejpřednější revolucionář krátký. Posadil Jenůfku před sebe, nastartoval motorku a docela pomalu, jako kdyby doprovázel hlavu státu, vyjel bránou v plotě ze železných kopí.
 
-  
+</section>
+
+<section>
 
 Už jsme dlouho nebyli ve veřejnoprávním rozhlase, a přitom se kva­pem blíží den slavného výročí. Vždyť my ani nevíme, jak se v revoluci daří naší rozmilé paní režisérce Máje Vožaté – co nevidět by měla opět jako každoročně promluvit před budovou rozhlasu o květnovém povstání, abychom věděli a nezapomněli, abychom se pak nemohli vymlouvat, že nám o tom nikdo neřekl. Abychom také my, mladší generace, které to na vlastní kůži nezažily, byli řádné poučeni o tom, co se tenkrát přihodilo, a že už nikdy nedopustíme, aby se něco takového zopakovalo. Abychom si vzali poučení z dějin. Snad nám to i letos, v této pohnuté revoluční době, paní Vožatá poví, než odjede bydlet do Strašnic.
 
@@ -169,7 +177,9 @@ Všichni přítomní povstali a zdvořile zatleskali.
 
 Pod Metodějem Klepetou se podlomila kolena. A vzhledem k tomu, že revoluční úderníci už ho nepodpírali v domnění, že držet už ho netřeba, sesypal se na zem jako pytel brambor, kterému rozvázali tkaničku. – Tak se stal hlasatel s perleťovými manžetovými knoflíčky, ve vlastnoručně vyžehlené košili, generálním ředitelem.
 
-  
+</section>
+
+<section>
 
 Revoluce obrací tok dějin, s nikým a s ničím se nemazlí. Slabé charaktery láme, drtí je na prach a odhazuje do popelnic. Slabé charaktery nejsou k ničemu. A silní? Ti se zocelí. Co je choré a neužitečné, v revolučním kvasu zahyne. – Jak je na tom v této pohnuté době narkoleptik Osvald Ostrý, redaktor pořadu Ze všech koutů, padesáti minut informací, názorů a dojmů ze všech koutů? Jak je na tom v pohnutých revolučních časech nešťastník vzdorující digitalizaci? Jak teď dává dohromady těch svých padesát minut bez Dušánkovy pomoci, bez Pala Lovečka, čiperného ajťáka? Kdo mu pomáhá s digitálním stříháním? – Nikdo. Život ho naučil, revoluce přinutila najít řešení. Za revoluce se nestříhá. Za revoluce by stříhal jenom kontrarevolucionář. Revolucionáři nosí redaktoru Ostrému revoluční myšlenky, informace, názory, revoluční dojmy, a běda kdyby si pan redaktor dovolil některému z těch statečných žen a mužů do některé z jejich revolučních myšlenek střihnout! Pan redaktor pochopil a závažné revoluční příspěvky zařazuje revolucionářům do vysílání nesestříhané. Zdá se, že to revoluci prospívá. Rozhodně to revoluci neškodí a Osvald Ostrý se může nerušeně věnovat své chorobě, aniž by se musel bát, že přijde o hlavu.
 
@@ -230,3 +240,5 @@ S metálem na hrudi a s rourou pod paží vrátil se redaktor Ostrý do rádi
 „Nic po tobě nechci, chci tě povýšit!“ zvolal generální ředitel. „Mám pro tebe novou funkci, pro tebe jak dělanou. Budeš spícím redaktorem. Není to báječné?“
 
 Vyznamenanému redaktorovi Osvaldu Ostrému byla přidělena útulná místnost v přízemí, aby nemusel výtahem, aby ho páternoster náhodou neobrátil hlavou dolů, místnost jako pokojíček, s ušatou lenoškou a čalouněným štokrletem pod nohy. Jeho úvazkem je prospat denně osm hodin, za přesčasy je dvojnásobná mzda.
+
+</section>

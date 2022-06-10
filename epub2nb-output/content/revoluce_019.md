@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Beránek Dušan to přežil a byl vyzvednut do veliké výšky. Do takové, že to nemohl brát jako samozřejmost, že ho to muselo velice potrefit. Ještě se z toho nevzpamatoval, ještě se nenašel. Ještě se v noci probouzí hrůzou. Na krku cítí tlak smyčky, která se zvolna utahuje: nejdřív jako límec košile o číslo menší, pak o dvě čísla, o tři… Děs! Přitom však – světe div se! – pociťuje slastnou erekci. Teď kdyby tu vedle něj ležela Ráchel! Teď, teď! Snadno si uvolnil škrtící límeček, jenže Ráchel tu vedle něj není. Ráchel odtud odešla už večer s prásknutím dveřmi. Poté, co do ložnice vešla starostlivá maminka s talířem. Na talíři oloupané jablko rozkrájené na čtvrtky, zbavené jádřince a jadérek.
 
 „Dušánku, synku, přinesla jsem ti jablíčko.“
@@ -93,7 +95,9 @@ Umouněný pán šmátral po kapsách, ale občanku ani jiný průkaz nenašmát
 
 „Tak vidíš,“ řekla Vlasta. „Teď tu máš revoluci naživo. Teď aspoň doženeš, cos ve škole zmeškala.“
 
-  
+</section>
+
+<section>
 
 Od toho dne, kdy měl být popraven Dušánek, uplynulo několik týdnů, ne-li dokonce měsíců. Kdo by se zabýval časem… Čas plyne, hodinky tikají, voda teče, tráva roste, hlavy se kutálejí po dlažbách měst, po návsích vesnic, revoluce si žije vlastním životem. V továrně BRANO – ZAVÍRÁ SAMO přestali vyrábět samočinná zavíradla dveří a převedli výrobu na gilotiny, třetí vylepšenou generaci. Ke slévárně a kovárně postavili ještě stolárnu, aby nemuseli dřevěné části gilotin dovážet ze zahraničí. Zajistili práci další bezmála stovce občanů. Zvou tam Dušánka neustále, aby se přijel podívat, dělníky, techniky, administrativní pracovníky a ostatní zaměstnance prý to velice potěší. Jenže Dušánek na tom ještě není tak dobře, aby mohl takovou dálku cestovat. Leda až se dostaví v Brance letiště.
 
@@ -123,7 +127,9 @@ Vtom na dveře buchy buchy, protože se zamkl v komnatě poté, co Ráchel prá
 
 Hbitě vyskočil z postele a ještě v pyžamu odemkl dveře. Maminka mu dala pusu a sluha přinesl proužkovaný oblek. Dušánek docela zapomněl, že už je čas.
 
-  
+</section>
+
+<section>
 
 Ačkoli neměl na revoluci v životě ani pomyšlení, uvěřil Dušánek tomu, že je revolucionářem. Že je prvním revolucionářem v zemi. Bez něj že by žádná revoluce nebyla a jenom jeho přičiněním revoluce zvítězila. Protože ji přinesl v botách, protože ho odřízli v pravý čas.
 
@@ -139,7 +145,9 @@ Paní Beránková byla šťastna. Přihlížela povznášející podívané a v
 
 To už se panstvo z balkónu odebralo do Malé hradní jídelny na malou prezidentskou svačinku, než se na třetím nádvoří odklidí klepadla. Před obědem je totiž čeká ještě jeden nevšední zážitek na tomtéž místě, jenže s jinými aktéry i rekvizitami. K této podívané se dostaví také Lid, vždyť za všecko, co obětoval revoluci, si to zaslouží.
 
-  
+</section>
+
+<section>
 
 Kalná jsou jitra opilců. Zvláště když trpí výpadkem paměti. Co bylo včera za den? Co jsem to vlastně… Kde a s kým? Nebo to bylo už předevčírem? Jak dlouho? – Prezidenti to mají dobré, jsou neustále pod ochranou ochranky, těch zdatných chlapíků s drátkem v uchu a s nabitou pistolí v podpaždí, vždy ochotných přiskočit ku pomoci. Také lékař se dostaví k prezidentovi na zavolanou s šumivým zdravotním nápojem zázračně úlevných účinků. Avšak i pro prezidenta se všemi pomocníčky a veškerou péčí je to stav třeskutý, krajně nepříjemný, i přesto že se probudí ve své posteli s nadýchanými peřinami, v čistém pyžamu, umyti a navoněni.
 
@@ -229,7 +237,9 @@ Pan prezident Bořek Bouchala to do sebe honem kopnul.
 
 „Obávám se, pane prezidente, že se tady budete muset zdržet,“ řekl pan Dostálek s vážnou úřední tváří. „Do soboty. Protože vy jste, pane prezidente, naplánovaný na sobotu. Sejdeme se na třetím nádvoří.“
 
-  
+</section>
+
+<section>
 
 Z pátku na sobotu Lid nemohl dospat. Což o to, poprav si už v průběhu revoluce užil dost a dost, jenže taková podívaná zalahodí oku pokaždé, i když jde třeba jen o docela obyčejného úplatného úředníčka z berňáku nebo venkovského zlodějíčka slepic. Poprava je sice krajní opatření, jenže za revoluce se ke krajním opatřením sahat musí co nejčastěji. Chceme-li začít s novým, krásným a spravedlivým uspořádáním světa, musíme vyčistit všechny chlívky a zbavit se staré veteše. Zavírat reakcionáře, škůdce a zločince do vězení nebo je koncentrovat v převýchovných táborech je zbytečné plýtvání veřejnými prostředky. Převážná většina se stejně nenapraví. Nepřítel zůstane nepřítelem a trest v něm jeho nepřátelství jenom utvrdí. Nepřítele je nejlépe eliminovat. Nač ho zbytečně trápit ve vězení… Tuto jednoduchou pravdu pochopí každý prostý občan, který to se svojí vlastí, se svým národem a státem myslí upřímně. Každý, kdo je jeho nedílnou součástí. Poprava je tím nejjasnějším, nejčistším a koneckonců konečným řešením. Dokonce ani zmýlenou, dojde-li ke zmýlené, už nelze napravit. Takže k žádné zmýlené dojít nemohlo. Hotovo, vyřízeno, šlus Julius!
 
@@ -251,7 +261,9 @@ Ani Ráchel Pospíšilová, bývalá polykonfesní kaplanka, se v Lido­vém do
 
 Lidu je v Lidovém domě dobře i bez revoluční elity. Lid je tu mezi svými a ke spokojenosti mu nic nechybí. Občas si odskočí na významné sportovní utkání nebo na koncert Staré vesty, většinou však významné události sleduje na velkoplošné obrazovce v lokále a nemusí nikam běhat. Ovšem poprava hlavy státu je něco jiného. Ta se nejlíp vychutná přímo na místě, na třetím nádvoří. Lid dopil v Lidovém domě pivo, zaplatil a vydal se vzhůru – ku Hradu!
 
-  
+</section>
+
+<section>
 
 Jenůfka byla velice zvědavá. Konečně uvidí na vlastní oči, jak se po dláždění kutálí useknutá hlava. Nevěděla, že na hlavy mívají u gilotin košíky. Přesně v poledne, ještě před obědem, to začíná. Bude se dívat z balkónu královského paláce na třetím nádvoří, jak je ten rytíř na koni, co píchá kopím do draka. On to vůbec není drak, spíš takovej divnej krokodýl. Ale stejně… Bude se dívat z toho balkónu, jak je z něj vidět na zlatý kostel, kde se schovávají klepadla na koberce. Dneska už jsou vyklepané. Taky Palo tam s ní bude na balkóně, její kamarád, i když je už velký dospělák. To přece nevadí, i když chodí za dospělýma holkama, i takový velký může být její kamarád, protože umí pískat na čtyřech prstech, i na dvou, i na jednom prstu, ukazováčku, když si ho strčí do huby zahnutý. To neumí nikdo, jenom Palo Loveček, její kamarád. Kdyby nebyl její kamarád, klidně by ho měla za tatínka, to by jí nevadilo, i když žádnýho nepotřebuje za tatínka, protože tatínci nejsou na nic. Dneska se budou spolu s Palem dívat na popravu, poprvé v životě na opravdickou popravu, a Palo bude mít kravatu pod krkem.
 
@@ -312,3 +324,5 @@ Jenůfka začala ječet hrůzou. Seskočila z mámina klína, rozrazila dveře 
 Dušánek vstal z prezidentského křesla, přistoupil k zábradlí a začal zvracet.
 
 Lid propukl v nadšený jásot. Jásali i ti, kterým se Dušánek vyblil na hlavy. Při jásotu a nadšení si toho ani nevšimli.
+
+</section>

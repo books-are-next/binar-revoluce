@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-revoluce-eefd95d",
-  "revision": "eefd95d",
+  "identifier": "binar-revoluce-23d4618",
+  "revision": "23d4618",
   "readingOrder": [
     "promo.html",
     "revoluce_005.html",
@@ -36,8 +36,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:15:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870551555
+    "date": "Fri Jun 10 2022 17:46:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883203191
   },
   "documents": [
     {
@@ -95,9 +95,9 @@
     {
       "title": "Revoluce!",
       "file": "revoluce_007.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 11,
+      "chars": 57,
+      "ideas": 1,
       "role": "chapter",
       "order": 3,
       "prev": "revoluce_006.html",
@@ -315,9 +315,9 @@
     {
       "title": "Revoluce!",
       "file": "revoluce_018.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 10,
+      "chars": 49,
+      "ideas": 1,
       "role": "chapter",
       "order": 14,
       "prev": "revoluce_017.html",
@@ -495,9 +495,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 116,
-      "chars": 739,
-      "ideas": 16,
+      "words": 83,
+      "chars": 562,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "revoluce_026.html",
@@ -515,14 +515,14 @@
   ],
   "totals": {
     "all": {
-      "words": 97461,
-      "chars": 605132,
-      "ideas": 2248
+      "words": 97449,
+      "chars": 605061,
+      "ideas": 2241
     },
     "chapters": {
-      "words": 97342,
-      "chars": 604374,
-      "ideas": 2230
+      "words": 97363,
+      "chars": 604480,
+      "ideas": 2232
     }
   }
 }

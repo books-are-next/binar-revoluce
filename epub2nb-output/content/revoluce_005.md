@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 > _Ještě nikdy se nestalo, aby nějaká revoluce zanechala po sobě u moci lidi, kteří ji provedli. A přece se ještě najdou revolucionáři: to je důkaz, jak málo poučná je historie._
 
 — ANDRÉ MAUROIS: _MLČENÍ PLUKOVNÍKA BRAMBLA_
@@ -20,3 +22,5 @@ contentType: prose
 > Koneckonců – „jsme odsouzeni doufat.“_
 
 — MICHAEL MARCH: _PŮLPINTA_
+
+</section>

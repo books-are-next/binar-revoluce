@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Paní Alžbětu Beránkovou synův dopis znepokojil. Hlavně zmínka o tom, že se přiznal. Její Dušánek připravuje revoluci… Vždyť je to absurdní. Něco takového by mu nikdy nedovolila. Její synek, mistr zvuku z rádia, a revoluce! Co by z toho měl? Dušánek by se žádné revoluce neúčastnil ani zpovzdálí, ani kdyby už byla, kdyby ji připravil někdo jiný, kvalifikovaný, i kdyby se revoluce účastnil také Lid – to by asi musel, vždyť bez Lidu se žádná revoluce neobejde –, Dušánek by se na ní sotva podílel, protože je v rádiu šťastný a nic mu nechybí. Jenom jestli se ten její chlapec nezapletl s nějakými špatnými lidmi, jestli on nemá nějaké radikální kamarády, kteří ho do čehosi namočili a pak utekli a nechali ho v tom. Aby to za ně slízl. – S tím se musí něco udělat!
 
 Věděla dobře, že kdyby zavolala panu řediteli do věznice nebo kdyby ho požádala o návštěvu písemně, k ničemu by to nevedlo. Jen by ji chlácholil, že to nic, vždyť věznice nejsou pro zvířata, nýbrž pro lidi, je tam teplo a dostatečná strava, vězňové se mají dobře, nikdo je neponižuje, na jejich lidská práva jim ve vězení nikdo nesahá. Ostatně žádný z nás nemůže vědět, kdy se také on ocitne za mřížemi, ani ředitel věznice si nemůže být jistý, nebyl by prvním ředitelem věznice, který se dostal za mříže, kdyby se dostal za mříže. Ani posledním. Také paní Beránková by mohla skončit v kobce. Nejspíš by se pan ředitel nechal zapřít nebo by se vymluvil, že s paní Beránkovou nemůže mluvit, protože je zaneprázdněn řízením věznice, je nemocen, na služební cestě nebo na ministerstvu spravedlnosti… A paní Beránková by ostrouhala kolečka. Tak co má dělat? S vědomím, že ostrouhá kolečka, vypravila se odhodlaná matka rovnou do věznice. Bez ohlášení. Vzala si s sebou pletení, bude-li muset dlouho čekat, aby nemarnila čas.
@@ -29,7 +31,9 @@ Ze škvíry se vysoukal nepoužitý občanský průkaz. Paní Beránková si ho 
 
 Osoba za sklem se na paní Beránkovou jedovatě usmála a sáhla pod stolní desku. Ozvalo se poplašné houkání, začalo blikat červené světlo. Vedle paní Beránkové stanuli dva Béďové velitelé a vystrkali ji úzkými dveřmi na ulici. Upadla na chodník, odřela si dlaně, lokty a kolena, punčochy nadranc. – Tudy cesta nevede, je třeba najít jinou, schůdnější.
 
-  
+</section>
+
+<section>
 
 Zatímco tribun Lidu Petr Semlela sedával v extrovně obklopen svými nejbližšími, v lokále a ve výčepu Lidového domu seděl Lid a pil pivo Bernard a několik druhů kořalek, hlavně vodku, zelenou, borovičku a rum přejmenovaný na tuzemák, někteří majetnější si dali becherovku. Mezi Lid na kus řeči občas zašla také Vlasta Zlámalová, absolventka fakulty sociálních studií s titulem magistra v kapse. Chystala se na doktorát, zvolila téma „REVOLUCE JAKO VĚČNÁ NADĚJE LIDU NA LEPŠÍ BUDOUCNOST“ a v Lidovém domě mezi Lidem u piva Bernard doufala nalézt inspiraci a chuť do další práce. Původně měla pro svou práci jiný název, původně se domnívala, že je revoluce marnou nadějí Lidu na lepší budoucnost. Ale co jiného než revoluce může změnit těžký úděl Lidu v systému, který předstírá, že je demokratický? Častý pobyt v Lidovém domě mladou doktorandku zviklal v názorech. Vědec by měl zůstat nezúčastněným badatelem a k závěrům dospívat na základě vybádaných fakt, argumentů, nezmanipulovaných, kriticky zhodnocených historických pramenů; na základě solidního vědeckého bádání. Vědecká práce nespočívá v zaznamenávání vytoužených představ, není to žádné fantazírování potrhlého beletristy. Vědec si nesmí vymýšlet, fabulovat, cucat z palce, nemůže jen tak vyslovit tezi a k ní teprve shánět důkazy, kterými by ji podepřel, a opačné důkazy zahazovat, nebrat na vědomí, manipulovat, ničit. Vědec musí pracovat metodicky a svá tvrzení dokázat.
 
@@ -43,7 +47,9 @@ Nebylo by to k ničemu. Zatímco Vlasta Zlámalová pila pivo a borovičku s 
 
 Kdepak revoluce! Ne ne, žádnou revoluci Petr Semlela nepotřebuje. Lid revoluci nechce. Kdyby mělo dojít k revoluci, tribun Lidu by musel stát v čele. Ne ne, do revoluce se Semlela nepohrne. Výsledek revoluce je nepředvídatelný. Za revoluce nemůže tribun Lidu vysedávat v extrovně Lidového domu, producírovat se po stránkách novin a televizních obrazovkách, inkasovat honoráře, tantiémy, provize a úplatky, navštěvovat slavnosti, večírky a rauty, vozit se v limuzíně s šoférem a bydlet ve vile, zaměstnávat kuchařku a zahradníka, golfovat s princem Charlesem a laškovat s čipernými odborářkami. Revolucionářům kolem hlavy sviští kulky, řítí se na ně zdi, vůkol páchnou krchovy. Lid žádnou revoluci nechce! Copak je blázen? Lid chce, aby jeho tribun Petr Semlela promluvil v celostátním veřejnoprávním rozhlase. To je Věc Lidu, to chce Lid.
 
-  
+</section>
+
+<section>
 
 Revoluce není strašák do zelí, revoluce je opravdový strašák, ze kterého jde opravdový strach. Paní Alžbětě Beránkové už revoluce nahnala hodně strachu o Dušánka. Když je někdo ve vězení obviněn z přípravy revoluce, je to horší, než kdyby vraždil pro peníze, z vilnosti či z rozmaru. Je to horší, než kdyby vyloupil banku, zpronevěřil peníze, střelil po prezidentovi republiky ze špuntovky. Je to horší, než kdyby řídil opilý. Znepokojení paní Beránkové bylo oprávněné a její přesvědčení, že Dušánek je nevinný a nemá s revolucí nic společného, na oprávněnosti jejího znepokojení neubralo ani špetičku. Když ji vyhnali z vrátnice věznice, zamířila do Lidového domu – za tribunem Lidu Petrem Semlelou. Nikoho významnějšího neznala. Na koho se měla obrátit? Je přece také jejich tribunem, Dušánek s maminkou jsou přece taky Lid!
 
@@ -57,7 +63,9 @@ V Lidovém domě bylo plno. Pilo se pivo a vedly řeči: o fotbale, o slevá
 
 „Revoluce!“ zvolala Vlasta nadšeně, ale Lid se jen zasmál. Komu by se chtělo revoluce…
 
-  
+</section>
+
+<section>
 
 Paní Beránková proplula lokálem do extrovny, ani se nezeptala Bernardýna, smí-li tam vkročit. Vždyť je tribunovou přítelkyní! Než stačil Bernardýn zakročit, byla v extrovně.
 
@@ -113,7 +121,9 @@ Co když se Lid rozhodne, že bude vládnout sám sobě? To by to dopadlo! – 
 
 „Když já jsem teď měla tolik starostí o Dušánka, vždyť je to můj syn, nikoho jiného v světě nemám. Sama jsem ho vychovala, když nám Beran před lety utekl s kamarádem. Kdyby něco ukradl, neřeknu. Kdyby někoho zamordoval, prosím. Jenže on nic, a teď tohle! To není jen tak. Chápejte, pane tribune Lidu, že jsem neměla myšlenky na umetání cestiček do rozhlasu… Ale cestička bude! Už brzy,“ slíbila paní Beránková a Semlela jí velkoryse přistrčil své netknuté, zvětralé pivo se spadlou pěnou.
 
-  
+</section>
+
+<section>
 
 Chystaly se Dušánkovy třicáté sedmé narozeniny. Pan Šustek schválil paní Beránkové její plán, jak se dostat zavilému Osvaldu Ostrému na kobylku. Téměř dobrovolně vyklepal už podruhé v jednom týdnu ten velký koberec mauri z obývacího pokoje, protože právě zde, na koberci v obývacím pokoji paní Beránkové, se rafinovaný plán, jak umést tribunovi Lidu cestičku k rozhlasovému mikrofonu, uskuteční. Už se pekly štrúdly, také sud piva Bernard pan Šustek přivalil z Lidového domu, pípu vypůjčil, ale narážet se bude až pak, až se shromáždí všichni hosté, protože je to veliká atrakce. Komu se poštěstí – Bernardýn naráží pivo sám, v skrytu svého sklepa –, aby se stal svědkem narážení? Dušánkovo narozeninové pivo bude narážet pan Šustek před očima všech v obývacím pokoji. Škoda že se oslava odehraje v oslavencově nepřítomnosti. Kdepak, Dušánka na oslavu z vězení nepustí. Vazební věznice prý není holubník! Jako by chtěl Dušánek v den svých sedmatřicátých narozenin létat!
 
@@ -121,7 +131,9 @@ K Beránkům na oslavu přijdou všichni Dušánkovi blízcí kolegové z rád
 
 Všechno už bylo nachystáno, paní Beránková si oblékla temně modrý kostýmek s jemným proužkem, připjala stříbrnou brož znázorňující Hradčany, sídlo našich králů a pana prezidenta Bořka Bouchaly, zástěru odloží, až tu budou, jen co se ozve zvonek u dveří. Určitě přijedou všichni najednou, paní režisérka Vožatá je k Beránkům přiveze, do jejího oldtajmra se vejde spousta lidí. Pan Šustek se oholil a s dřevěnou palicí v ruce čeká na ten okamžik, až palicí zprudka máchne a jediným máchnutím zarazí pípu do sudu. Ještě mají dost času, ale paní Beránková je už jako na trní, vždyť očekává vzácné hosty, vždyť nachystala událost, jejíž význam daleko přesáhne běžnou oslavu narozenin.
 
-  
+</section>
+
+<section>
 
 Pozvání na oslavu narozenin Dušana Beránka, mistra zvuku a vězně ve vyšetřovací vazbě, nebylo přijato jednoznačně a s nadšením, s jakým by bývalo bylo přijato za jiných okolností – kdyby na Dušánkovi nebylo lpělo nařčení z přípravy revoluce.
 
@@ -205,7 +217,9 @@ Ti dva pak spolu strávili příjemné pozdní odpoledne v jídelně u ováln�
 
 „Rádo se stalo, synku. Já děkuji za návštěvu. Musíme si to, chlapče, zas někdy zopakovat.“
 
-  
+</section>
+
+<section>
 
 Palo Loveček se rozhodl, že půjde na oslavu narozenin svého uvězněného nadřízeného pěšky, aby mohl jít kolem objektu nazývaného nepěkně Dívčí farma, ale my tomu budeme raději říkat Ďífčina. Tento název samozřejmě není oficiální. Palo má novou kravatu a byla by škoda nepochlubit se s něčím takovým děvčatům.
 
@@ -253,7 +267,9 @@ Co měl neblahý Palo Loveček dělat, když se chtěl k děvčatům do zahrady
 
 Kecal. Žádný mistr přece není, je čerstvě vyučený tovaryš a zvukaři do rádia nic nevyprávějí, natož povzbudivé příběhy, ani když hlasatel ztratí hlas. Jenže na lovu dívek se hodí ledacos.
 
-  
+</section>
+
+<section>
 
 Nikdo nepřicházel. Pan Šustek stále ještě svíral v ruce dřevěnou palici, nemohl se dočkat narážení sudu s pivem Bernard. Narazil by ho už dávno, bez hostů, jenže to by přišel o moment obdivu, s nímž počítal, že se mu ho dostane, když jednou ranou vrazí pípu do sudu. Nejdřív půjde jenom pěna se sykotem, ale pak, po chvilce odlévání první šnyt. Ten bude jeho. Ten se ani nepočítá.
 
@@ -298,3 +314,5 @@ Paní Beránková přinášela další teplé řízky z trouby a kladla je na 
 Tribun Lidu Petr Semlela seděl v bílém superbu vedle klimbajícího řidiče a nespouštěl zrak z okna v obývacím pokoji paní Beránkové. Čekal, až bude zelená, až zamávají šátkem… Poslouchal přitom rádio, pořad „Kolem dokola“ redaktora Osvalda Ostrého, padesát minut informací, názorů a dojmů ze všech koutů. Právě v tomto pořadu by tribun nejraději promluvil, protože to byl pořad nejen ze všech koutů, ale také do všech koutů, a Petr Semlela chtěl být slyšen ve všech koutech. Dneska už to sotva stihne. Nevadí, zítra je den taky. Konečně se v okně objevil zelený šátek a Semlela mohl vyrazit.
 
 „To je ale náhoda!“ zašvitořila paní Beránková, aby to bylo slyšet až do obývacího pokoje. „Pan tribun Lidu Petr Semlela! Taková vzácná návštěva. Jen pojďte dál, pane tribune Lidu, zrovna oslavujeme třicáté sedmé narozeniny mého syna Dušánka Beránka, mistra zvuku, v nepřítomnosti. Ten bude mít radost, že jste v nepřítomnosti slavil s námi jeho narozeniny, až mu to napíšu do vězení. Odložte si, máte-li co, a račte dále, řízků máme půl trouby a vlašského salátu tři čtvrtě prádelního hrnce. Štrúdl jsme ještě ani nenačali.“
+
+</section>

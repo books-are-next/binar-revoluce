@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Kdyby se byl býval bývalý tribun Lidu Petr Semlela přidal k revoluci, tak jako se k ní přidal veškerý Lid, byl by z něj dneska zasloužilý revolucionář s významnou funkcí, mohl jezdit s Dušánkem a jeho partou do Velkých Šírých Rodných Lánů a procházet se v zámeckém parku, pít čokoládu ke svačince a loupat si svůj vlastní pomeranč, naslouchat kukaččímu kukání a skřehotání žabiček v zámeckém rybníčku. Kdyby se přidal ve správnou chvíli k vítězící revoluci, mohl z něho být pán. Určitě by zasedal v Demokratické revoluční radě státu, a je docela možné, že by byl dokonce jedním z jejích místopředsedů. Jenže „kdyby“ nefungují, to ví každé dítě, a tak Semlelovi, který se v pravou chvíli k revoluci nepřidal, nezbylo, nežli se stát kontrarevolucionářem. Protože cosi mezi, pozice nezaujatého pozorovatele, neutralita, anirybaanirakovština se v revoluci netrpí. Kdo nejde s námi, jde proti nám. I kdyby proti nám nešel.
 
 A kontrarevolucionářům po vítězné revoluci nezbývá než se uchýlit do podzemí – těm statečnějším, pokud se jim podaří uniknout gilotině – a podvratnou činností revoluci podvracet. Nebo v pravou chvíli uprchnout do exilu a oddat se svízelnému osudu exulanta.
@@ -57,7 +59,9 @@ Ráno se Petr Semlela probudil v posteli s nebesy a bylo mu docela dobře, t�
 
 Tímto neobvyklým způsobem začal Petru Semlelovi krušný život exulanta. – Naštěstí měl zkušenosti s určováním světových stran nabyté v dětství na pionýrském táboře v Zálužném nad Moravicí a podle lišejníků na stromech a tvaru mravenišť poznal, kde je sever. Od severu odvodit ostatní světové strany už je pro inteligentního a vzdělaného jedince hračka.
 
-  
+</section>
+
+<section>
 
 Kdyby nebyl Petr Semlela v sibiřské tajze, nýbrž v prořídlém středoevropském lese, mohl usednout k jídlu na pařez. My bychom mu poradili, aby si – než usedne – pařez pečlivě prohlédl, aby se nedopustil podobné pošetilosti, jaké se před časem dopustil Dušan Beránek, když ho dva policisté požádali, aby si zul boty, a on usedl na pařez zcela čerstvý, prosmolený. V tajze, kde hodlal stolovat vyhládlý Petr Semlela, nemohlo k něčemu takovému dojít. Do těchto bohem i lidmi opuštěných míst nezavítá dřevorubec, jak je rok dlouhý. Tajga je obrovské území, nehostinné, pusté, liduprázdné.
 
@@ -79,7 +83,9 @@ Když se začalo smrákat, pomyslel Semlela na večeři a začal se ohlížet p
 
 Zatímco žvýkal chleba se sádlem a zapíjel ho vychladlým čajem, mravenci z celého okolí si dali vědět, že v tajze na vývratu třešně ptáčnice svačí tribun Lidu Petr Semlela, a někteří z nich mu vlezli do kalhot. Čertví co tam hledali. Když nic nenašli, zakousli se mu do zadku a vypustili do něj porci kyseliny mravenčí. Zakousli se chtivě, pak nemohli rozevřít kusadla a museli zůstat zakousnutí, i když Semlela odložil krajíc, sundal si kalhoty a zakousnuté mravence začal vztekle ničit holýma rukama. Ostatní, nezakousnutí mravenci se mezitím zmocnili jeho krajíců a po kouscích je odnosili do utajovaných mravenišť. Pěkně rafinovaná metoda jak uloupit hladovému tribunovi Lidu v tajze téměř celou svačinu.
 
-  
+</section>
+
+<section>
 
 Není snadné přežít v tajze na podzim, kdy příroda vydává své plody: dozrávají bukvice a žaludy, jablka a hruštičky plané, také ostružiny lze pozřít jako dezert, z některých kořínků a bylin se dá připravit výživný salát, i když nebude příliš chutný, sůl a pepř na palouku nevyroste, ani ocet ve studánce nepramení. Když jde o život, lze ocet i sůl s pepřem oželet. Naštěstí byl Semlela v mládí pionýrem – o jeho pobytu na letním pionýrském táboře v Zálužném nad Moravicí jsme se tu několikrát zmiňovali –, takže mu svízele života v panenské přírodě nedělaly těžkosti. Navíc ho doprovázel významný pomocníček, nenápadný a nesmírně užitečný švýcarský kapesní nožík s mnoha praktickými želízky. Zvlášť skvělou službu poskytl, když západní směr překřížila Semlelovi širokánská řeka tekoucí od severu k jihu. Valila se tajgou a vůkol žádný most, u břehu žádná loďka k osice přivázaná. Nezbylo než otevřít na švýcarském noži pilku a pilovat a pilovat, statnou jedli porazit, klády z ní nařezat, houžvemi svázat a na voru pracně zhotoveném veletok zdolat.
 
@@ -95,7 +101,9 @@ Medvěd zapíchl Semlelu do závěje, velice neohrabaně vylovil ze sáčku haš
 
 Naštěstí medvědi zkraje zimy usínají a spí až do jara, takže i tento medvěd v brlohu u křivé borovice po třech hašlerkách usnul a nechal Semlelovi v pytlíku dobrou polovinu bonbonů. Jakmile medvěd upadl do hlubokého spánku, Semlela mu švýcarským nožíkem podřízl hrdlo, vyvrhl ho, rozporcoval, z kožešiny pracně zhotovil cosi mezi přikrývkou a pyžamem a zimu přečkal v brlohu. Živil se syrovým medvědím a přemýšlel o tom, jak se pomstít revolucionářům, kteří mu trpký osud exulanta připravili. Nejraději by všechny podřízl švýcarským nožíkem jako medvěda. Ale ne ve spánku, nýbrž v bdělém stavu, aby si podřezávání hezky užili, jednoho po druhém. Jakkoli to bylo za daného stavu věcí nepravděpodobné, Semlela věřil, že jednoho dne se mu příležitost k pomstě naskytne. Tato víra a mražené medvědí mu dodávaly sílu potřebnou k přežití.
 
-  
+</section>
+
+<section>
 
 Jakmile sešel sníh, Semlela ze sebe sundal medvědí kožešinu, strčil do úst poslední hašlerku a vydal se na další cestu tajgou probouzející se do jarního života – směr Moskva. Čiperné veverky, kterým se podařilo přežít krutou zimu jenom díky pověstné veverčí solidaritě, házely po něm klacky, šišky a také trus, aby mu daly najevo, že ho nemají rády. Vždyť některým zcela vyplenil spíže naplněné na zimu. Ale brzy je to přestalo bavit, v jádru nebyly mstivé a měly teď na jaře jiné starosti. Ptactvo nebeské však s tribunem neblahou zkušenost jako veverky anebo medvěd nemělo, prozpěvovalo mu zvesela do kroku. Aby jim oplatil stejnou mincí, zazpíval jim několik hitů Karla Gotta: Kávu si osladím o trochu víc, Když muž se ženou snídá, Lady Karneval a ještě několik kousků podobně jímavých. Přilákána dosud neslýchanou uměleckou produkcí sbíhala se zvířena z celé tajgy, aby si udivující krásu poslechla zblízka – srny se srnci a srnčaty, rysové ostrovidi, gazely, zajíčci ušáčci a tetřevi hlušci, jeleni a daňci s rodinami a také jiná zvěř, lovná i plevelná jako kupříkladu ježci, netopýři a slepýši, a také zvěř škodlivá – zmije, ovádi a škorpioni. Všichni naslouchali Mistrovým hitům v amatérském, přesto však vcelku uspokojivém podání tribunově. A tak si pilný lovec snadno ulovil zasněného jelena, a hned bylo na snídani, oběd i večeři. Jenže se mu občas zastesklo po řízném hospodském guláši, neměl patřičné ingredience ani kotlík, a po valašských frgálech toužil ještě víc. Ty mu v tajze nikdo neupeče, i kdyby kotlík měl…
 
@@ -161,7 +169,9 @@ Odvedli Semlelu zpátky k jámě a spustili ho dolů s omluvou, že lepší u
 
 Tři dny po dvanáct hodin vyslýchali agenti TCS Petra Semlelu, než byli s výslechy hotovi. Jakmile byli hotovi, odvezli jej gazíkem po příšerné cestě do Kosigyna a z Kosigyna letadlem IL-2014 přímo do Moskvy. Nakoupili pro něj osobní prádlo ve třech vyhotoveních, šatstvo průměrné kvality pro letní sezónu, tenisky adidasky, smoking a kravatu, čepici s kšiltem, batůžek a lepenkový kufr, ostříhali ho a oholili, ubytovali jej v hotelu Stachanovec a řekli, že se odtud nemá ani hnout, musí počkat na pokyn. Ať si mezitím dobře rozmyslí, co by jako tribun Lidu v exilu mohl hostitelské zemi, Svazu euroasijských demokratických republik, nabídnout, když už ho tu živí, šatí a starají se o něj za carské peníze.
 
-  
+</section>
+
+<section>
 
 Jediné okno ze Semlelova pokojíku v hotelu Stachanovec na Starém Městě moskevském vedlo do dvorku se třemi nadrozměrnými popelnicemi, nepojízdným dvoukolákem s okovanými koly a zchátralou hrušní bez hrušek. Scházeli se tu kocouři z celého Starého Města, aby si rozdělili rajóny a nelezli si navzájem za kočkami, kterých je v Moskvě dostatečné množství pro všechny kocoury, v některých čtvrtích dokonce přebytek. Není třeba si navzájem trhat uši, zasazovat bodné a sečné rány pro nějakou kočku. A přeci k šarvátkám docházelo, hlavně v noci budil tribuna válečný pokřik a bolestné sténání. Také se sem uchyloval zdvořilý bezdomovec Alexej kníže Krivoguboj s každodenní dvoulitrovou láhví denaturované vodky, aby si ji mohl na korbě nepojízdného dvoukoláku užívat sám, nerušen jinými, nezdvořilými bezprizornými, aby se nemusel s nikým dělit. Přicházely sem také hotelové ficky s kbelíky plnými nesnědeného jídla. Vysypávaly jídlo do popelnic pro knížete Alexeje, aby si mohl po probuzení vybrat nejchutnější kousky. Také havrani zde rokovali ve větvích zchátralé hrušky a nevadilo jim, že na hrušce žádné hrušky nerostou. Zbytky jídla, které jim sytý kníže Alexej po obědě přenechával, nepohrdli.
 
@@ -262,3 +272,5 @@ Semlela mlčky ukázal ukazovákem na naši krásnou zemi, na svoji nešťastnou
 „Tři? Spousta jich tam žije, Svazáků. Desítky tisíc! Čepice prodávají a zlatá vejce, odznaky, hvězdičky, pelmeně a matrjošky, jantar v hroudách a taky kalašnikovy a tanky pod rukou, děvočky spanilé půjčují za poplatek, v šachy hrají, peníze utrácejí, na procházky chodí, v tramvajích jezdí, ba i v metru… Mnoho, přemnoho Svazáků u nás žije, dobře žije: pivo popíjejí, ze života se radují, domů se nechystají, revoluce se jich netýká.“
 
 „Nechce-li ptáček do hnízdečka, musí hnízdečko za ptáčkem,“ pravil car Ivan Líbezný-Shovívavý, tatínek všech Svazáků. „Dobřes promluvil, Petře Luďkoviči, v dohledné době ti dáme vědět.“
+
+</section>

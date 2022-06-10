@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Stále ještě prodléval v hotelu Stachanovec v pokoji s výhledem do dvora a trpělivě čekal. Vycházky neměl povoleny. Ani do čajovny si nemohl zaskočit na čaj. Možná by mu tam i lahvinku gruzínského koňaku prodali… Nějaká eura v kapse měl, snad by mu i za ně nápoj prodali. Okno směl otevřít, z okna vyhlédnout a pak je zase zavřít. Čekal, až ho car povolá. Mohlo to být zítra, pozítří, za měsíc, za dva, za dva roky, za deset let, kdoví… Ale mohlo to být každou chvíli, hned teď ho mohli povolat, a kdyby byl v tom okamžiku naproti v čajovně, mohli by ho nenajít, i kdyby ho tam hledali. Mohl by být zrovna močit, při čaji se močí zhusta, stejně jako při pivu, ne-li ještě častěji. Jaké následky by pak jeho absence mohla mít pro něj, pro hotelový personál, pro zaměstnance čajovny, těžko domyslet. V Semlelově vlastním zájmu bylo z hotelového pokoje nevycházet a čekat na carova posla, nebo posly, třeba to budou zase ti dva agenti TCS Borufkadze a Rebarborina, přívětiví lidé, anebo někdo jiný, rovnou z Kremlu, od carského dvora. Mohou si pro něj přijet automobilem jako posledně, může to být vůz tažený trojkou lošadí, mohou vyslat i pěšího posla, vždyť do Kremlu to ze Stachanovce není daleko. Mohla by to být docela pěkná procházka ulicemi Starého Města plnými rozesmátých lidí s dobráckými tvářemi.
 
 Člověk nesmí být netrpělivý, chce-li dosáhnout vysokého cíle. Čím vyšší cíl, tím více trpělivosti je zapotřebí k jeho dosažení. Čas čekání nemusí být časem ztraceným. Všechny kocoury ze Starého Města znal už Semlela jménem, seznámil se také s Alexejem knížetem Krivogubovem, který se na hotelový dvorek uchyloval stále častěji, aby na nepojízdném dvoukoláku pod zchátralou hrušní mohl v klidu vypít svoji lahvinku denaturované vodky a nemusel se o ni dělit s ostatními bezprizornými. Semlela vyhlížející z okna se s ním o láhev netahal. Skrz otevřené okno vedli spolu nekonečný dialog o podstatě lidství; Semlela si tak zdokonaloval ruštinu a obohacoval ducha o hlubokou životní moudrost, jež přivedla knížete Krivogubova až sem, na dvoreček hotelu Stachanovec. Oplátkou se s ním dělil o potravu, kterou mu přinášela Klaudia Zvonimirovna. Jídla bylo tolik, že by je sám nesnědl, a škoda zbytky vyhazovat. Kdyby všechno to jídlo snědl, byl by už jako kulička, a to Petr Semlela nechtěl připustit.
@@ -33,7 +35,9 @@ Tentokrát na špásování nedošlo. Přišli si pro něj, Klaudia Zvoni­mirov
 
 „Je to formalita, k ničemu tě to nezavazuje. Ale bez formalit se neobejdeme. Aby nám někdo někdy v budoucnu nevyčítal, že jsme okupanti.“
 
-  
+</section>
+
+<section>
 
 Kobku tři sta dvanáct znal jako svoje boty. Tady se přece seznámil s Dušánkem Beránkem. Tady spolu pilovali mříž, ještě je napilovaná, zamaskovaná rozžvýkaným zašpiněným chlebem. Daleko se s tím pilováním nedostali. Rovněž hnědé tepláky, do kterých se musel převléci, mu byly důvěrně známé. Je to oděv pro pobyt v kobce nadmíru praktický. Když mu přinesli večeři – těstovinová kolínka politá vybledlou omáčkou –, bylo na jídelní misce vyryto jeho jméno: „PŠTROS“. Dokonce dvakrát, jednou slaběji. Velice ho to potěšilo. Trvalé hodnoty zůstávají trvalými hodnotami za všech okolností. Po večeři, než odnesli vyprázdněné nádoby, podařilo se mu vyviklat ze stoličky hřebík a vyrýt do hliníkového ešusu „PŠTROS“ potřetí. Jako by se nic nezměnilo. Jenže tentokrát mělo všechno mnohem rychlejší spád. Ráno, ještě před snídaní, ho Béďa velitel odvedl k výslechu.
 
@@ -67,7 +71,9 @@ Zatímco Vrzgala vyslýchal účinnou metodou vršení slov, Pštros pozoroval �
 
 „Tak, a mám tě!“ zajásal major Vrzgala. „Tomu říkám přiznání. Nic jiného jsem od vás, člověče, neočekával. Vždyť to máte na čele napsané, že jste Pštros. Nic víc od vás nepotřebuji. Výslech je zcela formální, ale bez něj bych vás nemohl předat prokurátorovi. Zatloukání vám nepomůže, všichni vědí, kdo jste, a vaše činy jsou obecně známé. Viset budete, na to vemte jed!“
 
-  
+</section>
+
+<section>
 
 Palovi to nedalo. S Jenůfkou se sice nenudil, ale přeci jen… Vždyť je to dítě. A on chlap. Předal dítě jeho mamince, uvázal si kravatu se soptící sopkou Kaiakakapplapatlalalokul a kyticí v modřanském džbánku a vydal se k vysokánskému plotu z železných kopí s hroty vztyčenými. Kopí jsou ze železa celá, také části obvykle dřevěné jsou na nich ze železa, aby je někdo nepřeřezal pilkou nebo nezapálil. Brána je teď stále dokořán, protože vítězná revoluce dívky z ohrazení osvobodila a poskytla jim možnost volného pohybu i rozhodování: některé se rozhodly pro čtyři katovy pacholíky se sportovními automobily, jiné pro Jiřího Dostála na bílém skútru, zbytek tu zůstal jen tak. A nebyl to zbytek, nad nímž nezbude než ohrnovat nos. Tentokrát Palo na kravatu nezapomněl, jenže vyrazil pěšky. I takto prý lze chodit za děvčaty. Cestou však dostal nápad, jak dívky ohromit, otočil se na patě a upaloval zpátky. Sebevýstřednější kravata je málo, zjistil už dávno, ani motorka BMW 1200 R1200 RT nestačí. Dívky jsou stvoření sice krásná, ale náročná, rozmarná a notně vrtošivá.
 
@@ -109,7 +115,9 @@ Dívka, která klec našla, nedokázala zprvu jedinou slabiku ze sebe vydat. V 
 
 „Odvezeme je do Bohnic,“ rozhodl Palo. „V blázinci se o ně postarají nejlíp. Budou se tam cítit jako doma.“
 
-  
+</section>
+
+<section>
 
 Budovu Zemského soudu znal Pštros lépe nežli své boty; boty se mění, Zemský soud zůstává. Ani ve velké zasedací síni nebyl poprvé. Jednou tu dokonce vystoupil před velkou porotou v roli svědka obžaloby. Soudili tenkrát jistého mistra zvuku Dušana Beránka, jeho spoluvězně v kobce vyšetřovací vazby, za přípravu revoluce. Dnes je tu on hlavní postavou. Na lavici obžalovaných mezi dvěma ozbrojenými Bédi veliteli měl s ním sedět také Nykl Nyklíček, jenže neseděl, protože byl na útěku.
 
@@ -197,7 +205,9 @@ Odcházející soudce se ani neotočil, jen tak přes rameno prohodil:
 
 „Tak to má ten pan Pštros pěknou smůlu,“ řekla paní Zavázalová-Janská a strčila noviny zase zpátky do tašky.
 
-  
+</section>
+
+<section>
 
 Na Pštrosa Dušánek ani nepomyslel. Zapomněl na něj záměrně, jako se záměrně pokoušel zapomenout na všecky hrůzy, které mu život v poslední době přinesl. Pštros nebyl jeho kamarád, i když spolu seděli v kriminále. Pštros byl společenský odpad a Dušánkovi ho bývalo líto. Jenže co s ním, s nenapravitelně pokaženým lidským tvorem? Dál bude páchat zlo, kdekoli, kamkoli vkročí. Škůdce a ničitel všeho, co má nějakou hodnotu. Ničema k ničemu. Vrah. Udělal by nejlíp, kdyby nebyl. Jenže je. Vlastně by se měl Dušánek radovat, že se ho svět navždycky zbaví, když mu přinesli k podpisu Pštrosův rozsudek: trest smrti.
 
@@ -211,7 +221,9 @@ Dušánek se však neradoval. Vždyť před necelým týdnem trest smrti zrušil
 
 „Tak mu dáme, hajzlovi, milost,“ rozhodl Dušánek v prezidentské pracovně. Do rozsudku, pod soudcův podpis připsal vlastní rukou: „Prezident republiky uděluje Pštrosovi milost.“ A podepsal se čitelně, aby nemohlo dojít ke zmýlené: Dušan Beránek.
 
-  
+</section>
+
+<section>
 
 V tom čase prožíval Dušan Beránek nejšťastnější chvíle svého života. Jako by se probudil ze série zlých snů. Až dosud s ním hrál osud nelítostný ping pong, třískal do něj pálkou ze všech stran, shora i zespodu, a Dušánek se tomu nebránil. Jako by to jinak nešlo. A pokud se bránil, pak jenom chabě, chaboučce. Odmlouval mamince, ale nakonec udělal, co po něm chtěla. I vyklepaný koberec znovu vyklepal. Jako by nad ním visel imperativ nesmlouvavé autority: maminky, nadřízených, veličiny se zdviženým ukazovákem: Dušánku, to nesmíš! Dušánku, to musíš! Dušánku, cos to zase provedl! – Dušánek se jen přikrčil. Chtěl být hodný, chtěl být tím nejhodnějším chlapečkem na světě. Ale proč? Aby udělal mamince radost, aby ho všichni měli rádi. Stejně ho – ať dělal, co dělal – všichni rádi neměli. Vždyť ho chtěli popravit! Vždyť ho měli skoro popraveného. A teď, to už byl prezidentem, nejvýše postaveným občanem ve státě, ta nemilá příhoda s blázincem… Jako by byl trestán za to, že po nikom nic nechce, jenom pokoj aby mu dali.
 
@@ -241,7 +253,9 @@ Když jej udělali prezidentem, řekl: „Dobře, budu prezidentem, když jinak 
 
 „To bysme mohli,“ souhlasil prezident. „Už jsem dlouho nebyl v Lidovém domě. Už jsem dlouho neviděl normální lidi a kolegy rozhlasáky. Už je mi po nich smutno.“
 
-  
+</section>
+
+<section>
 
 Hospodský Bernardýn měl obrovskou radost, že k němu do Lidového domu zavítala hlava státu doprovázená dalšími velmi importantními personami, a div se nepřetrhl horlivostí. Nejdřív se snažil nacpat vzácné hosty do extrovny, protože byli cosi extra, a Bernardýn se domníval, že nad extrovnu není. Jenže mimořádní hosté do extrovny nechtěli. Usedli mezi Lid v lokále k dlouhému stolu a chybějící židle si přistrčili. V extrovně zasedávala Demokratická revoluční rada státu, pila pivo a ničeho podstatného se nikdy nedobrala. Už tam nezasedá, už byla rozpuštěna a její členové se rozlezli po jiných hospodách; dělají jakože nic, že nikdy v žádné Demokratické revoluční radě státu nezasedali, protože se bojí, aby jim Lid za to jejich rozhodování nedal přes hubu. Jenže to by musela dostat přes hubu hlavně Vlasta, která radě předsedala. Než přišla na to, že je ta její revoluce dokonale zpackaná.
 
@@ -278,3 +292,5 @@ Ráchel seděla Dušánkovi po boku, občas ulízla ze sklenice před sebou, ani
 Hospoda byla plná. Venku se setmělo a nikomu se nechtělo domů. Jiří Dostál se rozhodl, že se s tím srabem Lovečkem neporve, že si dá raději pivo. Skútr nechá před hospodou a domů dojde pěšky. Nálada v Lidovém domě byla stále veselejší a bujařejší, k pivu začal Bernardýn roznášet kořalku, Lid se začal objímat a zvedat ruce nad hlavu. Došlo na lidové i zlidovělé písně, a zrovna když zpívali „Co jste, hasiči, co jste dělali, že jste nám ten pívo-, pívo-, pívovárek shořet nechali“, bylo to těsně před půlnocí, začaly houkat sirény. Všechny sirény ve městě.
 
 Lidé vyběhli z Lidového domu i z ostatních hospod, vináren, kaváren a restaurací, probuzení spáči s rozcuchanými vlasy se vyklonili z oken, někteří vyběhli z domů v pyžamu nebo v noční košili v domnění, že hoří, že jim shoří dům. Ale nehořelo. Když sirény umlkly, lidé uslyšeli nad hlavami temný hukot motorů.
+
+</section>

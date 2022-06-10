@@ -3,6 +3,8 @@ title: Epilog
 contentType: prose
 ---
 
+<section>
+
 Loď pluje. Na palubě v proutěných křeslech sedí muž, žena a dítě.
 
 „Kdy už bude to Meksiko?“
@@ -37,10 +39,16 @@ Loď pluje. Na palubě v proutěných křeslech sedí muž, žena a dítě.
 
 „A kdy už bude to Meksiko?“
 
-  
+</section>
+
+<section>
 
 Loď pluje a za lodí se dělá bílá, zpěněná a hodně tlustá čára.
 
-  
+</section>
+
+<section>
 
 (Dopsáno v Praze 7. září 2014)
+
+</section>
