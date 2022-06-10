@@ -3,8 +3,6 @@ title: III
 contentType: prose
 ---
 
-  
-
 Když nemáš co, tak nekuř! – Takovou pitomost může říct kuřákovi jenom nekuřák bez představivosti, nebo kuřák, který nikdy nebyl bez kuřiva. Dušan Beránek vysedává celé dny na dřevěné stoličce bez opěradla a nekouří. Celé dny a noci oko nezamhouřil. Od chvíle, kdy mu poslední cigaretu vyhulil major Vrzgala a Béďa velitel ho vrátil zpátky do kobky tři sta dvanáct, sedí opřený o zeď a nekouří. Nekouřící kuřák je na tom zle, protože nemá co kouřit. Možná kdyby se sám svobodně rozhodl, že kouřit nebude, tak zle by mu snad nebylo, jenže Dušánek se k ničemu takovému nerozhodl. Kdyby si něco takového vzal do hlavy, musel by mít dost cigaret, které by z vlastního rozhodnutí odložil a nechal odložené tak dlouho, až by na troud vyschly, až by se na krabičce usadila vrstva prachu, a pak by je vyhodil do smetí. Kéž by tu měl aspoň takovéto, napadrť vyprahlé cigarety! Jednu by pomaloučku polehoučku vylákal z krabičky, naslinil by ji, aby nevzplála plamenem, dal by si ji mezi rty, zapálil… A kouřil! Plíce by si naplnil až do dna sklípků, chvíli by tam ten oblak držel, oblak dýmu tabákového, a pak by ho pozvolna vypouštěl do prostoru. Kobka by zkrásněla, po zdech by vykvetlo devatero lučních květů, ze smaltované jámy v rohu by to zavonělo myrhou, rozkoš by prostoupila všechny buňky Dušánkova těla, rozhrnula by se opona a symfonický orchestr, posílený smíšeným sborem moravských učitelů a učitelek, by spustil kantátu _Nicotianu._ – „Sláva! Sláva! Sláva!“ zapěli by pěvci a pěvkyně s nasazením všech hlasů a všech nástrojů. Rozezněly by se zvony: „Bim bam, bim bam, bim bam…“ – To by bylo!
 
 Nehty měl Dušánek do krvava okousané, dál okusovat nebylo co. Kuřák, který nemá co kouřit, nemůže dělat nic jiného nežli nekouřit. Na nic jiného nemá myšlenky. V pozdním odpoledni se odklopila klapka na špehýrce, v zámku zarachotil klíč a ve dveřích stanul Béďa velitel s nožem v ruce. Byl to kuchyňský nůž s širokou čepelí, takovým se dobře krájí cibule nadrobno. Jenže na krájení cibule to nevypadalo. Béďa ukázal nožem na stůl a řekl:
@@ -51,15 +49,11 @@ Pilku si mohl Dušánek nechat i s ostatním obsahem balíku, jenom štrúdl a
 
 > _Moje drahá maminko,_
 
-  
-
 > _nejprve srdečný pozdrav z vězení. Je tu teplo a také jídla je dost. Pan Béďa velitel Ti vzkazuje, že pečeš pěkné štrúdly. Balík došel v pořádku, moc Ti za něj děkuji, hlavně za cigarety a za sirky. Jenom ta párátka mi nedali, protože jsou zakázána, aby nedocházelo ke zranění těmi párátky, třeba by si někdo mohl vypíchnout oko, nebo někomu jinému. Až ve výkonu trestu jsou párátka povolena, tam už na tom tolik nezáleží. Pan Béďa velitel Ti vzkazuje, že viděl v televizi, jak poslali vězňovi do vězení pilník zapečený ve štrúdlu. Prý mně nemáš posílat žádné pilníky ve štrúdlu, to se taky nesmí. Ostatně k čemu by mi byl ve vězení pilník? Tu pilku na železo, cos mi ve štrúdlu poslala, mi chtěl nejdřív sebrat, ale když jsem slíbil, že s ní nebudu nic řezat, protože je to zakázané, tak jsem si ji směl nechat. Abych měl na Tebe památku. – Nezlob se na mne, že mě zavřeli, než jsem stačil vyklepat ten velký koberec mauri z obýváku, ale já za to fakt nemůžu, neudělal jsem to schválně. Kdo by mohl jen tušit, že na mě budou číhat v lese. Ten můj mobil, milá maminko, už bude jistě nabitý, tak ho, prosím, vyndej ze zásuvky. Ale neposílej mi ho do vězení, není dovoleno mít ve vězení telefon a telefonovat po vězení ani z vězení. Cosi by se tím narušilo. Jsou tady přísní, ale spravedliví. Na pana Šustka nespoléhej, není na něj spolehnutí, když se napije, tak se opije, a co s ním. Jen aby tě nenapadlo klepat ten velký koberec z obývacího pokoje sama! Až se vrátím z vězení, já ho vyklepu třeba dvakrát nebo třikrát po sobě, aby byl vyklepaný._
 
 _Mnoho pozdravů a přání všeho dobrého  
 Ti posílá Tvůj syn  
 Dušan_
-
-  
 
 Odpoledne se do kobky tři sta dvanáct dostavil Pštros. Byl to ten Pštros vyrytý na hliníkovém ešusu ostrým, pravděpodobně ocelovým předmětem. Dohola ostříhaný, tlustý Pštros. Že je to Pštros, bylo patrno na první pohled, protože to měl napsáno na čele: „PŠTROS“. Vytetováno dvoubarevně, modrou a červenou. Položil na podlahu deku v uzel svázanou, naplněnou osobními věcmi. Měl na sobě hnědé tepláky a pantofle bez pat; stejně jako Dušánek.
 
@@ -161,6 +155,8 @@ Než to odrecitoval, Pštros se válel na podlaze. Lekl se tak, že spadl ze sto
 
 Tak, a měli po ptákách!
 
+  
+
 Pštros patřil k typu lidí, jaký vzbuzuje obavy ještě dřív, než se projeví. Takovým lidem se Dušánek intuitivně vyhýbal, protože mu nevoněli. Nedá se říct, že by nepříjemně páchli, nebo dokonce smrděli, vychází z nich cosi nosem nezachytitelného, přesto odpuzujícího. Dušánek v sobě nechuť k Pštrosovi překonával rozumem, vždyť v kobce, v prostoru omezeném, s ním musel pobývat každý den dvacet čtyři hodiny. K výslechům už ho nevodili. Buď na něj major Vrzgala zapomněl, nebo svou práci dokonal, výsledek odevzdal nadřízeným a teď se čeká co dál.
 
 Když Béďa velitel zabavil Dušánkovu pilku na železo a vězni neměli co dělat, čas se roztáhl do šíře a jako by ustal. Těsný prostor kobky tři sta dvanáct vyplnilo napětí. Dušánek vypnul sluch, ale Pštrosovy nepříjemné přítomnosti se tím nezbavil. Pštrosovo pštrosovství pronikalo do všeho, co bylo v kobce, i do Dušánka. Nebylo možné se mu ubránit. S nesmírným úsilím, zuby nehty vyviklal z židle hřebík, nabrousil ho na betonovém okenním parapetu a vyryl do zdi své jméno: „PŠTROS“, hezky do hloubky, až k cihlám. Pak je vyryl do police, do stolu, do protější zdi a znovu do police a znovu do stolu. Po jídle vyryl Pštros „PŠTROS“ do ešusů, svého i Dušánkova. Ostatně už to na nich vyryto bylo, na obou. Vyryl to tedy ještě jednou. Ešusy po věznici kolovaly, aniž by v tom byl nějaký systém. Chodbaři je posbírali před kobkami a dopravili do kuchyně, tam byly umyty a v čase jídla znovu naplněny a poslány na oběžnou dráhu po kriminále, jako když se zamíchají karty. Pštros se radoval jak děcko z nové hračky, když k nim dorazil ešus s jeho ptačím jménem, nebo dokonce se dvěma, jeho pobyt ve vězení nabýval tím pádem na významu. Až ho propustí, cosi tu po něm zůstane. Kdepak, Pštros nesedí zbytečně.
@@ -204,6 +200,8 @@ Zděšení, které Dušánka ochromilo, se obrátilo v zuřivost. Přece se nen
 „Tak ty chceš, kemo, aby to bolelo? Tos měl říct, vole, hned,“ hučel do něj Pštros. Svíral Dušánka zezadu, v pevném objetí mu držel připažené paže. „Pan velitel Kukačka se tuze rád kouká, jak při tom teče krev.“
 
 V tu chvíli Dušánek pochopil, že katastrofě nezabrání.
+
+  
 
 Katastrofě zabránil noční prokurátor Voda. Divné příjmení pro prokurátora. Kdyby se jmenoval Šavle nebo Brus, Tvrdý nebo aspoň Pravda… Jenže příjmení si člověk nevybírá. Měl se snad z mladého Vody stát rybář nebo meteorolog, námořník či vodohospodář? Jenom kvůli příjmení? Voda chtěl být prokurátorem a byl odhodlaný udělat pro to všechno nezbytné. A hle, stal se z něj prokurátor. Zastupuje stát, žaluje přestupníky zákona a požaduje pro ně co nejpřísnější tresty. Přesně takové, jaké si každý zaslouží.
 
@@ -302,8 +300,6 @@ Dušánek si sundal horní slamník z hromady slamníků, ustlal lože trestní
   
 
 > _Drahá maminko,_
-
-  
 
 > _nejprve přijmi srdečný pozdrav z vězení. Docela by se hodilo, kdybys mi zase poslala balík. Už nemám co kouřit, ale neboj se, nevyhulil jsem to sám, hodně mi s tím pomohl Pštros a taky pan major Vrzgala, protože přestal kouřit, a proto nemá svoje cigarety. Tentokrát mi neposílej žádný pleťový krém, je nebezpečný! Představ si, že mě předevčírem v noci navštívila krásná dívka Lucie. Určitě by se i Tobě líbila. Měla na sobě moc pěkné tričko, a dokonce mi uvařila kávu. Velice silnou. Vlastně mně ji přinesla uvařenou v termosce, protože v kobce se nevaří. Doprovázel ji světloplachý pán se školní písankou, noční prokurátor Voda. Umělé osvětlení mu nevadí, jen denní světlo nesnáší, proto pracuje v noci. Dost dobře jsem mu nerozuměl, a mám dokonce pocit, že ani on dost dobře nevěděl, proč vlastně za mnou přišli. Ptal se mne, jestli mám dost jídla a jestli mě netlačí postel. A to jsou věci, na které si nemůžu stěžovat. Jenom mně byla zima, protože teď zjara jsou noci ještě chladné i ve vězení. Zřejmě jen doprovázel tu pěknou Lucii, aby se sama nebála. Jenže ve vězení jí nic nehrozí, tady je každá žena v bezpečí, dozorci dozírají na pořádek a zločinci jsou za mřížemi. Na ulici by to bylo horší._
 

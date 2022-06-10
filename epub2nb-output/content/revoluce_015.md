@@ -3,8 +3,6 @@ title: VIII
 contentType: prose
 ---
 
-  
-
 Ve snu by nikoho nenapadlo, že by opravdu mohlo dojít k revoluci. Revoluce byla pivním tématem hovorů v Lidovém domě od chvíle, kdy tam začala docházet Vlasta Zlámalová. Nikdo její radikální řeči nebral vážně. Lid – i když se zdá, že je v myšlení trochu těžkopádný – se nenechá opít rohlíkem. A když si přivedla do hospody Jenůfku, bylo všem jasné, jak vážně to s tou revolucí myslí. Ani Vlastu by ve snu nenapadlo, že by mohla revoluci zažít na vlastní kůži, nebo že by dokonce někdy mohla nějakou revoluci vyvolat a postavit se do jejího čela. Vždyť to byla jenom taková hra…
 
 Hra, která přináší uspokojení. Vždyť revoluce je univerzálním řešením. Do revoluce je možné vložit naděje, revoluce dokáže splnit každé přání, revoluce všechno vyřeší. – Ale copak lze všechno vyřešit? Pokud se najde řešení, není jisté, zda je správné nebo alespoň uspokojivé. Vyřešení problému nemusí být vždycky k užitku, vždyť i smrt je řešením. Konečným řešením. Šlus, žádná revoluce nehrozí.
@@ -14,6 +12,8 @@ A přesto se jí establišment obával. Proto odsoudili Dušánka. Vládnoucí 
 Vlasta Revoluce nebažila po moci ani po majetku, měla romantické představy a touhu po něčem vzrušujícím, po životě plnohodnotném a užitečném. Její revoluce, kdyby k ní došlo, by přinesla spravedlnost. Jako by spravedlnost byla možná, jako by každý měl na ni právo. Slovo spravedlnost existuje snad v každém jazyce. A tím to končí.
 
 „Mami, mami, já mám hlad!“ ozvala se Jenůfka.
+
+  
 
 Do kobky nula nula šest se Dušánek nevrátil. Po skončení procesu a vynesení rozsudku ho dva Béďové velitelé odvedli do nejvyššího, snad pátého patra věznice, do oddělení OOO, což znamená oddělení obzvláštní ochrany, neboť se jedná o oddělení vskutku speciální, zvláštnější než zvláštní. Jsou tu jenom dvě kobky, každá pro jednoho vězně; bez oken, ale s klimatizací. Vězeňským úborem nejsou hnědé tepláky jako ve vazebních kobkách, nýbrž červené a bílé, příčně pruhované pyžamo. Tři stěny zděné, čtvrtou, čelní stěnu tvoří mříž natolik festovní a hustá, že by jí nepronikla hadí žena ani trpaslík. Prostor před mříží tvoří jakousi předsíň, hlídárnu, ve které za stolkem sedí hlídací Béďa s velice přísným, zasmušilým obličejem, dívá se pozorně skrz mříže do obou kobek a pozoruje jejich obsah. Než sem přivedli Dušánka, v kobkách se nic nedělo, obě byly vězňů prosté, takže Béďa mohl za stolkem lelkovat a nikomu, ani nadřízeným, by to nevadilo. Jenže tento Béďa nelelkuje nikdy, snad by to ani nedokázal, i kdyby mu nadřízení lelkování doporučili. Tento Béďa má střežení v krvi, proto střeží i prázdné kobky velmi bedlivě.
 
@@ -65,6 +65,8 @@ Strážný Béďa neřekl nic, neměl oprávnění poskytovat odsouzeným inform
 
 „Ty boty jsou fakt moje. Přece nezapřu svoje boty!“
 
+  
+
 Palo Loveček byl pyšný na svůj organizátorský výkon. Ještě pyšnější však byl na svůj výkon hlasatelský. Konečně promluvil na rozhlasových vlnách. Po odvysílání pořadu Kolem dokola s Petrem Semlelou, tribunem Lidu, si koupil kravatu s vyobrazením sopky Kaiakakapplapatlalalokul chrlící žhavé magma na kytici chrp v mod­řanském džbánku s lidovým ornamentem a spěchal sklízet plody svého výkonu za děvčátky do Ďífčiny. Snad se mu podaří mezi ně nepozorovaně vklouznout. Děvčátka byla informována včas, kdy si mohou Lovečka poslechnout, určitě si ho poslechla. A ta kravata se soptící sopkou! Jistě vzbudí patřičné nadšení. Něco takového nemá ani pan prezident.
 
 Děvčátka brouzdala za plotem ve spadaném listí a vícehlasně zpívala melancholické podzimní písně o zmařené lásce, nebo si špitala o půvabech jízdy na bílém skútru Jiřího Dostála v sedu spatném jako v dámském sedle na koni. Ovšemže poslouchala pořad Kolem dokola od začátku do konce, když je na něj Palo Loveček důtklivě upozornil. A už je tu. Stanul na vnější straně plotu z celoželezných kopí a prostrčil mezi nimi svoji novou kravatu se sopkou Kaiakakapplapatlalalokul, mnohem krásnější než byla kravata, kterou tu nedávno zanechal domovníkovi.
@@ -104,6 +106,8 @@ Nejhorší na tom bylo, že redaktor Ostrý už té katastrofě nemohl zabránit
 Palo nepředpokládal, že Osvald Ostrý na jeho poťouchlý kousek přijde, přesto ani tuto eventualitu zcela nevyloučil. Předpokládal ovšem, že to pan redaktor spolkne a nepoběží s tím ještě za tepla ke generálnímu řediteli. Nevěděl, jak fatální je letitá averze Osvalda Ostrého vůči Petru Semlelovi. Vzhledem k tomu, že pomáhal Ostrému zvládat kompjútrovou negramotnost, pokládal se za nepostradatelného. Jenže tady se šikula přepočítal. Kompjútrově gramotných chlapců je všude habaděj a redaktor Ostrý, i když trpí narkolepsií a děsí se počítače, není žádný hejpočkej, s nímž si může Palo orat a vláčet, nebo dokonce vytírat.
 
 „Máte padáka, Lovečku,“ oznámil generální ředitel a sebral mu kartu zaměstnance. Velkými nůžkami na papír ji přestřihl vejpůl a zahodil do koše. „Ještě vám dám dobrou radu do života, vy jeden! Až se budete někde ucházet o zaměstnání, vezměte si jinou kravatu.“
+
+  
 
 Palo byl zdrcen. Ještě včera se dotýkal hvězd a dnes padá z výšin rovnou na hubu. – Posbíral se ze země, poskládal dohromady a odloudal se do hospody zapít první životní pád. My dobře víme, že takovéto pády bývají mladým mužům ku prospěchu, jenže mladý muž to nevěděl. Myslel si, že se zbořil svět. Zboří-li se svět, je lepší zajít do hospody nežli skákat z mostu. V Lidovém domě čepuje Bernardýn pivo slušné kvality, zásoby lihovin jsou dostatečné, s výběrem vín už je to horší. Lidový dům není vinárna. Není snad rozumnější se pořádně opít nežli pomýšlet na kulku do hlavy?
 
@@ -167,6 +171,8 @@ Lid povstal. Povstal zprudka, všechny židle se zpřevracely. Byl to obrovský 
 
 „Za mnou!“ zvolala Jenůfka sedící mámě za krkem a mávala nad hlavou Lovečkovými kleštičkami. Lépe by se mávalo rudým praporem, jenže ten se v Lidovém domě nenašel.
 
+  
+
 V tom historickém okamžiku vyšel do ulic Lid ze všech Lidových domů v celé zemi, ze všech hospod, hostinců a náleven, z fotbalových i hokejových stadionů, ze všech dalších sportovišť, z továren, hutí a dolů, z polí, lesů, vod a strání, z paneláků, činžáků a rodinných domků, z kanalizace a zpod mostů, odevšad, kde přečkával špatné časy a blbou náladu. Proudy Lidu této země se valily touto zemí, slily se pod revolučními prapory do jednoho revolučního proudu, revoluční proud Lidu se vevalil do vlaků, autobusů, lodí a letadel, do osobních automobilů, na koně, na jízdní kola a na motocykly, někteří – jako například Jiří Dostál – dokonce na skútry, také pěšky táhl Lid ku Praze. Samozřejmě ku Praze, protože ve Fulneku, Osoblaze, Milevsku nebo v Drbálovicích se revoluce nedělá. Tam by si jí nikdo nevšiml a nikam by to nevedlo.
 
 Ale kam se poděl tribun Lidu Petr Semlela? V Lidovém domě nebyl, telefony nebral… Jeho nejbližší v extrovně nevěděli, co mají dělat. Někteří pomáhali Bernardýnovi stavět převrácené židle v lokále zpátky na nohy, jiní se přidali k Lidu a vyšli za Vlastou Revolucí s dělníky ruku v ruce pod prapory revoluce do ulic.
@@ -176,6 +182,8 @@ Semlela poté, co utekl z Lidového domu před rozběsněnou Ráchel v obavě,
 Jenže hned u vrátek narazil na cosi podivného: tlustí strážci tam nestrážili, ani v místnosti pro strážné se nikdo nepoflakoval, kamerový systém běžel naprázdno, bez obsluhy. Kuchařka nebyla v kuchyni, ani šofér, který si tam s ní obvykle erotickým špásováním krátí dobu čekání, než se dodusí dušené, tam s nikým eroticky nešpásoval. Semlela byl ve vile sám. Vždyť i ten pes se mu před časem zaběhl ve Stromovce a už se nenašel. Jestli ho nesnědli hladoví bezpřístřešníci…
 
 Snad by měl zatelefonovat do Lidového domu, třeba Šustkovi nebo někomu z nejbližších. Šustka vyloučil, vždyť ten chlap bydlí pod jednou střechou s Beránkovou a jsou už spolu tak daleko, že jí klepe koberce. Beránková je přece matka odsouzeného revolucionáře. Zavolal Bernardýnovi a o té pohromě se dozvěděl od něj: Lid v Lidovém domě povstal a došlo k převratu, zatím jenom židlí. Od židlí není daleko k establišmentu. Vždyť by z toho mohla být revoluce. Lid se dal do pohybu. Bez něj, bez tribuna Lidu. S takovou by na něj Lid mohl dočista zapomenout! – Co teď? Co dělat…
+
+  
 
 Selektivní naslouchání jelo naplno a chránilo Dušánka před záplavou, která se řinula z Pštrosových úst od probuzení do usnutí, bez konce, protékala mřížemi kobek na oddělení OOO a nebylo možné ten slovní průjem zastavit. Hlídací Béďa s kamennou tváří byl zvyklý na ledacos a měl zřejmě nařízeno ignorovat všechny slovní projevy svých svěřenců. Ale i tomuto otrlému muži po několika dnech začal cukat levý koutek úst a chvět se pravé oční víčko. Milosrdný dar selektivního naslouchání není dán každému. Dušánek se přikryl duchnou po bradu.
 

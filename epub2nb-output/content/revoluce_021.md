@@ -3,8 +3,6 @@ title: III
 contentType: prose
 ---
 
-  
-
 Ještě nám zbývá paní režisérka Mája Vožatá. Ano, ta, Vožatá. Přišli si pro ni do studia sedm s otvíratelnými okny dva šikovní chlapci z údržby v zelených overalech s firemním znakem rozhlasu: otevřená ústa s třiceti šesti zuby a dlaně k nim přiložené, jako by volala do veliké dálky. Když jednou v roce dojde k výročí květnového povstání, dělníci z údržby odvezou paní režisérku – její židle má kolečka – chodbami a výtahem před budovu rozhlasu a jako jedinou přímou živoucí účastnici historických dějů ji obloží červenými, bílými a namodro obarvenými karafiáty a ověnčí voňavými šeříky. Paní režisérka na pokyn pana generálního ředitele promluví o tom, jaké to tenkrát bylo, aby se nezapomnělo, aby už nikdy, protože se rádo zapomíná, a zapomínat by se nemělo, aby i mladé generace věděly a nemohly se vymlouvat, že nevěděly, že jim to nikdo neřekl. Žádné poučení, jen samé vytáčky! Lidé pak odcházejí z oslavy obohaceni a poznamenáni vzpomínkou paní režisérky tak silné, že na ni už nikdy nezapomenou, protože teď už vědí, jaké to bylo, a aby se to už nikdy neopakovalo. Teď už se nemohou vymlouvat, že nevědí, protože jim to nikdo neřekl! Paní režisérka jim to pověděla.
 
 „Moc vám to v těch zelených overalech sluší, chlapci, nedáte si se mnou trochu sherry?“
@@ -40,6 +38,8 @@ Ještě nám zbývá paní režisérka Mája Vožatá. Ano, ta, Vožatá. Přiš
 „Ale ne, paní režisérko, květnové výročí ještě není, to je až v květnu, k panu generálnímu řediteli vás doštucháme.“
 
 „Aha, k panu generálnímu řediteli, říkáte, tak to bych tu hlavu snad ani nemusela mít udělanou. A já jsem si myslela, že už je tu zase to povstání.“
+
+  
 
 Proč by nemohl být generálním ředitelem rozhlasu Metoděj Klepeta? Neváhal ani chvilku a nabídku, vlastně to byl příkaz, bez oka mrknutí přijal. Člověk, který si umí dokonale vyžehlit košili, může řídit i rozhlas. Letadlo by si netroufl, ale rozhlas? Vždyť má maturitu na jedenáctiletce, perleťové manžetové knoflíčky, solidní pleš a chuť do ředitelování. Člověk je přece tvor univerzální, ledaco snadno a rychle pochopí. Do kuchání slepého střeva by se také raději nepouštěl, ale řídit nemocnici se všemi těmi felčary a sestřičkami by určitě dokázal: Jen kuchejte, felčaři, kuchejte, já to všecko řídím. Spravit hodinky nebo diferenciál, to je svízelná věc, na něco takového jedenáctiletka nestačí. Dát do kupy pořad Ze všech koutů nebo natočit reportáž z oslav letního slunovratu v Kaménce by si netroufl, zastavovat nebo pouštět páternoster taky neumí. Ale řídit veřejnoprávní rozhlas? Hračka! Na všechno tu má lidi, samé odborníky. Jemu stačí tvářit se na poradách generálněředitelsky, a to si už nacvičil doma v koupelně.
 
@@ -121,6 +121,8 @@ Docela malá Mája si postavila zámek z písku, kamenů, piniových šišek a�
 
 „Tady budu bydlet až do smrti,“ rozhodla se paní Vožatá. „Odtud mne nikdo nevyžene.“
 
+  
+
 Kdekdo si myslí, že být prezidentem je nějaká slast, cosi úžasného, že prezident může všechno. Být nejvyšším ve státě že přináší každodenní blaho: ráno, v poledne, večer, ba i v noci. Liché jsou to představy lidu obecného. Tak ať si to aspoň jeden den zkusí!
 
 Dušánek se už ze svých traumat zotavil natolik, že mohl konečně začít s prezidentováním. Ještě nikdy předtím prezidentem nebyl, takže se musel všemu prezidentskému učit od základu. Bylo to pro něj, mistra zvuku, velice obtížné. Jaké štěstí, že zároveň s prezidentem Bouchalou nepopravili také Nykla Nyklíčka, že ho pro Dušánka ponechali naživu. Co by si teď bez něj, věrného služebníka, počal? Kdo by mu to všechno řekl, co a jak? Prezidentování, to není jenom jezdit si na zámek do Velkých Šírých Rodných Lánů, lelkovat a v zahradním domku na vrzavém loži svádět přítelkyni Ráchel Pospíšilovou! To si mohl dovolit na začátku, když mladá revoluce teprve zvítězila a státní aparát se přeskupoval, vytvářel nový, protože všechno bylo nové a lepší, vždyť revoluce všechno vylepšila, jenom něco, co revoluci prospívalo a fungovalo – kupříkladu pan Dostálek přezdívaný Mydlář a jeho čtyři pacholíci, nebo Nykl Nyklíček či Bernardýn v Lidovém domě a další a další –, to se měnit nemuselo.
@@ -165,6 +167,8 @@ Dušánek s Ráchel setrvali, konečně spolu, bez maminky. Ovšem mravence v 
 
 „To věru,“ povzdechla si Ráchel posmutněle. „Řehole…“
 
+  
+
 Trpělivost růže přináší, jenže co s růžemi? Ráchel byla trpělivá dost a dost. Dokázala se vcítit do Dušánkovy nelehké situace hlavy státu, dokázala se vcítit i do jeho rozpoložení. Lze se vůbec někdy zbavit traumatu z tak fatálních událostí, jaké musel přestát a přežít? Koho z nás odřízli v posledním okamžiku z šibenice? Kdo z nás zažil něco podobného a zdolal to ve zdraví? Který z psychiatrů je natolik znalý, aby mohl říct: Tento pacient už není pacientem, tento člověk je zdráv! – Ráchel do jisté míry také chápala, že vztah matky k synovi, kterého vychovala sama, bez otcovského podílu, může být dosti svérázný, majetnický, zaslepený a netolerantní. A také vztah syna k dominantní a hýčkavé matce nemusí být zrovna jednoduchý… Ale sebetrpělivější trpělivý a sebechápavější chápavý trpělivost a chápavost časem ztrácí, a trvá-li to dlouho, stane se netrpělivým a nechápavým.
 
 Ráchel bloumala po Hradu jako bludná duše bílé paní Perchty zazděné. Chodbami bloumala a chodbičkami, komnatami neobydlenými a zákoutími zastrčenými, schodišti a sklepeními, z oken vyhlížela, po ptácích se dívala, takoví bílí tudy poletují a pokřikují po sobě, v podhradí se hemží lidé, chodí sem a tam, míjejí se a potkávají, za ruce se vodí, do očí si hledí, kávu pijí, psy peskují, po psech uklízejí, v autech jezdí a v tramvajích, pivo pijí a cosi pojídají z papírových kornoutů, ptáky v letu krmí nedojedky… Ráchel sama po Hradu bloudí, ale je to lepší, než kdyby si povídala s tchyní netchyní o klepání koberců za ranního kuropění, před revolucí, během revoluce a po ní.
@@ -180,6 +184,8 @@ A hle, předvídavá Ráchel nejednala spontánně, únos prezidenta nebyl okam
 V samotných základech Hradu, v komůrce spoře osvětlené voskovicí zcizenou v katedrále, mrskla Ráchel Dušánkem do pelíšku, servala z něj prezidentský oblek a všechno ostatní, jenom s kravatou se nezdržovala a s ponožkami nesnadno sundatelnými, sukénku si vykasala a vhupla na pana prezidenta celá divá. Není divu po tolikém odříkání. Teď vzala věc do svých rukou. V prastaré kostnici je snad paní Beránková nenačapá.
 
 Zápasili spolu, jako by šlo o život. Bylo to slastné. Milovali se mocně, a ještě, a ještě, a ještě… Zmoženi usnuli jeden přes druhou, jedna přes druhého, spleteni do klubíčka.
+
+  
 
 Činorodá Vlasta, Vlasta Zlámalová, Vlasta Revoluce – copak dělá asi? Češe si své rozcuchané vlasy a vzpomíná na staré časy, nebo někde u jezera do vody hledí vztekle, na stulíky stulené, na lekníny leklé? Není to tak dávno, kdy přesvědčeně a přesvědčivě v Lidovém domě hlásala: Něco se s tím už musí udělat. Čeho je moc, toho je příliš. Lid vydrží hodně, i štípání dříví na zádech, i sem tam nějaké to plivnutí do tváře. Ale pozor! Ono se to hromadí, ono se to sčítá, trpělivost má své meze. Lid už toho začíná mít dost. Čeho? Všeho: bezvládí a zkorumpované justiční mafie, nefunkční policie spřažené s organizovaným zločinem, absence parlamentu, zvlčilé armády bez velení, pokleslé kultury, kulhavého sportu a tělovýchovy, kácení stromů v lesích, zpozdilé dopravy i spojů, pokulhávající těžby uhlí a nerostů, energetiky v kolapsu, Michala Davida a také neobnovovaných obnovitelných i neobnovitelných zdrojů, přemnožených strak a holubů, anarchistů, automobilistů a cyklistů, hokejistů, krtečka, ekologů, egyptologů, etymologů a entomologů, zkrátka všeho!
 
@@ -248,6 +254,8 @@ Ještě nebyla pod kopcem, když do prezidentské pracovny vrazil bez klepání 
 „Hele, Dušánku Beránku, sleduj mě a dobře se dívej,“ řekl Pštros a docela zvolna, pomalu dekret roztrhal; nejdřív podél, pak napříč a pak na docela malé kousky, nepatrné kousíčky. Vyhodil je ke stropu, ale až tak vysoko nedoletěly, byly lehké, zvolna se snášely dolů. „Sněží!“ zasmál se Pštros. „Demokratická revoluční rada státu je proti a revoluční úderky, kterejm velím já, jsou taky proti. Revoluce eště neskončila. Tak co se střapíš, píčo!“
 
 „Co mám dělat,“ přitakal pan prezident rezignovaně.
+
+  
 
 V Lidovém domě se Vlasta nemohla opít na maděru. Vždyť tam v extrovně každý pracovní den předsedá Demokratické revoluční radě státu, nejvyššímu státnímu orgánu, který za revoluce nahradil obě komory parlamentu i vládu se všemi ministerstvy. Jedno až tři pivka během zasedání rady, a dost! Žádná kořalička, mohla by ztratit glanc, a to si Vlasta Revoluce před radou nemůže dovolit. Ale teď se chce opít na maděru.
 

@@ -3,8 +3,6 @@ title: II
 contentType: prose
 ---
 
-  
-
 U dveří do bytu zazvonil zvonek, ale nebyla to listonoška s doporučenou zásilkou ani chudý chlapec přiživující se roznášením letáků se slevami jogurtů a lyžařského vázání, byl to soused Šustek, ten ožrala, který by paní Beránkové s kobercem nepomohl, ani kdyby chtěl, protože by nemohl, ledaže by byl výjimečně střízlivý. Jestli by ovšem i střízlivý ten koberec z obývacího pokoje zvedl! On ten Šustek, když byl výjimečně střízlivý, míval tak strašnou kocovinu, že na tom byl s klepáním koberců hůř, než kdyby byl na počátku dalšího kola pití. Jenže když byl na začátku dalšího kola pití, nikdo by ho z hostince Lidový dům nevyprostil ani čtyřmi páry bílejch koní. Šustek nebyl k použití za žádných okolností. Zvonek u dveří zazvonil, a paní Alžběta Beránková nemohla uvěřit vlastnímu oku. I když vyměnila levé za pravé, huba zkreslená optikou kukátka zůstala stejná. Vypadala jako předvánoční kapr v kádi na chodníku před obchodním domem Kotva. Skutečně to byl Šustek ve střízlivém, zdá se, stavu. Paní Beránková zahákla bezpečnostní řetízek, odemkla dva západy a pootevřela dveře.
 
 „To je od vás hezké, pane Šustek, že mně s tím kobercem z obývacího pokoje chcete pomoct. Sama bych to sotva zvládla.“
@@ -49,6 +47,8 @@ Stalo se toho krásného jarního odpoledne, kdy hrdličky cukrovaly v korunác
 
 Pan Šustek tedy klepal a klepal a klepal, dokud paní Beránková neřekla dost.
 
+  
+
 Když je někdo zavřený ve vězení, nemůže mistrovat zvuku ve veřejnoprávním rozhlase. Jenže kvůli tomu se nepřestane vysílat. Nemůže-li mistr, musí zaskočit učedník, Palo Loveček.
 
 Palovi šlo mistrování zvuku svižně od ruky, i když byl dosud ještě v rozhlase pouhým učedníkem. Byl to inteligentní a ctižádostivý chlapec, absolvent elektrotechnické průmyslovky a nadaný zvukař. Jenomže měl ambici promluvit do éteru. Aspoň jednou, jedinkrát. I když je posouvání jezdců, zapínání a vypínání mikrofonů, ovládání veškeré zvukařské techniky nejen ve studiu, ale také v přenosovém voze a v terénu mnohem složitější a náročnější na úsudek i znalosti, než pouhé povídání do mikrofonu – vždyť mluvit dokáže i malé dítě a číst se naučí většina populace už v první třídě –, připadalo Palovi znamenitější předčítat něčí texty a vypouštět je do éteru, nežli vládnout komplikované technice. Aspoň předpověď počasí kdyby mu někdy nechali… Pošetilý chlapec! Zrovna teď, když zavřeli mistra zvuku Dušana Beránka do vězení, naskytla se mu jedinečná příležitost vyniknout jako zvukař. Pouhý učedník Palo může samostatně mistrovat zvuku! S takovou bude vbrzku tovaryšem zvuku a plat mu zvednou o slušnou sumičku. Mohlo by mu být hej, kdyby ho nesžírala ta pošetilá ambice, ke všemu ještě utajovaná, protože si s ní netroufl vyrukovat. Možná kdyby se svěřil paní režisérce Vožaté, nějaká cestička by se mohla najít, kdyby hlasatel pan Klepeta náhle ochraptěl, aspoň drobná ohláška: „Vyslechli jste _Tiká tiká politika_, hru Jiřího Adámka“; nebo: „Sparta Praha – Baník Ostrava tři tři.“ To by stačilo, myslí si Palo teď. Teď by mu to možná stačilo, jenže s jídlem roste chuť, a co víme o nitru ctižádostivého chlapce! Že by se spokojil jen s takovým štěkem? Vždyť kdyby si sehnal patřičné konexe ve vedení, mohl by po čase vyšťouchat Metoděje Klepetu z hlasatelny. A to by paní režisérka nepřipustila.
@@ -82,6 +82,8 @@ Metoděj Klepeta chtěl být režisérem kvůli zvýšení společenské presti�
 Zatímco mladý, čiperný a inteligentní Palo Loveček by byl tuze rád hlasatelem, kdežto pan redaktor Ostrý by byl tuze rád důchodcem, protože domnělá, zdánlivá, digitální skutečnost ho přesahovala a slova proměněná v číselné údaje a strmé křivky ho dokázala zcela ochromit. Jako důchodce by se konečně do sytosti vyspal.
 
 A Dušan Beránek by byl nejraději s nimi v rádiu. Protože Dušánek byl velice spokojeným mistrem zvuku a netoužil po ničem jiném nežli po svém rozhlasovém zvukařství.
+
+  
 
 Lid seděl v Lidovém domě a pil pivo Bernard z Humpolce, protože žádné jiné pivo v Lidovém domě nečepovali. Pivo Bernard Lidu chutnalo. Lidu pivo chutná. Některý si k tomu dal vodku, někdo rum, jiný becherovku nebo jinou kořalku, anebo nic. Lid je rozmanitý, někdo rád holky, jiný vdolky, další volky nevolky vypije, co mu nalijí, a je mu docela jedno, co mu nalili. Když není výběr, není možnost volby. Když není možnost volby, Lid bere, co je. Kdyby v Lidovém domě čepovali sto jedenáct druhů piva, nastal by zmatek, Lid by upadl do bezradnosti a nevěděl by co by. Proto je dobře, že se hospodský Bernardýn rozhodl pro jeden druh piva, pro ten, který chutná jemu, Bernardýnovi, a také všemu Lidu v Lidovém domě. Komu nechutná, ať chodí do jiné hospody.
 
