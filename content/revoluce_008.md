@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Sedí na dřevěné stoličce bez opěradla, zády se opírá o zeď a kouří jedenáctou cigaretu z krabičky. Ještě jich má devět. Až je dokouří, co pak? Oblečený je v hnědých teplácích, pod nimi dlouhé modré spodky s tkaničkami a košile bez límce; na nohou pantofle. Není to elegantní, ale je to pohodlné. Však nemá namířeno do hospody, ani do divadla, ani do rozhlasu. Je tu sám. Až vykouří poslední cigaretu, nebude mít co kouřit. Kouření škodí zdraví, kouření způsobuje rakovinu, kouření zabíjí. Nebude kouřit. Místnost je malá, říká se jí cela nebo kobka, po starodávnu. – Hopky z kobky, trestníče!
 
 Včera odpoledne vyrazil Dušánek Beránek do lesa na procházku. Hned za domem je louka plná lučního kvítí, srnka se po ní mnohdy proběhne, za loukou březový hájek s třemi duby, pak zase louka a za ní les plný divokých zvířat.
@@ -81,7 +83,9 @@ Teď by se hodil telefon. Dušánek by zavolal mamince, ať si nedělá starosti
 
 Když dorazili na dvůr věznice, nemohli Dušánka vytáhnout z auta, přilepil se prosmoleným zadkem k čalounění. Tahali ho jako dědek řepu, tahali, tahali, vytáhnout nemohli. Zavolali na pomoc strážmistra Kočku a pak ještě nadstrážmistra Myšku, tahali, tahali… Vtom Dušánek rup, vyletěl jak zub!
 
-  
+</section>
+
+<section>
 
 To by se přece nemělo, uloupit někoho v lese. Bez varování. Ani sojka nezakřičela. A měla by, když se do lesa vloudí vetřelec.
 
@@ -133,7 +137,9 @@ To by se přece nemělo, uloupit někoho v lese. Bez varování. Ani sojka neza
 
 – A nevymluvíš jí to, ani kdyby ses…
 
-  
+</section>
+
+<section>
 
 Vedli ho s rukama v železech přes dvůr, bočním vchodem do budovy a potom dlouhou chodbou plnou železných dveří, tajuplnou budovou k výtahu, rachotivým výtahem až nahoru, do kdovíkolikátého patra. Byl jako v mrákotách. Kdyby se ho zeptali, co se to děje, ani na smolný pařez by si nevzpomněl. Zřejmě trpí lehkou dysfunkcí, která ho ochraňuje od nepříjemných zážitků, vymazává mu je z vědomí, takže Dušánek je stále jako nový, nepopsaný.
 
@@ -179,7 +185,9 @@ Všechno je tu jakési kalně zelené a hnědé, špinavé a oprýskané, těs
 
 „Major Vrzgala je piča!“
 
-  
+</section>
+
+<section>
 
 – Tohle by se nemělo, toto: Sebrat člověka v lese, navléct na něj cizí tepláky, cizí pantofle a zamknout za ním dveře bez kliky. Jako bych byl zloděj, raubíř, loupežník. Kdyby mi aspoň řekli, co jsem provedl…
 
@@ -217,7 +225,9 @@ Všechno je tu jakési kalně zelené a hnědé, špinavé a oprýskané, těs
 
 – Jenže, jenže! Jenže co já o něm vím?
 
-  
+</section>
+
+<section>
 
 K snídani byl vnitřní díl ešusu s hnědou, mléčně zakalenou tekutinou a chleba docela čerstvý, včerejší, v dostatečném množství. Když Dušánek dojedl – moc toho nesnědl – a zametl kobku smetáčkem na smetí, v zámku to zarachotilo, dveře se otevřely a ve dveřích Béďa velitel, klíčník s klíči v ruce. Kývne, Dušánek si strčí pod bundu krabičku s posledními čtyřmi cigaretami a škatulku sirek, z nichž některé prskají, jiné jsou ohnivzdorné. Tentokrát kráčeli chodbami podle vězeňských předpisů: ruce za zády, pět kroků před Béďou velitelem, doleva, doprava, rovně podle pokynů; když někoho potkají, nosem ke zdi, žádná židle už nepřekazí žádné míjení.
 
@@ -315,7 +325,9 @@ Dušánek směl přistoupit ke stolu, aby podepsal protokol. Bylo mu trapně, tu
 
 Dušánek s úlevou podepsal. Už se těšil do kobky s číslem tři sta dvanáct. Je tam v rohu smaltovaná díra v podlaze a nad ní vodovodní kohoutek s pitnou vodou.
 
-  
+</section>
+
+<section>
 
 > _Chlapče, chlapče,_
 
@@ -324,3 +336,5 @@ Dušánek s úlevou podepsal. Už se těšil do kobky s číslem tři sta dvan
 _Zároveň Ti posílám balík s cigaretami a jablkovým štrúdlem, až ho budeš krájet, dávej pozor, aby sis neztupil nůž, jestli tam nějaký máš. Kdybys neměl, poslat bych Ti ho nemohla, nůž prý se do kriminálu nesmí, píšou na takovém papírku z věznice, co se smí a co se nesmí, tak nůž ne, ani telefon, ani prášky na hlavu. Tak to lámej na kusy, co se dá dělat. A buď tam hodný, aby Tě brzy pustili na ten koberec._
 
 _Tvá ustaraná maminka_
+
+</section>

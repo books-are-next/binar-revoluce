@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Petr Semlela nevěděl předem, co bude do rozhlasu povídat, až bude – bude-li – připuštěn k mikrofonu. Celou svou bytostí měl namířeno do rozhlasu, jako by rozhlas byl to nejdůležitější, co mu život může poskytnout, jako by neexistovalo nic většího, oč lze usilovat. Jako by, až promluví do rozhlasu, změnil svět, sáhl si na hvězdy.
 
 Oslava Dušánkových třicátých sedmých narozenin se chýlila k závěru. Nebyla to slavnost kdovíjak bouřlivá, opil se na ní pod obraz jenom pan Šustek, ale ten se pod obraz opije pokaždé, má-li k tomu příležitost, i když pije jenom lichá piva a kořalku z malých štamprlí. Naštěstí má pan Šustek opičku mírnou a nevtíravou, usměvavou; je-li naplněn alkoholem, jako by překypoval štěstím. Společnost v obývacím pokoji nerušil, ubytoval se v kuchyni vedle sudu a ponořil se do hlubin svého vnitřního života. Ostatně jaká společnost, vždyť tam byli s paní Beránkovou a Palem Lovečkem tři. Nikdo další z Dušánkových rozhlasových kolegů nepřišel. Přišel však tribun Lidu Petr Semlela, očekávané překvapení.
@@ -75,7 +77,9 @@ Slova se z úst snadno vypouštějí. Zvláště tomu, pro nějž jsou slova le
 
 Po Semlelovi nemůže nikdo chtít, aby se postavil do čela nějaké revoluce, když výsledek je nejistý. Nemůžeme vědět, jak to dopadne. Víme však, jak by to mohlo dopadnout a jak to dopadalo v dějinách. Nejlepší asi bude, když se svět zbaví revolucionářů předem, než k té neprozřetelnosti dojde, než uvedou masy do pohybu a zaviní nezvratné neštěstí. Kdepak, Semlela si nevezme na svědomí, aby se přimlouval za osvobození šíleného revolucionáře, který hodlá změnit svět. Ještěže ho vypátrali, polapili a zavřeli. Jestli je nevinen, od toho jsou tu policie a prokuratura, aby to zjistili, a soud, aby rozhodl, co si zaslouží. Justice se přeci nedopouští justičních omylů záměrně, justice v řádném státě se chce dobrat pravdy a spravedlivě rozhodnout. Copak on, tribun Lidu, se může míchat spravedlnosti do řemesla? Copak mohou matka a milenka posoudit, čeho se Dušan Beránek dopustil?
 
-  
+</section>
+
+<section>
 
 Pro tribuna Lidu to bylo nedůstojné. Účel však světí prostředky a jsou chvíle v životě lidském, kdy důstojnost musí jít stranou. Pro naplnění velké myšlenky i důstojnost lze obětovat. Zatímco Palo složitě zdůvodňoval rozespalému nočnímu vrátnému v kukani uprostřed vstupní haly, proč zrovna teď musí mít klíč ke studiu sedm, protože tam potřebuje do zítřejšího natáčení pro paní režisérku Vožatou vyměnit červený drát za modrý, aby impulsy řádně tepaly, plížil se přikrčený tribun Lidu podél zdi a ukrytý za automatem s kokakolou čekal, až vrátný Lovečkův výklad pochopí alespoň z části a klíč mu vydá. Nebyla to situace přiměřená tribunovu postavení. Kdyby noční vrátný spatřil Semlelu v hale, určitě by sklapl kufry a zdvořile toho vipáka přivítal. Ráno by o tom vyprávěl manželce a odpoledne štamgastům v hospodě Na Rožku, kdekomu by se pochlubil, že byl u něj v rozhlase tribun Lidu. To by se mohlo donést generálnímu řediteli a průšvih by se těžko vysvětloval. Proto nezbývalo než se uchýlit k nedůstojnému plížení rozhlasovými prostorami.
 
@@ -111,7 +115,9 @@ Tak pravil Petr Semlela, tribun Lidu v pořadu Kolem dokola, ukradeném redakto
 
 „Dobrý, vole,“ pochválil ho spolupachatel Palo Loveček, zvukař. „Zejtra v osmnáct deset, hned po zprávách, to pouštím místo Vostrýho keců o výskytu mladejch drozdů na Kravařsku.“
 
-  
+</section>
+
+<section>
 
 Co vykládal Semlela do rádia, o tom Lid v Lidovém domě neměl ani páru. V hospodě nikdo rádio neposlouchá, ani kdyby chtěl, protože v hospodě je takový kravál, že člověk neslyší vlastního slova, natož rádio. Do hospody se přece nechodí poslouchat, co kdo vykládá do rádia. Proto v Lidovém domě žádné rádio nemají.
 
@@ -214,3 +220,5 @@ A co pan Šustek u jejich stolu? Pil jedno pivo za druhým a prokládal to ve
 Na dámském záchodě Lidového domu, když přidržovala Jenůfku, aby se nezřítila do porcelánového jícnu, dospěla Vlasta Revoluce k rozhodnutí, že revoluce je nezbytná, protože dál už to takhle nejde. S největší pravděpodobností je doba zas těhotná revolucí a nikde žádný kloudný revolucionář, jenom Dušánek Beránek ve vězení. Vlastě nezbývá než stanout v čele. Je třeba začít s burcováním Lidu, aby povstal. Nejdřív povstání a pak revoluce. S vyburcovaným Lidem svrhnou nenáviděné tyrany a zrádce, zboří zdi žalářů a z kobky smrti osvobodí Dušánka Beránka, prvního revolucionáře této země. Nechť zhyne starý podlý svět! Na jeho troskách vykvetou růže, rudé růže svobody.
 
 „Už, mami, mami, už!“ ohlásila Jenůfka zasněné Vlastě Revoluci.
+
+</section>

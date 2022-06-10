@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 U dveří do bytu zazvonil zvonek, ale nebyla to listonoška s doporučenou zásilkou ani chudý chlapec přiživující se roznášením letáků se slevami jogurtů a lyžařského vázání, byl to soused Šustek, ten ožrala, který by paní Beránkové s kobercem nepomohl, ani kdyby chtěl, protože by nemohl, ledaže by byl výjimečně střízlivý. Jestli by ovšem i střízlivý ten koberec z obývacího pokoje zvedl! On ten Šustek, když byl výjimečně střízlivý, míval tak strašnou kocovinu, že na tom byl s klepáním koberců hůř, než kdyby byl na počátku dalšího kola pití. Jenže když byl na začátku dalšího kola pití, nikdo by ho z hostince Lidový dům nevyprostil ani čtyřmi páry bílejch koní. Šustek nebyl k použití za žádných okolností. Zvonek u dveří zazvonil, a paní Alžběta Beránková nemohla uvěřit vlastnímu oku. I když vyměnila levé za pravé, huba zkreslená optikou kukátka zůstala stejná. Vypadala jako předvánoční kapr v kádi na chodníku před obchodním domem Kotva. Skutečně to byl Šustek ve střízlivém, zdá se, stavu. Paní Beránková zahákla bezpečnostní řetízek, odemkla dva západy a pootevřela dveře.
 
 „To je od vás hezké, pane Šustek, že mně s tím kobercem z obývacího pokoje chcete pomoct. Sama bych to sotva zvládla.“
@@ -47,7 +49,9 @@ Stalo se toho krásného jarního odpoledne, kdy hrdličky cukrovaly v korunác
 
 Pan Šustek tedy klepal a klepal a klepal, dokud paní Beránková neřekla dost.
 
-  
+</section>
+
+<section>
 
 Když je někdo zavřený ve vězení, nemůže mistrovat zvuku ve veřejnoprávním rozhlase. Jenže kvůli tomu se nepřestane vysílat. Nemůže-li mistr, musí zaskočit učedník, Palo Loveček.
 
@@ -83,7 +87,9 @@ Zatímco mladý, čiperný a inteligentní Palo Loveček by byl tuze rád hlasa
 
 A Dušan Beránek by byl nejraději s nimi v rádiu. Protože Dušánek byl velice spokojeným mistrem zvuku a netoužil po ničem jiném nežli po svém rozhlasovém zvukařství.
 
-  
+</section>
+
+<section>
 
 Lid seděl v Lidovém domě a pil pivo Bernard z Humpolce, protože žádné jiné pivo v Lidovém domě nečepovali. Pivo Bernard Lidu chutnalo. Lidu pivo chutná. Některý si k tomu dal vodku, někdo rum, jiný becherovku nebo jinou kořalku, anebo nic. Lid je rozmanitý, někdo rád holky, jiný vdolky, další volky nevolky vypije, co mu nalijí, a je mu docela jedno, co mu nalili. Když není výběr, není možnost volby. Když není možnost volby, Lid bere, co je. Kdyby v Lidovém domě čepovali sto jedenáct druhů piva, nastal by zmatek, Lid by upadl do bezradnosti a nevěděl by co by. Proto je dobře, že se hospodský Bernardýn rozhodl pro jeden druh piva, pro ten, který chutná jemu, Bernardýnovi, a také všemu Lidu v Lidovém domě. Komu nechutná, ať chodí do jiné hospody.
 
@@ -110,3 +116,5 @@ Příčina tkví v minulosti, v dětské příhodě Petříka Semlely a Osval
 „Ano, pane tribune Lidu, pro vás a pro Lid to udělám.“
 
 Paní Beránková odcházela z Lidového domu ve stavu natolik povzneseném, že ji musel opilec Šustek podpírat.
+
+</section>

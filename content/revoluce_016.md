@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 Byla z toho revoluce. Co jiného, když se rozzlobený Lid vyhrne z hospod do ulic a do čela se mu postaví Vlasta Revoluce? Když doba je zralá, establišment rozežraný a degenerovaný, když naši Zlatí hoši prohrají s Pobřežím slonoviny tři nula!
 
 Muselo to dopadnout zrovna takhle? – Má-li dojít k události fatálního dopadu, k dějinnému zvratu, nestačí jeden podnět, ani jedna jediná příčina není dostatečná k tomu, aby propukla revoluce. Vždyť revoluce je nevšední dějinný úkaz. Je zapotřebí příznivého shluku okolností, jenž historici příštích generací budou pracně rozplétat a nakonec se shodnou na této vágní charakteristice: Doba už byla zralá. Nebo dokonce: Doba byla těhotná revolucí. Ano, jinak to dopadnout nemohlo a napravit nebo vrátit zpátky se to nedá, hýbat s dějinami nelze.
@@ -37,7 +39,9 @@ Legální držitelé střelných zbraní si pro ně honem odskočili domů, prot
 
 Co na to policie? Zrovna stávkovala za oprávněné požadavky a kompetentní činitelé ji zcela ignorovali. Jako by vůbec nestávkovala! Ministr vnitra byl na lovu bažantů v bažantnici zámku Konopiště s policejním prezidentem, který se svými podřízenými hochy a děvčaty nestávkoval z osobních důvodů, protože plat měl dostatečný, červený obušek mu přidělili při nástupu do funkce a teplé zimní prádlo vyfasoval v centrálním skladu policejního teplého prádla ve dvojím vyhotovení protekčně. Neměl žádný důvod stávkovat. Bažantů bylo na Konopišti dost pro několik ministrů a policejních ředitelů, a tak stříleli jak o Silvestru, aby si toho užili, dokud jsou ve funkci a mohou střílet ze státních pušek do státních bažantů. Byl tam s nimi také ministr války, ale ten do bažantů nestřílel, protože nesnáší pohled na krev a z toho příšerného bouchání mu zaléhaly uši. Odklidil se do síně s krbem, přikládal do ohně buková polena a četl si Jiráskovo _Temno,_ které tu zanechal nedočtené arcivévoda Ferdinand. Když se stávkující policie dozvěděla o revoluci a pochopila, že si své oprávněné požadavky jen tak nevystávkuje, svlékla uniformy, oblékla džínsy, mikiny a bundičky, odložila služební obušky a se služebními pistolemi v podpažních pouzdrech se smísila s revoltujícím Lidem. Stala se jeho součástí.
 
-  
+</section>
+
+<section>
 
 Vzhledem k revoluci význam poníženého, z rozhlasu vyhozeného tovaryše zvuku Pala Lovečka notně vzrostl, snad i převýšil význam, kterému se těšil před vyhozením. Protože se přidal na správnou stranu. Kdyby tak jeho oblíbená děvčata z Ďífy viděla, jak odhodlaně kráčí po boku Vlasty Revoluce v čele revolučních mas, jak spolu s ní hrdě vstupuje do budovy rozhlasu hlavním vchodem, jistě by mu odpustila tu jeho poněkud trapnou rozhlasovou epizodu se zbabělým tribunem Lidu, která se jim tak hrubě nelíbila a za niž s ním generální ředitel rozvázal pracovní poměr pro ztrátu důvěry. Teď se tam vrací se štítem a ukazuje Vlastě Revoluci kudy. Protože to tu zná. – Samotný generální ředitel jim kráčí v ústrety a rozpřahuje ruce, všechny by je objal.
 
@@ -91,7 +95,9 @@ Nedalo se nic dělat, Jenůfka si prosadila svou, opila se jedním douškem a v
 
 „Jen aby nebylo pozdě…“ lamentovala Ráchel. „K čemu celá revoluce, kdyby mně ho popravili…“
 
-  
+</section>
+
+<section>
 
 Lid je veličina osob, které toho mají spoustu společného, ale ne všechno, všechno ne. Každý je jiný. Lidu je mnoho a není jednotný v názorech ani ve skutcích. S revolucí teď všichni souhlasí. Ano, revoluce, ano, ano, ano! Ale jak? Jak dál? Jak dál, to jim řekne Vlasta prostřednictvím rozhlasu; zformuluje názory, které Lid přijme za své, aby netápal v rozporech a bezradnosti. Zatím si krátil chvíli drancováním obchodů a zapalováním hořlavých pouličních objektů. Část Lidu se nemohla drancování nabažit, drancovala by od rána do večera a pak ještě celou noc, protože v noci je tma a požáry jsou krásné, viditelnější než za dne. A nazítří by drancovala znovu. Jiná část Lidu byla už drancování nabažena a neshledávala na něm tolik zábavného, čekala trpělivě, až Vlasta v rádiu pronese svůj proslov a řekne jim, co dál, aby to mělo smysl, aby se revoluce pohnula kupředu. Tato část Lidu přešlapovala po dlažbě z nohy na nohu a v hloučcích si vyprávěla rozmanité příběhy ze života, co viděla v televizi, jak měli hrát naši Zlatí hoši s Pobřežím slonoviny a jak nehráli, co s načatou revolucí… Velice frekventovaným tématem byly nemoci, šedý zákal, kyčelní klouby, zvláště pak infarkty, mozkové mrtvice a rakovina. Hovořilo se také o tom, jak nejlépe a nejúčinněji zazimovat chalupu či chatu, zabezpečit ji proti hlodavcům, kolik žere sitygou a jestli stojí za to, měnit letní pneumatiky za zimní.
 
@@ -107,7 +113,9 @@ Vyděšený establišment si uvědomil, že z tajných skrýší a soukromých
 
 Gorily otevřely ledničky, bary a sklepy svých zaměstnavatelů, a kdo se chtěl vykoupat v teplé vodě, tomu půjčily plavky. Lidu ve čtvrti bohatých došlo, že revoluce je vlastně veliká, všelidová slavnost. Na ostříhaných trávnících ve spadaném listí a na zahradních stolech se jedlo, pilo, hodovalo, vyhrávala hudba reprodukovaná i živá, grily se žhavily, ohně plály, střílelo se do vzduchu, veselilo, radovalo… Zítra se nejde do práce, děti nemusí do školy, je revoluce!
 
-  
+</section>
+
+<section>
 
 Do tiché věznice se vkrádal večer. Počátkem listopadu se večer vkrádá už odpoledne a nedá se s tím nic dělat, nanejvýš rozsvítit. Na oddělení OOO se rozsvěcet nemuselo, svítí se tam nepřetržitě, protože tu nejsou okna a strážný Béďa musí vidět na vězně. U vězňů odsouzených k trestu smrti se předpokládá větší motivace k pilování mříží.
 
@@ -133,7 +141,9 @@ Pod Dušánkem se podlomila kolena. Už je to tady: jeho poslední řízek.
 
 „Měl bych si umýt ruce,“ řekl tiše. Před jídlem si vždycky umývá ruce, maminka na to dbala. Aby se nenakazil ošklivou nemocí. Aby neumřel.
 
-  
+</section>
+
+<section>
 
 Ráchel se celou dobu, co táhli na rozhlas a také v rozhlase, snažila Vlastu přesvědčit o prvořadosti osvobození Dušánka. Vždyť byl odsouzen k trestu smrti a neví se, kdy bude popraven. Co když dnes večer nebo zítra ráno? Co když je už dokonáno a vzhledem k revolučnímu dění zpráva o popravě Dušana Beránka nebyla zveřejněna?
 
@@ -165,7 +175,9 @@ Palo vypnul mikrofon a pustil do éteru Smetanu: „Uhodila naše hodina! Otev�
 
 „Na Hrad!“ zahlaholila Jenůfka radostně. „Za princeznama!“
 
-  
+</section>
+
+<section>
 
 Řízek vypadal pěkně a panu Dostálkovi zřejmě chutnal; byl osmažený do temnějšího zlatova a přetékal talíři přes okraje. Pacholíci ve fracích se sice tvářili číšnicky odtažitě, jistě by však takovýmto řízkem nepohrdli. Ani příbor by nemuseli, klidně by ho vzali do rukou. Dušánek nejedl, nedokázal polknout jediné sousto. Také polévku nechal stát. Už vystydla. Studená polévka není k ničemu, ale řízek se dá jíst i vychladlý. Láďa, Sváťa, Kája a Pepíček budou o něj losovat. Kdyby ho rozkrájeli na čtyři díly, dostalo by se na každého. Není však jisté, že by kráječ krájel spravedlivě. Jistě by na někoho vybyl menší kousek. Pak by si záviděli, osočovali by se, a to by vedlo k nevraživostem, v pevném kolektivu by vznikla trhlina. Kdo by je pak rozsoudil… Pan Dostálek? Ten se prkotinami nezabývá. Losování je spravedlivé a vzrušující.
 
@@ -189,7 +201,9 @@ Pan Dostálek vyzunkl sklenici nadvakrát. Dušánek měl klapku v hrdle pevně
 
 Pacholíci se rovnou tady, na oddělení OOO, v Dušánkově kobce, svlékli z fraků, frakových kalhot a frakových košilí, odvázali si číšnické motýlky, oděvy uložili na ramínka a zavěsili na mříž. Bylo to velice dekorativní, jako na divadle, když hrají Camuse. Rázem se ocitli v černých punčocháčích. Nazí do půli těla vyndali z kufru rudé kápě a škorně se zvednutou špičkou, přepásali se opasky širokými, vybíjanými – a byli v montérkách.
 
-  
+</section>
+
+<section>
 
 Pan prezident zase pil a první dáma se na to nemohla dívat.
 
@@ -227,7 +241,9 @@ Vlasta zahlédla jen oblak zvířeného popela a listí. Když k němu přibě
 
 Hradní stráž stála ukázněně ve svých budkách a čekala na střídání. Lid, který se hrnul Matyášovou bránou a volal „Pryč s tyranem“, „Ať žije revoluce“, „Chceme svobodu“ a další, ani nenapadlo obávat se zákroku. Nepokládal hradní stráž za nebezpečí, nevěřil, že z těch jejích pochromovaných flint lze vystřelit. Jako by hradní stráž byli jenom vycpaní pajduláci na klíček, za jistých okolností způsobilí provést několik prostocviků a toporným krokem odkráčet a uložit se do krabice, než je zase vytáhnou a natáhnou. Jestli nejsou na baterky… Jenže hradní stráž byla živá a na vystřídání nepočkala: opřela flinty o strážní budky, zahodila čepice, strhala si šňůry a dis­tinkce z plášťů, rozepnula knoflíky a přidala se k Lidu.
 
-  
+</section>
+
+<section>
 
 > _Moje nejdražší maminko,_
 
@@ -252,7 +268,9 @@ Dušan_
 
 „A co já teď s tím?“
 
-  
+</section>
+
+<section>
 
 Pan prezident Bořek Bouchala žádný tyran nebyl. Ani nenáviděný. Poklidně si prezidentoval dílem na Hradě a za parného léta na zámku ve Velkých Šírých Rodných Lánech jako kterýkoli pan prezident před ním: vítal státníky ze zahraničí, přijímal pověřovací listiny vyslanců a velvyslanců, jmenoval soudce, profesory a generály, také guvernéra státní banky, jezdil na státnické návštěvy po republice i do zahraničí, vyznamenával zasloužilce, některé i posmrtně, kladl věnce na hroby i k pomníkům, zvedal vybrané dětičky a hladil je po hlavičkách, o dožínkách tancoval s farmářkami – dříve družstevnicemi, předtím selkami – polku. Směl také udílet milosti některým odsouzencům k trestu smrti, pokud jej o to požádali. Dušánek Beránek jej nepožádal. Požádaly však za něj maminka a Ráchel společně, jenže pan prezident jejich žádost omylem polil slivovicí, a když si pak zapaloval cigaretku, žádost omylem vzplála namodralým plamenem. První sekretář Nykl Nyklíček ji sice uhasil vlastníma rukama, ale takto znehodnocená žádost jako by vůbec nebyla podána. Ten intrikán Nyklíček odepsal paní Alžbětě Beránkové a Ráchel Zatloukalové, že pan prezident žádost pečlivě prostudoval, zvážil a rozhodl se nevyhovět.
 
@@ -320,7 +338,9 @@ Ráchel zanechala všech nadějí, že by Vlastu přiměla k záchraně ubohéh
 
 „Vzhůru na věznici!“ zvolal Lid a vykročil osvobodit Dušánka Beránka. Jen aby to stihli.
 
-  
+</section>
+
+<section>
 
 Dušánek to zkusil znovu, vězeňskému řádu navzdory: skočit na mříže, vylézt až nahoru jako posledně při měření a tam se pevně držet. A nepustit! Tentokrát se udrží, ať si do něj šťouchají násadou od koštěte, jak chtějí. Vždyť mu jde o život. Jenže tentokrát se mu to nepovedlo, pacholíci byli bdělejší a ostražitější než posledně. Láďa se Sváťou ho popadli za ruce, Kája s Pepíčkem za nohy, nasadili mu pouta na všechny končetiny a už se šlo. Raději ho tam odnesou, než by ho nutili, aby šel po svých. Kdyby se jim vysmekl, měli by po prémiích. Strážný Béďa povstal a salutoval tak dlouho, dokud pochmurný průvod neopustil oddělení OOO. Pštros byl ve své kobce svázaný ve svěrací kazajce, s ústy zalepenými lepicí páskou, aby nenarušoval důstojnost závěrečného aktu. Dušánek sebou škubal, caploval, chtěl se vymanit, ale pouta se mu zařezávala do údů a zkušení holomci ho drželi pevně, těm by se nevykroutil ani mladý býk. Vlekli Dušánka podél řady ocelových dveří po pravé straně chodby, jejíž levou stranu tvořila veliká zamřížovaná okna do ulice. U jednoho otevřeného okna postával Béďa velitel, pokuřoval, díval se dolů a kroutil nechápavě hlavou.
 
@@ -337,3 +357,5 @@ Ve sklepě, v ponuré betonové místnosti bez oken, čekala na Dušana Beránk
 Pacholíci postavili Dušánka na betonovou podlahu. Byl bosý, pantofle poztrácel cestou, v červeně a bíle pruhovaném pyžamu, údy v okovech. Ředitel věznice pokynul prokurátorovi, aby se ujal slova. Prokurátor Voda otevřel desky nadepsané „Dušan Beránek“ a začal cosi mrmlavě předčítat. Dušánek viděl, jak se mu pohybují rty, neslyšel však, co to mrmlá, protože naslouchat mu pokládal za zbytečné. Když ho vlekli chodbami, vzdal se všech nadějí. Slyšel hrdličky, straky a holuby, také šoupání spousty bot po dlažbě, lidské hlasy, třesk rozbíjeného skla, racky v letu nad řekou. Přistoupil k němu kněz a něco špital, zřejmě modlitbu za spásu duše. Pak mu cosi povzbudivého povídal advokát Matyáš Bruder. Vytáhl krabičku cigaret, ale Dušánek si nevzal, on přece nekouří, kouření škodí zdraví…
 
 Závěs se rozevřel a Dušánek spatřil hluboký výklenek, ve výklenku skobu a na skobě oprátku. Ale vždyť prokurátor Voda mu sliboval gilotinu, královskou smrt… Napadlo ho, jestli by nebylo lepší, kdyby ho popravili venku, ráno za úsvitu na dvorečku, s nebem nad hlavou. Potom mu pan Dostálek nasadil na hlavu černý plátěný pytlík. Dušánek se ocitl ve tmě. Kdyby ho Láďa, Sváťa, Kája a Pepíček nedrželi, sesypal by se na zem.
+
+</section>
