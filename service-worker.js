@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-23d4618';
+const CACHE = 'cache-9a9f9e4';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./revoluce_005.html","./revoluce_006.html","./revoluce_007.html","./revoluce_009.html","./revoluce_010.html","./revoluce_011.html","./revoluce_008.html","./revoluce_012.html","./revoluce_013.html","./revoluce_014.html","./revoluce_015.html","./revoluce_016.html","./revoluce_017.html","./revoluce_018.html","./revoluce_019.html","./revoluce_020.html","./revoluce_021.html","./revoluce_022.html","./revoluce_023.html","./revoluce_024.html","./revoluce_025.html","./revoluce_026.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/obalka_revoluce.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./template-images/circles.png","./style/style.min.css"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./revoluce_005.html","./revoluce_006.html","./revoluce_007.html","./revoluce_008.html","./revoluce_009.html","./revoluce_010.html","./revoluce_011.html","./revoluce_012.html","./revoluce_013.html","./revoluce_014.html","./revoluce_015.html","./revoluce_016.html","./revoluce_017.html","./revoluce_018.html","./revoluce_019.html","./revoluce_020.html","./revoluce_021.html","./revoluce_022.html","./revoluce_023.html","./revoluce_024.html","./revoluce_025.html","./revoluce_026.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/obalka_revoluce.jpg","./resources/upoutavka_eknihy.jpg","./style/style.min.css","./scripts/bundle.js","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-revoluce-23d4618",
-  "revision": "23d4618",
+  "identifier": "binar-revoluce-9a9f9e4",
+  "revision": "9a9f9e4",
   "readingOrder": [
     "promo.html",
     "revoluce_005.html",
@@ -36,8 +36,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:46:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883203191
+    "date": "Sat Jun 11 2022 11:49:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654948184495
   },
   "documents": [
     {
