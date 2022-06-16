@@ -5,10 +5,11 @@
   "title": "Revoluce!",
   "author": "Ivan Binar",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-revoluce-afebac8",
-  "revision": "afebac8",
+  "identifier": "binar-revoluce-4eb418b",
+  "revision": "4eb418b",
   "readingOrder": [
     "promo.html",
     "revoluce_005.html",
@@ -36,8 +37,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:46:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272003597
+    "date": "Thu Jun 16 2022 07:27:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364463963
   },
   "documents": [
     {
@@ -515,9 +516,9 @@
   ],
   "totals": {
     "all": {
-      "words": 97500,
-      "chars": 605382,
-      "ideas": 2251
+      "words": 97502,
+      "chars": 605393,
+      "ideas": 2253
     },
     "chapters": {
       "words": 97363,
