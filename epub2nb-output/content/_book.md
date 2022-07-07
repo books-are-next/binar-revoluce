@@ -38,7 +38,7 @@ readingOrder:
   - revoluce_024.html
   - revoluce_025.html
   - revoluce_026.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

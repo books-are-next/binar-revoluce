@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-revoluce-e8d98dd",
-  "revision": "e8d98dd",
+  "identifier": "binar-revoluce-b46ff10",
+  "revision": "b46ff10",
   "readingOrder": [
     "promo.html",
     "revoluce_005.html",
@@ -34,11 +34,11 @@
     "revoluce_024.html",
     "revoluce_025.html",
     "revoluce_026.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:54:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978077490
+    "date": "Thu Jul 07 2022 08:16:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181768035
   },
   "documents": [
     {
@@ -482,7 +482,7 @@
       "role": "chapter",
       "order": 22,
       "prev": "revoluce_025.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -495,11 +495,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 134,
-      "chars": 883,
+      "chars": 882,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "revoluce_026.html",
       "next": null,
@@ -517,7 +517,7 @@
   "totals": {
     "all": {
       "words": 97502,
-      "chars": 605393,
+      "chars": 605392,
       "ideas": 2253
     },
     "chapters": {
