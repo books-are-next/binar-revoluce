@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-revoluce-398b7c8",
-  "revision": "398b7c8",
+  "identifier": "binar-revoluce-9f63f22",
+  "revision": "9f63f22",
   "readingOrder": [
     "promo.html",
     "revoluce_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:57:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187825054
+    "date": "Thu Jul 21 2022 14:43:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414588123
   },
   "documents": [
     {
@@ -497,7 +497,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 882,
+      "chars": 883,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -517,7 +517,7 @@
   "totals": {
     "all": {
       "words": 97502,
-      "chars": 605392,
+      "chars": 605393,
       "ideas": 2253
     },
     "chapters": {
