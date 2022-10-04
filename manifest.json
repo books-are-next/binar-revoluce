@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "binar-revoluce-401221f",
-  "revision": "401221f",
+  "identifier": "binar-revoluce-8a68aaf",
+  "revision": "8a68aaf",
   "readingOrder": [
     "promo.html",
     "revoluce_005.html",
@@ -37,8 +37,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:35:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901314972
+    "date": "Tue Oct 04 2022 18:29:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908170820
   },
   "documents": [
     {
